@@ -72,6 +72,11 @@
       "source": "/library/books/McCoy/book/08.htm",
       "destination": "/library/heroin/risk-of-death-graph",
       "permanent": true
+    },
+    {
+      "source": "/library/articles/92333.html",
+      "destination": "/library/addiction/changing-images-of-the-addict",
+      "permanent": true
     }
   ]
 }
