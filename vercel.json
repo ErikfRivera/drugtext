@@ -12,6 +12,291 @@
       "source": "/library/research/mdma/archive/15/default.htm",
       "destination": "/library/mdma/substance-abuse-textbook",
       "permanent": true
+    },
+    {
+      "source": "/psychedelics/unger.htm",
+      "destination": "/library/psychedelics",
+      "permanent": true
+    },
+    {
+      "source": "/psychedelics/unger.html",
+      "destination": "/library/psychedelics",
+      "permanent": true
+    },
+    {
+      "source": "/Table/Rolleston-Report/",
+      "destination": "/reports/rolleston-report",
+      "permanent": true
+    },
+    {
+      "source": "/table/rolleston-report/",
+      "destination": "/reports/rolleston-report",
+      "permanent": true
+    },
+    {
+      "source": "/Table/Rolleston-Report",
+      "destination": "/reports/rolleston-report",
+      "permanent": true
+    },
+    {
+      "source": "/table/rolleston-report",
+      "destination": "/reports/rolleston-report",
+      "permanent": true
+    },
+    {
+      "source": "/psylib/life.htm",
+      "destination": "/library/psychedelics/seeking-the-magic-mushroom",
+      "permanent": true
+    },
+    {
+      "source": "/psylib/life.html",
+      "destination": "/library/psychedelics/seeking-the-magic-mushroom",
+      "permanent": true
+    },
+    {
+      "source": "/psychedelics/life.htm",
+      "destination": "/library/psychedelics/seeking-the-magic-mushroom",
+      "permanent": true
+    },
+    {
+      "source": "/psychedelics/life.html",
+      "destination": "/library/psychedelics/seeking-the-magic-mushroom",
+      "permanent": true
+    },
+    {
+      "source": "/library/psylib/life.htm",
+      "destination": "/library/psychedelics/seeking-the-magic-mushroom",
+      "permanent": true
+    },
+    {
+      "source": "/library/psylib/life.html",
+      "destination": "/library/psychedelics/seeking-the-magic-mushroom",
+      "permanent": true
+    },
+    {
+      "source": "/library/psychedelics/life.htm",
+      "destination": "/library/psychedelics/seeking-the-magic-mushroom",
+      "permanent": true
+    },
+    {
+      "source": "/library/psychedelics/life.html",
+      "destination": "/library/psychedelics/seeking-the-magic-mushroom",
+      "permanent": true
+    },
+    {
+      "source": "/druglibrary/schaffer/lsd/life.htm",
+      "destination": "/library/psychedelics/seeking-the-magic-mushroom",
+      "permanent": true
+    },
+    {
+      "source": "/druglibrary/schaffer/lsd/life.html",
+      "destination": "/library/psychedelics/seeking-the-magic-mushroom",
+      "permanent": true
+    },
+    {
+      "source": "/EMCDDA-Report-on-the-risk-assessment-of-mephedrone/8-description-of-the-control-measures-that-are-applicable-to-mephedrone-in-the-member-states.html",
+      "destination": "/reports/emcdda-mephedrone-risk-assessment/control-measures-in-member-states",
+      "permanent": true
+    },
+    {
+      "source": "/emcdda-report-on-the-risk-assessment-of-mephedrone/8-description-of-the-control-measures-that-are-applicable-to-mephedrone-in-the-member-states.html",
+      "destination": "/reports/emcdda-mephedrone-risk-assessment/control-measures-in-member-states",
+      "permanent": true
+    },
+    {
+      "source": "/EMCDDA-Report-on-the-risk-assessment-of-mephedrone/8-description-of-the-control-measures-that-are-applicable-to-mephedrone-in-the-member-states/Print.html",
+      "destination": "/reports/emcdda-mephedrone-risk-assessment/control-measures-in-member-states",
+      "permanent": true
+    },
+    {
+      "source": "/emcdda-report-on-the-risk-assessment-of-mephedrone/8-description-of-the-control-measures-that-are-applicable-to-mephedrone-in-the-member-states/print.html",
+      "destination": "/reports/emcdda-mephedrone-risk-assessment/control-measures-in-member-states",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/nycla/nycla.htm",
+      "destination": "/library/policy/nycla-drug-policy-task-force-report",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/nycla/nycla.html",
+      "destination": "/library/policy/nycla-drug-policy-task-force-report",
+      "permanent": true
+    },
+    {
+      "source": "/reports/nycla/nycla.htm",
+      "destination": "/library/policy/nycla-drug-policy-task-force-report",
+      "permanent": true
+    },
+    {
+      "source": "/reports/nycla/nycla.html",
+      "destination": "/library/policy/nycla-drug-policy-task-force-report",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/musto01.htm",
+      "destination": "/library/policy/opium-cocaine-marijuana-american-history",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/musto01.html",
+      "destination": "/library/policy/opium-cocaine-marijuana-american-history",
+      "permanent": true
+    },
+    {
+      "source": "/articles/musto01.htm",
+      "destination": "/library/policy/opium-cocaine-marijuana-american-history",
+      "permanent": true
+    },
+    {
+      "source": "/articles/musto01.html",
+      "destination": "/library/policy/opium-cocaine-marijuana-american-history",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/McCoy/book/50.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/golden-triangle-heroin",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/McCoy/book/50.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/golden-triangle-heroin",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/mccoy/book/50.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/golden-triangle-heroin",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/mccoy/book/50.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/golden-triangle-heroin",
+      "permanent": true
+    },
+    {
+      "source": "/books/McCoy/book/50.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/golden-triangle-heroin",
+      "permanent": true
+    },
+    {
+      "source": "/books/McCoy/book/50.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/golden-triangle-heroin",
+      "permanent": true
+    },
+    {
+      "source": "/books/mccoy/book/50.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/golden-triangle-heroin",
+      "permanent": true
+    },
+    {
+      "source": "/books/mccoy/book/50.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/golden-triangle-heroin",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/McCoy/book/Print50.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/golden-triangle-heroin",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/mccoy/book/Print50.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/golden-triangle-heroin",
+      "permanent": true
+    },
+    {
+      "source": "/books/McCoy/book/Print50.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/golden-triangle-heroin",
+      "permanent": true
+    },
+    {
+      "source": "/books/mccoy/book/Print50.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/golden-triangle-heroin",
+      "permanent": true
+    },
+    {
+      "source": "/reports/wvc/drugnota/2/drugall.htm",
+      "destination": "/reports/dutch-drug-policy-continuity-and-change",
+      "permanent": true
+    },
+    {
+      "source": "/reports/wvc/drugnota/2/drugall.html",
+      "destination": "/reports/dutch-drug-policy-continuity-and-change",
+      "permanent": true
+    },
+    {
+      "source": "/reports/wvc/drugnota/0/drugall.htm",
+      "destination": "/reports/dutch-drug-policy-continuity-and-change",
+      "permanent": true
+    },
+    {
+      "source": "/reports/wvc/drugnota/0/drugall.html",
+      "destination": "/reports/dutch-drug-policy-continuity-and-change",
+      "permanent": true
+    },
+    {
+      "source": "/reports/wvc/drugnota/3/drugall.htm",
+      "destination": "/reports/dutch-drug-policy-continuity-and-change",
+      "permanent": true
+    },
+    {
+      "source": "/reports/wvc/drugnota/3/drugall.html",
+      "destination": "/reports/dutch-drug-policy-continuity-and-change",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/wvc/drugnota/0/drugall.htm",
+      "destination": "/reports/dutch-drug-policy-continuity-and-change",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/wvc/drugnota/0/drugall.html",
+      "destination": "/reports/dutch-drug-policy-continuity-and-change",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/wvc/drugnota/2/drugall.htm",
+      "destination": "/reports/dutch-drug-policy-continuity-and-change",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/wvc/drugnota/2/drugall.html",
+      "destination": "/reports/dutch-drug-policy-continuity-and-change",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/wvc/drugnota/3/drugall.htm",
+      "destination": "/reports/dutch-drug-policy-continuity-and-change",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/wvc/drugnota/3/drugall.html",
+      "destination": "/reports/dutch-drug-policy-continuity-and-change",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/methadone/section7.html",
+      "destination": "/library/methadone/methadone-briefing/section-7-treatment-options",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/methadone/section7.htm",
+      "destination": "/library/methadone/methadone-briefing/section-7-treatment-options",
+      "permanent": true
+    },
+    {
+      "source": "/books/methadone/section7.html",
+      "destination": "/library/methadone/methadone-briefing/section-7-treatment-options",
+      "permanent": true
+    },
+    {
+      "source": "/books/methadone/section7.htm",
+      "destination": "/library/methadone/methadone-briefing/section-7-treatment-options",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/methadone/section7Print.html",
+      "destination": "/library/methadone/methadone-briefing/section-7-treatment-options",
+      "permanent": true
     }
   ]
 }
