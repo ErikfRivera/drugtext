@@ -12,6 +12,396 @@
       "source": "/library/research/mdma/archive/15/default.htm",
       "destination": "/library/mdma/substance-abuse-textbook",
       "permanent": true
+    },
+    {
+      "source": "/Table/Phantastica/",
+      "destination": "/library/psychedelics/phantastica",
+      "permanent": true
+    },
+    {
+      "source": "/Table/Phantastica",
+      "destination": "/library/psychedelics/phantastica",
+      "permanent": true
+    },
+    {
+      "source": "/table/phantastica/",
+      "destination": "/library/psychedelics/phantastica",
+      "permanent": true
+    },
+    {
+      "source": "/table/phantastica",
+      "destination": "/library/psychedelics/phantastica",
+      "permanent": true
+    },
+    {
+      "source": "/Table/Phantastica/index.html",
+      "destination": "/library/psychedelics/phantastica",
+      "permanent": true
+    },
+    {
+      "source": "/table/phantastica/index.html",
+      "destination": "/library/psychedelics/phantastica",
+      "permanent": true
+    },
+    {
+      "source": "/library/psylib/marks.htm",
+      "destination": "/library/psychedelics/search-for-the-manchurian-candidate",
+      "permanent": true
+    },
+    {
+      "source": "/library/psylib/marks.html",
+      "destination": "/library/psychedelics/search-for-the-manchurian-candidate",
+      "permanent": true
+    },
+    {
+      "source": "/psylib/marks.htm",
+      "destination": "/library/psychedelics/search-for-the-manchurian-candidate",
+      "permanent": true
+    },
+    {
+      "source": "/psylib/marks.html",
+      "destination": "/library/psychedelics/search-for-the-manchurian-candidate",
+      "permanent": true
+    },
+    {
+      "source": "/psychedelics/marks.htm",
+      "destination": "/library/psychedelics/search-for-the-manchurian-candidate",
+      "permanent": true
+    },
+    {
+      "source": "/psychedelics/marks.html",
+      "destination": "/library/psychedelics/search-for-the-manchurian-candidate",
+      "permanent": true
+    },
+    {
+      "source": "/library/psychedelics/marks.htm",
+      "destination": "/library/psychedelics/search-for-the-manchurian-candidate",
+      "permanent": true
+    },
+    {
+      "source": "/library/psychedelics/marks.html",
+      "destination": "/library/psychedelics/search-for-the-manchurian-candidate",
+      "permanent": true
+    },
+    {
+      "source": "/druglibrary/schaffer/lsd/marks.htm",
+      "destination": "/library/psychedelics/search-for-the-manchurian-candidate",
+      "permanent": true
+    },
+    {
+      "source": "/druglibrary/schaffer/lsd/marks.html",
+      "destination": "/library/psychedelics/search-for-the-manchurian-candidate",
+      "permanent": true
+    },
+    {
+      "source": "/library/druglibrary/schaffer/lsd/marks.htm",
+      "destination": "/library/psychedelics/search-for-the-manchurian-candidate",
+      "permanent": true
+    },
+    {
+      "source": "/library/druglibrary/schaffer/lsd/marks.html",
+      "destination": "/library/psychedelics/search-for-the-manchurian-candidate",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/McCoy/book/72.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/tarnished-crusades",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/McCoy/book/72.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/tarnished-crusades",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/McCoy/book/Print72.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/tarnished-crusades",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/mccoy/book/72.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/tarnished-crusades",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/mccoy/book/72.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/tarnished-crusades",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/mccoy/book/print72.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/tarnished-crusades",
+      "permanent": true
+    },
+    {
+      "source": "/books/McCoy/book/72.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/tarnished-crusades",
+      "permanent": true
+    },
+    {
+      "source": "/books/McCoy/book/72.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/tarnished-crusades",
+      "permanent": true
+    },
+    {
+      "source": "/books/mccoy/book/72.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/tarnished-crusades",
+      "permanent": true
+    },
+    {
+      "source": "/books/mccoy/book/72.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/tarnished-crusades",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/cowan.html",
+      "destination": "/library/cocaine/how-the-narcs-created-crack",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/cowan.htm",
+      "destination": "/library/cocaine/how-the-narcs-created-crack",
+      "permanent": true
+    },
+    {
+      "source": "/articles/cowan.html",
+      "destination": "/library/cocaine/how-the-narcs-created-crack",
+      "permanent": true
+    },
+    {
+      "source": "/articles/cowan.htm",
+      "destination": "/library/cocaine/how-the-narcs-created-crack",
+      "permanent": true
+    },
+    {
+      "source": "/psylib/child.htm",
+      "destination": "/library/psychedelics/lsd-my-problem-child",
+      "permanent": true
+    },
+    {
+      "source": "/psylib/child.html",
+      "destination": "/library/psychedelics/lsd-my-problem-child",
+      "permanent": true
+    },
+    {
+      "source": "/library/psylib/child.htm",
+      "destination": "/library/psychedelics/lsd-my-problem-child",
+      "permanent": true
+    },
+    {
+      "source": "/library/psylib/child.html",
+      "destination": "/library/psychedelics/lsd-my-problem-child",
+      "permanent": true
+    },
+    {
+      "source": "/druglibrary/schaffer/lsd/child.htm",
+      "destination": "/library/psychedelics/lsd-my-problem-child",
+      "permanent": true
+    },
+    {
+      "source": "/druglibrary/schaffer/lsd/child.html",
+      "destination": "/library/psychedelics/lsd-my-problem-child",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/ial6.html",
+      "destination": "/library/policy/drug-war-as-a-socialist-enterprise",
+      "permanent": true
+    },
+    {
+      "source": "/articles/ial6.html",
+      "destination": "/library/policy/drug-war-as-a-socialist-enterprise",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/ial6.htm",
+      "destination": "/library/policy/drug-war-as-a-socialist-enterprise",
+      "permanent": true
+    },
+    {
+      "source": "/articles/ial6.htm",
+      "destination": "/library/policy/drug-war-as-a-socialist-enterprise",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/ial6Print.html",
+      "destination": "/library/policy/drug-war-as-a-socialist-enterprise",
+      "permanent": true
+    },
+    {
+      "source": "/articles/ial6Print.html",
+      "destination": "/library/policy/drug-war-as-a-socialist-enterprise",
+      "permanent": true
+    },
+    {
+      "source": "/druglibrary/schaffer/hemp/medical/kaiser2.htm",
+      "destination": "/library/cannabis/kaiser-regular-pot-smoking-wont-kill",
+      "permanent": true
+    },
+    {
+      "source": "/druglibrary/schaffer/hemp/medical/kaiser2.html",
+      "destination": "/library/cannabis/kaiser-regular-pot-smoking-wont-kill",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/McCoy/book/notes7.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/golden-triangle-heroin",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/McCoy/book/notes7.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/golden-triangle-heroin",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/mccoy/book/notes7.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/golden-triangle-heroin",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/mccoy/book/notes7.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/golden-triangle-heroin",
+      "permanent": true
+    },
+    {
+      "source": "/books/McCoy/book/notes7.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/golden-triangle-heroin",
+      "permanent": true
+    },
+    {
+      "source": "/books/McCoy/book/notes7.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/golden-triangle-heroin",
+      "permanent": true
+    },
+    {
+      "source": "/books/mccoy/book/notes7.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/golden-triangle-heroin",
+      "permanent": true
+    },
+    {
+      "source": "/books/mccoy/book/notes7.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/golden-triangle-heroin",
+      "permanent": true
+    },
+    {
+      "source": "/books/McCoy",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia",
+      "permanent": true
+    },
+    {
+      "source": "/books/McCoy/",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia",
+      "permanent": true
+    },
+    {
+      "source": "/books/McCoy/index.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia",
+      "permanent": true
+    },
+    {
+      "source": "/books/McCoy/index.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia",
+      "permanent": true
+    },
+    {
+      "source": "/books/McCoy/default.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia",
+      "permanent": true
+    },
+    {
+      "source": "/books/mccoy",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia",
+      "permanent": true
+    },
+    {
+      "source": "/books/mccoy/",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia",
+      "permanent": true
+    },
+    {
+      "source": "/books/mccoy/index.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia",
+      "permanent": true
+    },
+    {
+      "source": "/books/mccoy/index.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia",
+      "permanent": true
+    },
+    {
+      "source": "/books/mccoy/default.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/McCoy",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/McCoy/",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/McCoy/index.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/McCoy/index.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/McCoy/default.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/mccoy",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/mccoy/",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/mccoy/index.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/mccoy/index.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/mccoy/default.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia",
+      "permanent": true
+    },
+    {
+      "source": "/reports/vlr/vlr3.htm",
+      "destination": "/library/policy/passage-of-the-uniform-narcotic-drug-act-1927-1937",
+      "permanent": true
+    },
+    {
+      "source": "/reports/vlr/vlr3.html",
+      "destination": "/library/policy/passage-of-the-uniform-narcotic-drug-act-1927-1937",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/vlr/vlr3.htm",
+      "destination": "/library/policy/passage-of-the-uniform-narcotic-drug-act-1927-1937",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/vlr/vlr3.html",
+      "destination": "/library/policy/passage-of-the-uniform-narcotic-drug-act-1927-1937",
+      "permanent": true
     }
   ]
 }
