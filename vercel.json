@@ -12,6 +12,311 @@
       "source": "/library/research/mdma/archive/15/default.htm",
       "destination": "/library/mdma/substance-abuse-textbook",
       "permanent": true
+    },
+    {
+      "source": "/articles/craig102.htm",
+      "destination": "/library/policy/effects-of-prohibition-on-consumption-production-distribution",
+      "permanent": true
+    },
+    {
+      "source": "/articles/craig102.html",
+      "destination": "/library/policy/effects-of-prohibition-on-consumption-production-distribution",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/craig102.htm",
+      "destination": "/library/policy/effects-of-prohibition-on-consumption-production-distribution",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/craig102.html",
+      "destination": "/library/policy/effects-of-prohibition-on-consumption-production-distribution",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/recreationaldrugs/aspirin.htm",
+      "destination": "/library/aspirin/recreational-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/recreationaldrugs/aspirin.html",
+      "destination": "/library/aspirin/recreational-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/Recreational-Drugs/aspirin.htm",
+      "destination": "/library/aspirin/recreational-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/Recreational-Drugs/aspirin.html",
+      "destination": "/library/aspirin/recreational-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/Recreational-Drugs/aspirin.html",
+      "destination": "/library/aspirin/recreational-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/Recreational-Drugs/aspirin.htm",
+      "destination": "/library/aspirin/recreational-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/books/recreationaldrugs/aspirin.htm",
+      "destination": "/library/aspirin/recreational-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/books/recreationaldrugs/aspirin.html",
+      "destination": "/library/aspirin/recreational-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/articles/havelatt.html",
+      "destination": "/library/policy/speech-by-vaclav-havel",
+      "permanent": true
+    },
+    {
+      "source": "/articles/havelatt.htm",
+      "destination": "/library/policy/speech-by-vaclav-havel",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/havelatt.html",
+      "destination": "/library/policy/speech-by-vaclav-havel",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/havelatt.htm",
+      "destination": "/library/policy/speech-by-vaclav-havel",
+      "permanent": true
+    },
+    {
+      "source": "/library/paper.html",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/library/paper.htm",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/debate/paper.html",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/debate/paper.htm",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/miroir/meducation/produits/Depresseurs/Ethanol/ethanol.html",
+      "destination": "/library/alcohol/ethanol",
+      "permanent": true
+    },
+    {
+      "source": "/miroir/meducation/produits/Depresseurs/Ethanol/ethanol.htm",
+      "destination": "/library/alcohol/ethanol",
+      "permanent": true
+    },
+    {
+      "source": "/miroir/meducation/produits/depresseurs/ethanol/ethanol.html",
+      "destination": "/library/alcohol/ethanol",
+      "permanent": true
+    },
+    {
+      "source": "/miroir/meducation/produits/depresseurs/ethanol/ethanol.htm",
+      "destination": "/library/alcohol/ethanol",
+      "permanent": true
+    },
+    {
+      "source": "/The-Marijuana-Question/3-monkeys-and-others.html",
+      "destination": "/library/cannabis/the-marijuana-question/monkeys-and-others",
+      "permanent": true
+    },
+    {
+      "source": "/The-Marijuana-Question/3-monkeys-and-others.htm",
+      "destination": "/library/cannabis/the-marijuana-question/monkeys-and-others",
+      "permanent": true
+    },
+    {
+      "source": "/The-Marijuana-Question/3-monkeys-and-others/Print.html",
+      "destination": "/library/cannabis/the-marijuana-question/monkeys-and-others",
+      "permanent": true
+    },
+    {
+      "source": "/the-marijuana-question/3-monkeys-and-others.html",
+      "destination": "/library/cannabis/the-marijuana-question/monkeys-and-others",
+      "permanent": true
+    },
+    {
+      "source": "/the-marijuana-question/3-monkeys-and-others.htm",
+      "destination": "/library/cannabis/the-marijuana-question/monkeys-and-others",
+      "permanent": true
+    },
+    {
+      "source": "/the-marijuana-question/3-monkeys-and-others/print.html",
+      "destination": "/library/cannabis/the-marijuana-question/monkeys-and-others",
+      "permanent": true
+    },
+    {
+      "source": "/press/review-on-clinical-studies-with-cannabis-and-cannabinoids-2005-2009.html",
+      "destination": "/library/cannabis/review-clinical-studies-cannabis-cannabinoids-2005-2009",
+      "permanent": true
+    },
+    {
+      "source": "/press/review-on-clinical-studies-with-cannabis-and-cannabinoids-2005-2009.htm",
+      "destination": "/library/cannabis/review-clinical-studies-cannabis-cannabinoids-2005-2009",
+      "permanent": true
+    },
+    {
+      "source": "/press/review-on-clinical-studies-with-cannabis-and-cannabinoids-2005-2009/Print.html",
+      "destination": "/library/cannabis/review-clinical-studies-cannabis-cannabinoids-2005-2009",
+      "permanent": true
+    },
+    {
+      "source": "/Cannabis-marijuana-hashisch/review-on-clinical-studies-with-cannabis-and-cannabinoids-2005-2009.html",
+      "destination": "/library/cannabis/review-clinical-studies-cannabis-cannabinoids-2005-2009",
+      "permanent": true
+    },
+    {
+      "source": "/Cannabis-marijuana-hashisch/review-on-clinical-studies-with-cannabis-and-cannabinoids-2005-2009.htm",
+      "destination": "/library/cannabis/review-clinical-studies-cannabis-cannabinoids-2005-2009",
+      "permanent": true
+    },
+    {
+      "source": "/Cannabis-marijuana-hashisch/review-on-clinical-studies-with-cannabis-and-cannabinoids-2005-2009/Print.html",
+      "destination": "/library/cannabis/review-clinical-studies-cannabis-cannabinoids-2005-2009",
+      "permanent": true
+    },
+    {
+      "source": "/articles/2574-review-on-clinical-studies-with-cannabis-and-cannabinoids-2005-2009.html",
+      "destination": "/library/cannabis/review-clinical-studies-cannabis-cannabinoids-2005-2009",
+      "permanent": true
+    },
+    {
+      "source": "/articles/2585-review-on-clinical-studies-with-cannabis-and-cannabinoids-2005-2009.html",
+      "destination": "/library/cannabis/review-clinical-studies-cannabis-cannabinoids-2005-2009",
+      "permanent": true
+    },
+    {
+      "source": "/en/press/2585-review-on-clinical-studies-with-cannabis-and-cannabinoids-2005-2009.html",
+      "destination": "/library/cannabis/review-clinical-studies-cannabis-cannabinoids-2005-2009",
+      "permanent": true
+    },
+    {
+      "source": "/pdf/press/review-on-clinical-studies-with-cannabis-and-cannabinoids-2005-2009.pdf",
+      "destination": "/library/cannabis/review-clinical-studies-cannabis-cannabinoids-2005-2009",
+      "permanent": true
+    },
+    {
+      "source": "/pdf/Cannabis-marijuana-hashisch/review-on-clinical-studies-with-cannabis-and-cannabinoids-2005-2009.pdf",
+      "destination": "/library/cannabis/review-clinical-studies-cannabis-cannabinoids-2005-2009",
+      "permanent": true
+    },
+    {
+      "source": "/conseil.htm",
+      "destination": "/library/policy/conseil-de-leurope",
+      "permanent": true
+    },
+    {
+      "source": "/conseil.html",
+      "destination": "/library/policy/conseil-de-leurope",
+      "permanent": true
+    },
+    {
+      "source": "/The-Gentlemen-s-Club/11-pressure-groups.html",
+      "destination": "/library/policy/the-gentlemens-club/pressure-groups",
+      "permanent": true
+    },
+    {
+      "source": "/The-Gentlemen-s-Club/11-pressure-groups.htm",
+      "destination": "/library/policy/the-gentlemens-club/pressure-groups",
+      "permanent": true
+    },
+    {
+      "source": "/The-Gentlemen-s-Club/11-pressure-groups/Print.html",
+      "destination": "/library/policy/the-gentlemens-club/pressure-groups",
+      "permanent": true
+    },
+    {
+      "source": "/the-gentlemen-s-club/11-pressure-groups.html",
+      "destination": "/library/policy/the-gentlemens-club/pressure-groups",
+      "permanent": true
+    },
+    {
+      "source": "/the-gentlemen-s-club/11-pressure-groups.htm",
+      "destination": "/library/policy/the-gentlemens-club/pressure-groups",
+      "permanent": true
+    },
+    {
+      "source": "/the-gentlemen-s-club/11-pressure-groups/print.html",
+      "destination": "/library/policy/the-gentlemens-club/pressure-groups",
+      "permanent": true
+    },
+    {
+      "source": "/library/psylib/zinberg.htm",
+      "destination": "/library/addiction/drug-set-and-setting",
+      "permanent": true
+    },
+    {
+      "source": "/library/psylib/zinberg.html",
+      "destination": "/library/addiction/drug-set-and-setting",
+      "permanent": true
+    },
+    {
+      "source": "/psylib/zinberg.htm",
+      "destination": "/library/addiction/drug-set-and-setting",
+      "permanent": true
+    },
+    {
+      "source": "/psylib/zinberg.html",
+      "destination": "/library/addiction/drug-set-and-setting",
+      "permanent": true
+    },
+    {
+      "source": "/druglibrary/schaffer/lsd/zinberg.htm",
+      "destination": "/library/addiction/drug-set-and-setting",
+      "permanent": true
+    },
+    {
+      "source": "/druglibrary/schaffer/lsd/zinberg.html",
+      "destination": "/library/addiction/drug-set-and-setting",
+      "permanent": true
+    },
+    {
+      "source": "/library/druglibrary/schaffer/lsd/zinberg.htm",
+      "destination": "/library/addiction/drug-set-and-setting",
+      "permanent": true
+    },
+    {
+      "source": "/library/druglibrary/schaffer/lsd/zinberg.html",
+      "destination": "/library/addiction/drug-set-and-setting",
+      "permanent": true
+    },
+    {
+      "source": "/druglibrary/schaffer/psychedelics/zinberg.htm",
+      "destination": "/library/addiction/drug-set-and-setting",
+      "permanent": true
+    },
+    {
+      "source": "/druglibrary/schaffer/psychedelics/zinberg.html",
+      "destination": "/library/addiction/drug-set-and-setting",
+      "permanent": true
+    },
+    {
+      "source": "/library/druglibrary/schaffer/psychedelics/zinberg.htm",
+      "destination": "/library/addiction/drug-set-and-setting",
+      "permanent": true
+    },
+    {
+      "source": "/library/druglibrary/schaffer/psychedelics/zinberg.html",
+      "destination": "/library/addiction/drug-set-and-setting",
+      "permanent": true
     }
   ]
 }
