@@ -12,6 +12,471 @@
       "source": "/library/research/mdma/archive/15/default.htm",
       "destination": "/library/mdma/substance-abuse-textbook",
       "permanent": true
+    },
+    {
+      "source": "/articles/marmyt1.html",
+      "destination": "/library/cannabis/marijuana-myths",
+      "permanent": true
+    },
+    {
+      "source": "/articles/marmyt1.htm",
+      "destination": "/library/cannabis/marijuana-myths",
+      "permanent": true
+    },
+    {
+      "source": "/sub/marmyt1.html",
+      "destination": "/library/cannabis/marijuana-myths",
+      "permanent": true
+    },
+    {
+      "source": "/sub/marmyt1.htm",
+      "destination": "/library/cannabis/marijuana-myths",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/marmyt1.html",
+      "destination": "/library/cannabis/marijuana-myths",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/marmyt1.htm",
+      "destination": "/library/cannabis/marijuana-myths",
+      "permanent": true
+    },
+    {
+      "source": "/library/sub/marmyt1.html",
+      "destination": "/library/cannabis/marijuana-myths",
+      "permanent": true
+    },
+    {
+      "source": "/library/sub/marmyt1.htm",
+      "destination": "/library/cannabis/marijuana-myths",
+      "permanent": true
+    },
+    {
+      "source": "/legal/treat/commentary/",
+      "destination": "/reports/commentary-single-convention-on-narcotic-drugs-1961",
+      "permanent": true
+    },
+    {
+      "source": "/legal/treat/commentary",
+      "destination": "/reports/commentary-single-convention-on-narcotic-drugs-1961",
+      "permanent": true
+    },
+    {
+      "source": "/library/legal/treat/commentary/",
+      "destination": "/reports/commentary-single-convention-on-narcotic-drugs-1961",
+      "permanent": true
+    },
+    {
+      "source": "/library/legal/treat/commentary",
+      "destination": "/reports/commentary-single-convention-on-narcotic-drugs-1961",
+      "permanent": true
+    },
+    {
+      "source": "/legal/treat/commentary/index.htm",
+      "destination": "/reports/commentary-single-convention-on-narcotic-drugs-1961",
+      "permanent": true
+    },
+    {
+      "source": "/legal/treat/commentary/index.html",
+      "destination": "/reports/commentary-single-convention-on-narcotic-drugs-1961",
+      "permanent": true
+    },
+    {
+      "source": "/library/legal/treat/commentary/index.htm",
+      "destination": "/reports/commentary-single-convention-on-narcotic-drugs-1961",
+      "permanent": true
+    },
+    {
+      "source": "/library/legal/treat/commentary/index.html",
+      "destination": "/reports/commentary-single-convention-on-narcotic-drugs-1961",
+      "permanent": true
+    },
+    {
+      "source": "/Commentary-on-the-Single-Convention/",
+      "destination": "/reports/commentary-single-convention-on-narcotic-drugs-1961",
+      "permanent": true
+    },
+    {
+      "source": "/Commentary-on-the-Single-Convention",
+      "destination": "/reports/commentary-single-convention-on-narcotic-drugs-1961",
+      "permanent": true
+    },
+    {
+      "source": "/en/law/141-commentary-on-the-single-convention-on-narcotic-drugs.html",
+      "destination": "/reports/commentary-single-convention-on-narcotic-drugs-1961",
+      "permanent": true
+    },
+    {
+      "source": "/law/141-commentary-on-the-single-convention-on-narcotic-drugs.html",
+      "destination": "/reports/commentary-single-convention-on-narcotic-drugs-1961",
+      "permanent": true
+    },
+    {
+      "source": "/Table/Commentary-on-the-Single-Convention/",
+      "destination": "/reports/commentary-single-convention-on-narcotic-drugs-1961",
+      "permanent": true
+    },
+    {
+      "source": "/Table/Commentary-on-the-Single-Convention",
+      "destination": "/reports/commentary-single-convention-on-narcotic-drugs-1961",
+      "permanent": true
+    },
+    {
+      "source": "/The-Methadone-Handbook/hiv.html",
+      "destination": "/library/methadone/methadone-handbook/hiv",
+      "permanent": true
+    },
+    {
+      "source": "/The-Methadone-Handbook/hivPrint.html",
+      "destination": "/library/methadone/methadone-handbook/hiv",
+      "permanent": true
+    },
+    {
+      "source": "/The-Methadone-Handbook/hiv.htm",
+      "destination": "/library/methadone/methadone-handbook/hiv",
+      "permanent": true
+    },
+    {
+      "source": "/the-methadone-handbook/hiv.html",
+      "destination": "/library/methadone/methadone-handbook/hiv",
+      "permanent": true
+    },
+    {
+      "source": "/the-methadone-handbook/hiv.htm",
+      "destination": "/library/methadone/methadone-handbook/hiv",
+      "permanent": true
+    },
+    {
+      "source": "/the-methadone-handbook/hivprint.html",
+      "destination": "/library/methadone/methadone-handbook/hiv",
+      "permanent": true
+    },
+    {
+      "source": "/Table/The-Methadone-Handbook/",
+      "destination": "/library/methadone/methadone-handbook",
+      "permanent": true
+    },
+    {
+      "source": "/Table/Methadone-Briefing/",
+      "destination": "/library/methadone/methadone-briefing",
+      "permanent": true
+    },
+    {
+      "source": "/Table/Methadone-Briefing",
+      "destination": "/library/methadone/methadone-briefing",
+      "permanent": true
+    },
+    {
+      "source": "/table/methadone-briefing/",
+      "destination": "/library/methadone/methadone-briefing",
+      "permanent": true
+    },
+    {
+      "source": "/table/methadone-briefing",
+      "destination": "/library/methadone/methadone-briefing",
+      "permanent": true
+    },
+    {
+      "source": "/Table/Methadone-Briefing/index.htm",
+      "destination": "/library/methadone/methadone-briefing",
+      "permanent": true
+    },
+    {
+      "source": "/Table/Methadone-Briefing/index.html",
+      "destination": "/library/methadone/methadone-briefing",
+      "permanent": true
+    },
+    {
+      "source": "/The-Methadone-Handbook/the-history-of-methadone/Print.html",
+      "destination": "/library/methadone/methadone-handbook/history-of-methadone",
+      "permanent": true
+    },
+    {
+      "source": "/The-Methadone-Handbook/the-history-of-methadone.html",
+      "destination": "/library/methadone/methadone-handbook/history-of-methadone",
+      "permanent": true
+    },
+    {
+      "source": "/The-Methadone-Handbook/the-history-of-methadone.htm",
+      "destination": "/library/methadone/methadone-handbook/history-of-methadone",
+      "permanent": true
+    },
+    {
+      "source": "/Police-Drugs/foreword.html",
+      "destination": "/library/policy/police-drugs/foreword",
+      "permanent": true
+    },
+    {
+      "source": "/Police-Drugs/foreword.htm",
+      "destination": "/library/policy/police-drugs/foreword",
+      "permanent": true
+    },
+    {
+      "source": "/Police-Drugs/foreword/Print.html",
+      "destination": "/library/policy/police-drugs/foreword",
+      "permanent": true
+    },
+    {
+      "source": "/police-drugs/foreword.html",
+      "destination": "/library/policy/police-drugs/foreword",
+      "permanent": true
+    },
+    {
+      "source": "/police-drugs/foreword.htm",
+      "destination": "/library/policy/police-drugs/foreword",
+      "permanent": true
+    },
+    {
+      "source": "/police-drugs/foreword/print.html",
+      "destination": "/library/policy/police-drugs/foreword",
+      "permanent": true
+    },
+    {
+      "source": "/Methadone-Briefing/foreword.html",
+      "destination": "/library/policy/police-drugs/foreword",
+      "permanent": true
+    },
+    {
+      "source": "/Methadone-Briefing/foreword.htm",
+      "destination": "/library/policy/police-drugs/foreword",
+      "permanent": true
+    },
+    {
+      "source": "/methadone-briefing/foreword.html",
+      "destination": "/library/policy/police-drugs/foreword",
+      "permanent": true
+    },
+    {
+      "source": "/methadone-briefing/foreword.htm",
+      "destination": "/library/policy/police-drugs/foreword",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/McCoy/book/09.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/luciano-postwar-heroin-trade",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/McCoy/book/09.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/luciano-postwar-heroin-trade",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/mccoy/book/09.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/luciano-postwar-heroin-trade",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/mccoy/book/09.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/luciano-postwar-heroin-trade",
+      "permanent": true
+    },
+    {
+      "source": "/books/McCoy/book/09.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/luciano-postwar-heroin-trade",
+      "permanent": true
+    },
+    {
+      "source": "/books/McCoy/book/09.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/luciano-postwar-heroin-trade",
+      "permanent": true
+    },
+    {
+      "source": "/books/mccoy/book/09.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/luciano-postwar-heroin-trade",
+      "permanent": true
+    },
+    {
+      "source": "/books/mccoy/book/09.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/luciano-postwar-heroin-trade",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/McCoy/book/Print09.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/luciano-postwar-heroin-trade",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/mccoy/book/Print09.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/luciano-postwar-heroin-trade",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/McCoy/book/54.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/secret-war-secret-strategy-laos",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/mccoy/book/54.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/secret-war-secret-strategy-laos",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/McCoy/book/54.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/secret-war-secret-strategy-laos",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/mccoy/book/54.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/secret-war-secret-strategy-laos",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/McCoy/book/Print54.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/secret-war-secret-strategy-laos",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/mccoy/book/Print54.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/secret-war-secret-strategy-laos",
+      "permanent": true
+    },
+    {
+      "source": "/books/McCoy/book/54.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/secret-war-secret-strategy-laos",
+      "permanent": true
+    },
+    {
+      "source": "/books/mccoy/book/54.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/secret-war-secret-strategy-laos",
+      "permanent": true
+    },
+    {
+      "source": "/books/McCoy/book/54.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/secret-war-secret-strategy-laos",
+      "permanent": true
+    },
+    {
+      "source": "/books/mccoy/book/54.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/secret-war-secret-strategy-laos",
+      "permanent": true
+    },
+    {
+      "source": "/books/McCoy/book/Print54.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/secret-war-secret-strategy-laos",
+      "permanent": true
+    },
+    {
+      "source": "/books/mccoy/book/Print54.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/secret-war-secret-strategy-laos",
+      "permanent": true
+    },
+    {
+      "source": "/Psychopharmacology/mescaline.html",
+      "destination": "/library/psychedelics/mescaline",
+      "permanent": true
+    },
+    {
+      "source": "/Psychopharmacology/mescaline.htm",
+      "destination": "/library/psychedelics/mescaline",
+      "permanent": true
+    },
+    {
+      "source": "/psychopharmacology/mescaline.html",
+      "destination": "/library/psychedelics/mescaline",
+      "permanent": true
+    },
+    {
+      "source": "/psychopharmacology/mescaline.htm",
+      "destination": "/library/psychedelics/mescaline",
+      "permanent": true
+    },
+    {
+      "source": "/Psychopharmacology/mescaline/Print.html",
+      "destination": "/library/psychedelics/mescaline",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/recreationaldrugs/mescaline.htm",
+      "destination": "/library/psychedelics/mescaline",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/recreationaldrugs/mescaline.html",
+      "destination": "/library/psychedelics/mescaline",
+      "permanent": true
+    },
+    {
+      "source": "/books/recreationaldrugs/mescaline.htm",
+      "destination": "/library/psychedelics/mescaline",
+      "permanent": true
+    },
+    {
+      "source": "/books/recreationaldrugs/mescaline.html",
+      "destination": "/library/psychedelics/mescaline",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/wootton/Default.htm",
+      "destination": "/reports/wootton-report",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/wootton/default.htm",
+      "destination": "/reports/wootton-report",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/wootton/Default.html",
+      "destination": "/reports/wootton-report",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/wootton/default.html",
+      "destination": "/reports/wootton-report",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/wootton/",
+      "destination": "/reports/wootton-report",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/wootton/index.htm",
+      "destination": "/reports/wootton-report",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/wootton/index.html",
+      "destination": "/reports/wootton-report",
+      "permanent": true
+    },
+    {
+      "source": "/reports/wootton/Default.htm",
+      "destination": "/reports/wootton-report",
+      "permanent": true
+    },
+    {
+      "source": "/reports/wootton/default.htm",
+      "destination": "/reports/wootton-report",
+      "permanent": true
+    },
+    {
+      "source": "/reports/wootton/Default.html",
+      "destination": "/reports/wootton-report",
+      "permanent": true
+    },
+    {
+      "source": "/reports/wootton/default.html",
+      "destination": "/reports/wootton-report",
+      "permanent": true
+    },
+    {
+      "source": "/reports/wootton/",
+      "destination": "/reports/wootton-report",
+      "permanent": true
+    },
+    {
+      "source": "/reports/wootton/index.htm",
+      "destination": "/reports/wootton-report",
+      "permanent": true
+    },
+    {
+      "source": "/reports/wootton/index.html",
+      "destination": "/reports/wootton-report",
+      "permanent": true
     }
   ]
 }
