@@ -32,6 +32,16 @@
       "source": "/library/books/McCoy/default.htm",
       "destination": "/library/heroin/politics-of-heroin-southeast-asia",
       "permanent": true
+    },
+    {
+      "source": "/The-Politics-of-Heroin-in-Southeast-Asia/7-the-golden-triangle-heroin-is-our-most-important-product.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/golden-triangle-heroin",
+      "permanent": true
+    },
+    {
+      "source": "/The-Politics-of-Heroin-in-Southeast-Asia/7-the-golden-triangle-heroin-is-our-most-important-product/Print.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/golden-triangle-heroin",
+      "permanent": true
     }
   ]
 }
