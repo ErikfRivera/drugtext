@@ -1,0 +1,400 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import Breadcrumb from '../components/Breadcrumb.astro';
+import Eyebrow from '../components/Eyebrow.astro';
+import Callout from '../components/Callout.astro';
+
+const SITE_URL = 'https://www.drugtext.org';
+const SITE_NAME = 'DrugText.org';
+
+interface Crumb { label: string; href?: string; }
+interface DocFrontmatter {
+  title: string;
+  description: string;
+  h1: string;
+  eyebrow?: string;
+  lede?: string;
+  authors?: string[];
+  publication?: string;
+  edition?: string;
+  publisher?: string;
+  pages?: string;
+  citation?: string;
+  datePublished?: string | number;
+  historical?: boolean;
+  about?: string[];
+  canonical?: string;
+  breadcrumb?: Crumb[];
+}
+interface Heading { depth: number; slug: string; text: string; }
+
+interface Props {
+  // Supplied automatically by Astro for markdown pages using this layout.
+  frontmatter?: DocFrontmatter;
+  headings?: Heading[];
+  // Also usable as a direct .astro layout via discrete props.
+  doc?: DocFrontmatter;
+}
+
+const fm: DocFrontmatter = Astro.props.frontmatter ?? Astro.props.doc ?? ({} as DocFrontmatter);
+const headings: Heading[] = Astro.props.headings ?? [];
+
+const {
+  title,
+  description,
+  h1,
+  eyebrow,
+  lede,
+  authors = [],
+  publication,
+  edition,
+  publisher,
+  pages,
+  citation,
+  datePublished,
+  historical = false,
+  about = [],
+  breadcrumb = [{ label: 'Home', href: '/' }],
+} = fm;
+
+const cleanPath = Astro.url.pathname.replace(/\.html$/, '').replace(/\/$/, '') || '/';
+const canonical = fm.canonical ?? (cleanPath === '/' ? SITE_URL : `${SITE_URL}${cleanPath}`);
+
+// "On this page" — section-level (h2) links only.
+const toc = headings.filter((h) => h.depth === 2 && h.slug);
+
+const authorLine =
+  authors.length === 2
+    ? `${authors[0]} and ${authors[1]}`
+    : authors.join(', ');
+
+const sourceLine = [publication, edition].filter(Boolean).join(' · ');
+const publishLine = [publisher, datePublished].filter(Boolean).join(' · ');
+
+const facts: { label: string; value: string }[] = [];
+if (authorLine) facts.push({ label: 'AUTHORS', value: authorLine });
+if (sourceLine) facts.push({ label: 'SOURCE', value: sourceLine });
+if (publishLine) facts.push({ label: 'PUBLISHED', value: publishLine });
+if (pages) facts.push({ label: 'PAGES', value: pages });
+if (about && about.length) facts.push({ label: 'SUBJECT', value: about.join(' · ') });
+facts.push({ label: 'FORMAT', value: 'Archival full-text · Educational reference' });
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'ScholarlyArticle',
+  headline: h1 ?? title,
+  ...(authors.length
+    ? { author: authors.map((name) => ({ '@type': 'Person', name })) }
+    : {}),
+  ...(citation ? { citation, isPartOf: citation } : {}),
+  ...(datePublished ? { datePublished: String(datePublished) } : {}),
+  ...(about.length ? { about } : {}),
+  publisher: { '@type': 'Organization', name: SITE_NAME, url: SITE_URL },
+  mainEntityOfPage: { '@type': 'WebPage', '@id': canonical },
+  inLanguage: 'en',
+};
+---
+<BaseLayout
+  title={title}
+  description={description}
+  canonical={canonical}
+  ogType="article"
+  exactTitle={true}
+  jsonLd={jsonLd}
+>
+  <article class="libdoc">
+    <div class="libdoc__crumbs">
+      <Breadcrumb items={breadcrumb} />
+    </div>
+
+    <header class="libdoc__head">
+      {eyebrow && <Eyebrow class="libdoc__eyebrow">{eyebrow}</Eyebrow>}
+      <h1 class="dt-display libdoc__title">{h1 ?? title}</h1>
+      {lede && <p class="libdoc__lede">{lede}</p>}
+      {facts.length > 0 && (
+        <dl class="libdoc__facts">
+          {facts.map((f) => (
+            <div class="libdoc__fact">
+              <dt>{f.label}</dt>
+              <dd>{f.value}</dd>
+            </div>
+          ))}
+        </dl>
+      )}
+    </header>
+
+    {historical && (
+      <Callout variant="info">
+        <strong>Historical document.</strong> This chapter is preserved verbatim from its original
+        1997 publication for educational and archival purposes. It reflects the clinical
+        understanding, terminology, and references available at the time of writing and is
+        <em>not</em> a substitute for current harm-reduction guidance.
+      </Callout>
+    )}
+
+    {citation && (
+      <aside class="libdoc__source" role="note">
+        <span class="libdoc__source-label">Source</span>
+        <p class="libdoc__source-text">{citation}</p>
+      </aside>
+    )}
+
+    <div class="libdoc__layout">
+      {toc.length > 0 && (
+        <nav class="libdoc__toc" aria-label="On this page">
+          <p class="libdoc__toc-label">On this page</p>
+          <ol class="libdoc__toc-list">
+            {toc.map((h) => (
+              <li><a href={`#${h.slug}`}>{h.text}</a></li>
+            ))}
+          </ol>
+        </nav>
+      )}
+
+      <div class="libdoc__body dt-prose">
+        <slot />
+      </div>
+    </div>
+  </article>
+</BaseLayout>
+
+<style>
+  .libdoc {
+    max-width: 1180px;
+    margin: 0 auto;
+    padding: 32px 48px 96px;
+  }
+  .libdoc__crumbs { margin-bottom: 32px; }
+
+  .libdoc__head {
+    border: 1px solid var(--dt-border);
+    border-radius: 2px;
+    background: var(--dt-surface);
+    padding: 36px 40px;
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+    align-items: flex-start;
+  }
+  .libdoc__eyebrow { align-self: flex-start; }
+  .libdoc__title { margin: 0; }
+  .libdoc__lede {
+    font-family: var(--dt-font-body);
+    font-size: 18px;
+    line-height: 1.6;
+    color: var(--dt-text-body);
+    margin: 0;
+    max-width: 760px;
+  }
+
+  .libdoc__facts {
+    margin: 12px 0 0;
+    padding: 20px 0 0;
+    border-top: 1px solid var(--dt-border);
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 18px 40px;
+  }
+  .libdoc__fact { display: flex; flex-direction: column; gap: 4px; min-width: 0; }
+  .libdoc__fact dt {
+    font-family: var(--dt-font-mono);
+    font-size: 10px;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--dt-text-muted);
+  }
+  .libdoc__fact dd {
+    font-family: var(--dt-font-mono);
+    font-size: 13px;
+    line-height: 1.45;
+    color: var(--dt-ink);
+    margin: 0;
+    word-break: break-word;
+  }
+
+  .libdoc__source {
+    background: var(--dt-bg-subtle);
+    border-left: 4px solid var(--dt-border-ink);
+    padding: 16px 20px;
+    margin: 24px 0 0;
+    max-width: 760px;
+  }
+  .libdoc__source-label {
+    display: block;
+    font-family: var(--dt-font-mono);
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--dt-text-muted);
+    margin-bottom: 6px;
+  }
+  .libdoc__source-text {
+    font-family: var(--dt-font-body);
+    font-size: 15px;
+    line-height: 1.5;
+    color: var(--dt-text-body);
+    margin: 0;
+    font-style: italic;
+  }
+
+  .libdoc :global(.callout) { margin: 24px 0 0; max-width: 100%; }
+
+  .libdoc__layout {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 40px;
+    margin-top: 48px;
+  }
+  @media (min-width: 1000px) {
+    .libdoc__layout {
+      grid-template-columns: minmax(0, 1fr) 240px;
+      gap: 56px;
+      align-items: start;
+    }
+    .libdoc__body { order: 1; min-width: 0; }
+    .libdoc__toc { order: 2; }
+  }
+
+  .libdoc__toc {
+    border-top: 2px solid var(--dt-border-ink);
+    padding-top: 16px;
+  }
+  @media (min-width: 1000px) {
+    .libdoc__toc {
+      position: sticky;
+      top: calc(var(--dt-nav-h) + 24px);
+    }
+  }
+  .libdoc__toc-label {
+    font-family: var(--dt-font-mono);
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--dt-text-muted);
+    margin: 0 0 14px;
+  }
+  .libdoc__toc-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    counter-reset: toc;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  .libdoc__toc-list li {
+    counter-increment: toc;
+    padding-left: 28px;
+    position: relative;
+  }
+  .libdoc__toc-list li::before {
+    content: counter(toc, decimal-leading-zero);
+    position: absolute;
+    left: 0;
+    top: 1px;
+    font-family: var(--dt-font-mono);
+    font-size: 10px;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    color: var(--dt-text-faint);
+  }
+  .libdoc__toc-list a {
+    font-family: var(--dt-font-mono);
+    font-size: 12px;
+    line-height: 1.45;
+    color: var(--dt-text-muted);
+    text-decoration: none;
+    display: block;
+    text-transform: uppercase;
+    letter-spacing: 0.02em;
+    transition: color var(--dt-dur-fast) var(--dt-ease);
+  }
+  .libdoc__toc-list a:hover { color: var(--dt-ink); }
+
+  /* Long-form reading measure */
+  .libdoc__body { max-width: 740px; }
+  .libdoc__body :global(h2) {
+    scroll-margin-top: calc(var(--dt-nav-h) + 16px);
+    margin-top: 56px;
+    margin-bottom: 18px;
+    padding-bottom: 14px;
+    border-bottom: 1px solid var(--dt-border);
+    font-size: 13px;
+    letter-spacing: 0.12em;
+  }
+  .libdoc__body :global(h2:first-child) { margin-top: 8px; }
+  .libdoc__body :global(p) { font-size: 16.5px; line-height: 1.72; }
+
+  /* Acknowledgments aside */
+  .libdoc__body :global(.dt-acks) {
+    margin: 56px 0 0;
+    padding: 20px 22px;
+    background: var(--dt-bg-subtle);
+    border: 1px solid var(--dt-border);
+    border-radius: 2px;
+  }
+  .libdoc__body :global(.dt-acks__label) {
+    display: block;
+    font-family: var(--dt-font-mono);
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--dt-text-muted);
+    margin-bottom: 8px;
+  }
+  .libdoc__body :global(.dt-acks p) {
+    margin: 0;
+    font-size: 14.5px;
+    line-height: 1.6;
+    color: var(--dt-text-body);
+  }
+
+  /* References list */
+  .libdoc__body :global(.dt-refs) {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    counter-reset: none;
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 10px;
+  }
+  @media (min-width: 760px) {
+    .libdoc__body :global(.dt-refs) { grid-template-columns: 1fr 1fr; column-gap: 32px; }
+  }
+  .libdoc__body :global(.dt-refs li) {
+    position: relative;
+    padding-left: 40px;
+    margin: 0;
+    font-family: var(--dt-font-body);
+    font-size: 13.5px;
+    line-height: 1.55;
+    color: var(--dt-text-body);
+    break-inside: avoid;
+  }
+  .libdoc__body :global(.dt-refs__n) {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 32px;
+    text-align: right;
+    font-family: var(--dt-font-mono);
+    font-size: 11px;
+    font-weight: 700;
+    color: var(--dt-text-faint);
+  }
+
+  @media (max-width: 880px) {
+    .libdoc { padding: 24px 24px 72px; }
+    .libdoc__head { padding: 28px 24px; }
+    .libdoc__facts { grid-template-columns: 1fr 1fr; gap: 16px 24px; }
+  }
+  @media (max-width: 560px) {
+    .libdoc__facts { grid-template-columns: 1fr; }
+  }
+</style>

@@ -1,0 +1,17 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/library/mdma/archive/15/default.htm",
+      "destination": "/library/mdma/substance-abuse-textbook",
+      "permanent": true
+    },
+    {
+      "source": "/library/research/mdma/archive/15/default.htm",
+      "destination": "/library/mdma/substance-abuse-textbook",
+      "permanent": true
+    }
+  ]
+}
