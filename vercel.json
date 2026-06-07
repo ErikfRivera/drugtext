@@ -22,6 +22,16 @@
       "source": "/library/articles/TimesAd.html",
       "destination": "/library/cannabis/times-1967-marijuana-advertisement",
       "permanent": true
+    },
+    {
+      "source": "/books/McCoy/default.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/McCoy/default.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia",
+      "permanent": true
     }
   ]
 }
