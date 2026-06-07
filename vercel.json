@@ -12,6 +12,291 @@
       "source": "/library/research/mdma/archive/15/default.htm",
       "destination": "/library/mdma/substance-abuse-textbook",
       "permanent": true
+    },
+    {
+      "source": "/library/research/cannabis/respiration/respiration02/resp02.htm",
+      "destination": "/library/cannabis/marijuana-smoking-fev1-lung-function-tashkin-1997",
+      "permanent": true
+    },
+    {
+      "source": "/library/research/cannabis/respiration/respiration02/resp02.html",
+      "destination": "/library/cannabis/marijuana-smoking-fev1-lung-function-tashkin-1997",
+      "permanent": true
+    },
+    {
+      "source": "/research/cannabis/respiration/respiration02/resp02.htm",
+      "destination": "/library/cannabis/marijuana-smoking-fev1-lung-function-tashkin-1997",
+      "permanent": true
+    },
+    {
+      "source": "/research/cannabis/respiration/respiration02/resp02.html",
+      "destination": "/library/cannabis/marijuana-smoking-fev1-lung-function-tashkin-1997",
+      "permanent": true
+    },
+    {
+      "source": "/sub/pcp1.html",
+      "destination": "/library/psychedelics/pcp-and-ketamine",
+      "permanent": true
+    },
+    {
+      "source": "/sub/pcp1.htm",
+      "destination": "/library/psychedelics/pcp-and-ketamine",
+      "permanent": true
+    },
+    {
+      "source": "/library/mdma/archive/18/default.htm",
+      "destination": "/library/mdma/serotonin-neurotoxicity",
+      "permanent": true
+    },
+    {
+      "source": "/library/mdma/archive/18/default.html",
+      "destination": "/library/mdma/serotonin-neurotoxicity",
+      "permanent": true
+    },
+    {
+      "source": "/library/mdma/archive/18/Default.htm",
+      "destination": "/library/mdma/serotonin-neurotoxicity",
+      "permanent": true
+    },
+    {
+      "source": "/library/mdma/archive/18/Default.html",
+      "destination": "/library/mdma/serotonin-neurotoxicity",
+      "permanent": true
+    },
+    {
+      "source": "/library/research/mdma/archive/18/default.htm",
+      "destination": "/library/mdma/serotonin-neurotoxicity",
+      "permanent": true
+    },
+    {
+      "source": "/library/research/mdma/archive/18/default.html",
+      "destination": "/library/mdma/serotonin-neurotoxicity",
+      "permanent": true
+    },
+    {
+      "source": "/library/research/mdma/archive/18/Default.htm",
+      "destination": "/library/mdma/serotonin-neurotoxicity",
+      "permanent": true
+    },
+    {
+      "source": "/library/research/mdma/archive/18/Default.html",
+      "destination": "/library/mdma/serotonin-neurotoxicity",
+      "permanent": true
+    },
+    {
+      "source": "/mdma/archive/18/default.htm",
+      "destination": "/library/mdma/serotonin-neurotoxicity",
+      "permanent": true
+    },
+    {
+      "source": "/mdma/archive/18/default.html",
+      "destination": "/library/mdma/serotonin-neurotoxicity",
+      "permanent": true
+    },
+    {
+      "source": "/research/mdma/archive/18/default.htm",
+      "destination": "/library/mdma/serotonin-neurotoxicity",
+      "permanent": true
+    },
+    {
+      "source": "/research/mdma/archive/18/default.html",
+      "destination": "/library/mdma/serotonin-neurotoxicity",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/recreationaldrugs/hashoil.htm",
+      "destination": "/library/cannabis/hash-oil",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/recreationaldrugs/hashoil.html",
+      "destination": "/library/cannabis/hash-oil",
+      "permanent": true
+    },
+    {
+      "source": "/books/recreationaldrugs/hashoil.htm",
+      "destination": "/library/cannabis/hash-oil",
+      "permanent": true
+    },
+    {
+      "source": "/books/recreationaldrugs/hashoil.html",
+      "destination": "/library/cannabis/hash-oil",
+      "permanent": true
+    },
+    {
+      "source": "/Recreational-Drugs/hashoil.html",
+      "destination": "/library/cannabis/hash-oil",
+      "permanent": true
+    },
+    {
+      "source": "/recreational-drugs/hashoil.html",
+      "destination": "/library/cannabis/hash-oil",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/recreationaldrugs/hashoilPrint.html",
+      "destination": "/library/cannabis/hash-oil",
+      "permanent": true
+    },
+    {
+      "source": "/library/mdma/archive/08/default.htm",
+      "destination": "/library/mdma/neurochemical-neurohistological-alterations",
+      "permanent": true
+    },
+    {
+      "source": "/library/mdma/archive/08/default.html",
+      "destination": "/library/mdma/neurochemical-neurohistological-alterations",
+      "permanent": true
+    },
+    {
+      "source": "/library/mdma/archive/08/Default.htm",
+      "destination": "/library/mdma/neurochemical-neurohistological-alterations",
+      "permanent": true
+    },
+    {
+      "source": "/library/mdma/archive/08/Default.html",
+      "destination": "/library/mdma/neurochemical-neurohistological-alterations",
+      "permanent": true
+    },
+    {
+      "source": "/library/research/mdma/archive/08/default.htm",
+      "destination": "/library/mdma/neurochemical-neurohistological-alterations",
+      "permanent": true
+    },
+    {
+      "source": "/library/research/mdma/archive/08/default.html",
+      "destination": "/library/mdma/neurochemical-neurohistological-alterations",
+      "permanent": true
+    },
+    {
+      "source": "/library/research/mdma/archive/08/Default.htm",
+      "destination": "/library/mdma/neurochemical-neurohistological-alterations",
+      "permanent": true
+    },
+    {
+      "source": "/library/research/mdma/archive/08/Default.html",
+      "destination": "/library/mdma/neurochemical-neurohistological-alterations",
+      "permanent": true
+    },
+    {
+      "source": "/EMCDDA-Report-on-the-risk-assessment-of-mephedrone/3-chemical-precursors-that-are-used-for-the-manufacture-of-mephedrone.html",
+      "destination": "/reports/emcdda-mephedrone-risk-assessment/chemical-precursors-used-for-manufacture",
+      "permanent": true
+    },
+    {
+      "source": "/EMCDDA-Report-on-the-risk-assessment-of-mephedrone/3-chemical-precursors-that-are-used-for-the-manufacture-of-mephedrone.htm",
+      "destination": "/reports/emcdda-mephedrone-risk-assessment/chemical-precursors-used-for-manufacture",
+      "permanent": true
+    },
+    {
+      "source": "/EMCDDA-Report-on-the-risk-assessment-of-mephedrone/3-chemical-precursors-that-are-used-for-the-manufacture-of-mephedrone/Print.html",
+      "destination": "/reports/emcdda-mephedrone-risk-assessment/chemical-precursors-used-for-manufacture",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/ota/ch2.htm",
+      "destination": "/reports/ota/chapter-2-introduction",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/ota/ch2.html",
+      "destination": "/reports/ota/chapter-2-introduction",
+      "permanent": true
+    },
+    {
+      "source": "/reports/ota/ch2.htm",
+      "destination": "/reports/ota/chapter-2-introduction",
+      "permanent": true
+    },
+    {
+      "source": "/reports/ota/ch2.html",
+      "destination": "/reports/ota/chapter-2-introduction",
+      "permanent": true
+    },
+    {
+      "source": "/articles/christie1.html",
+      "destination": "/library/policy/reflections-on-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/articles/christie1.htm",
+      "destination": "/library/policy/reflections-on-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/articles/christie1Print.html",
+      "destination": "/library/policy/reflections-on-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/christie1.html",
+      "destination": "/library/policy/reflections-on-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/christie1.htm",
+      "destination": "/library/policy/reflections-on-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/christie1Print.html",
+      "destination": "/library/policy/reflections-on-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/Recreational-Drugs/amphetamines.html",
+      "destination": "/library/amphetamines/recreational-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/Recreational-Drugs/amphetamines/Print.html",
+      "destination": "/library/amphetamines/recreational-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/Recreational-Drugs/amphetamines.htm",
+      "destination": "/library/amphetamines/recreational-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/recreational-drugs/amphetamines.html",
+      "destination": "/library/amphetamines/recreational-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/recreational-drugs/amphetamines.htm",
+      "destination": "/library/amphetamines/recreational-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/recreationaldrugs/amphetamines.htm",
+      "destination": "/library/amphetamines/recreational-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/recreationaldrugs/amphetamines.html",
+      "destination": "/library/amphetamines/recreational-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/books/recreationaldrugs/amphetamines.htm",
+      "destination": "/library/amphetamines/recreational-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/books/recreationaldrugs/amphetamines.html",
+      "destination": "/library/amphetamines/recreational-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/articles/narehead.htm",
+      "destination": "/library/heroin/natural-recovery-from-heroin-addiction",
+      "permanent": true
+    },
+    {
+      "source": "/articles/narehead.html",
+      "destination": "/library/heroin/natural-recovery-from-heroin-addiction",
+      "permanent": true
     }
   ]
 }
