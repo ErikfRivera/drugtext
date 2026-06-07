@@ -67,6 +67,11 @@
       "source": "/library/articles/dillon.htm",
       "destination": "/library/mdma/ecstasy-party-drug-use-australia",
       "permanent": true
+    },
+    {
+      "source": "/library/books/McCoy/book/08.htm",
+      "destination": "/library/heroin/risk-of-death-graph",
+      "permanent": true
     }
   ]
 }
