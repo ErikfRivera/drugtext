@@ -10,6 +10,7 @@ interface Props {
   ogImage?: string;
   ogType?: 'website' | 'article';
   noindex?: boolean;
+  exactTitle?: boolean;
   jsonLd?: Record<string, unknown> | Record<string, unknown>[];
 }
 const SITE_URL = 'https://www.drugtext.org';
@@ -26,10 +27,13 @@ const {
   ogImage = DEFAULT_OG,
   ogType = 'website',
   noindex = false,
+  exactTitle = false,
   jsonLd,
 } = Astro.props;
 
-const fullTitle = title.includes(SITE_NAME) ? title : `${title} | ${SITE_NAME}`;
+const fullTitle = exactTitle
+  ? title
+  : title.includes(SITE_NAME) ? title : `${title} | ${SITE_NAME}`;
 
 const organizationLd = {
   '@context': 'https://schema.org',
