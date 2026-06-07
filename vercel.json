@@ -12,6 +12,241 @@
       "source": "/library/research/mdma/archive/15/default.htm",
       "destination": "/library/mdma/substance-abuse-textbook",
       "permanent": true
+    },
+    {
+      "source": "/The-Politics-of-Heroin-in-Southeast-Asia/5-south-vietnam-narcotics-in-the-nations-service.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/south-vietnam-narcotics-in-the-nations-service",
+      "permanent": true
+    },
+    {
+      "source": "/The-Politics-of-Heroin-in-Southeast-Asia/5-south-vietnam-narcotics-in-the-nations-service/Print.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/south-vietnam-narcotics-in-the-nations-service",
+      "permanent": true
+    },
+    {
+      "source": "/the-politics-of-heroin-in-southeast-asia/5-south-vietnam-narcotics-in-the-nations-service.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/south-vietnam-narcotics-in-the-nations-service",
+      "permanent": true
+    },
+    {
+      "source": "/The-Politics-of-Heroin-in-Southeast-Asia/5-south-vietnam-narcotics-in-the-nations-service.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/south-vietnam-narcotics-in-the-nations-service",
+      "permanent": true
+    },
+    {
+      "source": "/index.htm",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/index.html",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/mpp/index.htm",
+      "destination": "/library/policy",
+      "permanent": true
+    },
+    {
+      "source": "/mpp/index.html",
+      "destination": "/library/policy",
+      "permanent": true
+    },
+    {
+      "source": "/druglibrary/index.htm",
+      "destination": "/library",
+      "permanent": true
+    },
+    {
+      "source": "/druglibrary/index.html",
+      "destination": "/library",
+      "permanent": true
+    },
+    {
+      "source": "/druglibrary/schaffer/index.HTM",
+      "destination": "/library",
+      "permanent": true
+    },
+    {
+      "source": "/druglibrary/schaffer/index.htm",
+      "destination": "/library",
+      "permanent": true
+    },
+    {
+      "source": "/druglibrary/schaffer/index.html",
+      "destination": "/library",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/945101.htm",
+      "destination": "/library/steroids/anabolic-steroid-use-in-britain",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/945101.html",
+      "destination": "/library/steroids/anabolic-steroid-use-in-britain",
+      "permanent": true
+    },
+    {
+      "source": "/articles/945101.htm",
+      "destination": "/library/steroids/anabolic-steroid-use-in-britain",
+      "permanent": true
+    },
+    {
+      "source": "/articles/945101.html",
+      "destination": "/library/steroids/anabolic-steroid-use-in-britain",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/912410.htm",
+      "destination": "/library/inhalants/petrol-sniffing-among-aboriginals",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/912410.html",
+      "destination": "/library/inhalants/petrol-sniffing-among-aboriginals",
+      "permanent": true
+    },
+    {
+      "source": "/articles/912410.htm",
+      "destination": "/library/inhalants/petrol-sniffing-among-aboriginals",
+      "permanent": true
+    },
+    {
+      "source": "/articles/912410.html",
+      "destination": "/library/inhalants/petrol-sniffing-among-aboriginals",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/socpolsor.htm",
+      "destination": "/library/psychedelics/social-political-sources-of-drug-effects-bad-trips",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/socpolsor.html",
+      "destination": "/library/psychedelics/social-political-sources-of-drug-effects-bad-trips",
+      "permanent": true
+    },
+    {
+      "source": "/articles/socpolsor.htm",
+      "destination": "/library/psychedelics/social-political-sources-of-drug-effects-bad-trips",
+      "permanent": true
+    },
+    {
+      "source": "/articles/socpolsor.html",
+      "destination": "/library/psychedelics/social-political-sources-of-drug-effects-bad-trips",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/McCoy/book/03.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/heroin-history-of-a-miracle-drug",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/McCoy/book/03.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/heroin-history-of-a-miracle-drug",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/McCoy/book/Print03.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/heroin-history-of-a-miracle-drug",
+      "permanent": true
+    },
+    {
+      "source": "/books/McCoy/book/03.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/heroin-history-of-a-miracle-drug",
+      "permanent": true
+    },
+    {
+      "source": "/books/McCoy/book/03.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/heroin-history-of-a-miracle-drug",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/mccoy/book/03.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/heroin-history-of-a-miracle-drug",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/mccoy/book/03.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/heroin-history-of-a-miracle-drug",
+      "permanent": true
+    },
+    {
+      "source": "/books/mccoy/book/03.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/heroin-history-of-a-miracle-drug",
+      "permanent": true
+    },
+    {
+      "source": "/books/mccoy/book/03.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/heroin-history-of-a-miracle-drug",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/aic1.htm",
+      "destination": "/library/cannabis/cannabis-law-social-impacts-australia",
+      "permanent": true
+    },
+    {
+      "source": "/articles/aic1.htm",
+      "destination": "/library/cannabis/cannabis-law-social-impacts-australia",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/aic1.html",
+      "destination": "/library/cannabis/cannabis-law-social-impacts-australia",
+      "permanent": true
+    },
+    {
+      "source": "/articles/aic1.html",
+      "destination": "/library/cannabis/cannabis-law-social-impacts-australia",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/aic1Print.html",
+      "destination": "/library/cannabis/cannabis-law-social-impacts-australia",
+      "permanent": true
+    },
+    {
+      "source": "/articles/aic1Print.html",
+      "destination": "/library/cannabis/cannabis-law-social-impacts-australia",
+      "permanent": true
+    },
+    {
+      "source": "/library/research/mdma/archive/22/default.htm",
+      "destination": "/library/mdma/neuropsychiatric-manifestations",
+      "permanent": true
+    },
+    {
+      "source": "/library/research/mdma/archive/22/default.html",
+      "destination": "/library/mdma/neuropsychiatric-manifestations",
+      "permanent": true
+    },
+    {
+      "source": "/library/mdma/archive/22/default.htm",
+      "destination": "/library/mdma/neuropsychiatric-manifestations",
+      "permanent": true
+    },
+    {
+      "source": "/library/mdma/archive/22/default.html",
+      "destination": "/library/mdma/neuropsychiatric-manifestations",
+      "permanent": true
+    },
+    {
+      "source": "/Dance/party-drugs-clubbing/how-risky-is-ecstasy-a-model-for-comparing-the-mortality-risks-of-ecstasy-use-dance-parties-and-related-activities.html",
+      "destination": "/library/mdma/how-risky-is-ecstasy",
+      "permanent": true
+    },
+    {
+      "source": "/Dance/party-drugs-clubbing/how-risky-is-ecstasy-a-model-for-comparing-the-mortality-risks-of-ecstasy-use-dance-parties-and-related-activities.htm",
+      "destination": "/library/mdma/how-risky-is-ecstasy",
+      "permanent": true
+    },
+    {
+      "source": "/Dance/party-drugs-clubbing/how-risky-is-ecstasy-a-model-for-comparing-the-mortality-risks-of-ecstasy-use-dance-parties-and-related-activities-Print.html",
+      "destination": "/library/mdma/how-risky-is-ecstasy",
+      "permanent": true
     }
   ]
 }
