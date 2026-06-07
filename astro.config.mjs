@@ -13,6 +13,7 @@ const PRIORITY_MAP = {
   '/brands/mynd-mushroom-chocolates': { priority: 0.8, changefreq: 'monthly' },
   '/peptides': { priority: 0.8, changefreq: 'weekly' },
   '/peptides/semax': { priority: 0.8, changefreq: 'monthly' },
+  '/library/mdma/substance-abuse-textbook': { priority: 0.9, changefreq: 'monthly' },
 };
 
 export default defineConfig({
