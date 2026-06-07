@@ -1,0 +1,242 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import Breadcrumb from '../components/Breadcrumb.astro';
+
+const SITE_URL = 'https://www.drugtext.org';
+const SITE_NAME = 'DrugText.org';
+
+interface Crumb { label: string; href?: string; }
+interface DocFrontmatter {
+  title: string;
+  description: string;
+  h1: string;
+  authors?: string[];
+  citation?: string;
+  datePublished?: string | number;
+  about?: string[];
+  canonical?: string;
+  breadcrumb?: Crumb[];
+}
+interface Heading { depth: number; slug: string; text: string; }
+
+interface Props {
+  // Supplied automatically by Astro for markdown pages using this layout.
+  frontmatter?: DocFrontmatter;
+  headings?: Heading[];
+  // Also usable as a direct .astro layout via discrete props.
+  doc?: DocFrontmatter;
+}
+
+const fm: DocFrontmatter = Astro.props.frontmatter ?? Astro.props.doc ?? ({} as DocFrontmatter);
+const headings: Heading[] = Astro.props.headings ?? [];
+
+const {
+  title,
+  description,
+  h1,
+  authors = [],
+  citation,
+  datePublished,
+  about = [],
+  breadcrumb = [{ label: 'Home', href: '/' }],
+} = fm;
+
+const cleanPath = Astro.url.pathname.replace(/\.html$/, '').replace(/\/$/, '') || '/';
+const canonical = fm.canonical ?? (cleanPath === '/' ? SITE_URL : `${SITE_URL}${cleanPath}`);
+
+// "On this page" — section-level (h2) links only.
+const toc = headings.filter((h) => h.depth === 2 && h.slug);
+
+const authorLine =
+  authors.length === 2
+    ? `${authors[0]} and ${authors[1]}`
+    : authors.join(', ');
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'ScholarlyArticle',
+  headline: h1 ?? title,
+  ...(authors.length
+    ? { author: authors.map((name) => ({ '@type': 'Person', name })) }
+    : {}),
+  ...(citation ? { citation, isPartOf: citation } : {}),
+  ...(datePublished ? { datePublished: String(datePublished) } : {}),
+  ...(about.length ? { about } : {}),
+  publisher: { '@type': 'Organization', name: SITE_NAME, url: SITE_URL },
+  mainEntityOfPage: { '@type': 'WebPage', '@id': canonical },
+  inLanguage: 'en',
+};
+---
+<BaseLayout
+  title={title}
+  description={description}
+  canonical={canonical}
+  ogType="article"
+  exactTitle={true}
+  jsonLd={jsonLd}
+>
+  <article class="libdoc">
+    <Breadcrumb items={breadcrumb} />
+
+    <header class="libdoc__head">
+      <h1 class="dt-h1 libdoc__title">{h1 ?? title}</h1>
+      {authorLine && <p class="libdoc__byline">{authorLine}</p>}
+    </header>
+
+    {citation && (
+      <aside class="libdoc__source" role="note">
+        <span class="libdoc__source-label">Source</span>
+        <p class="libdoc__source-text">{citation}</p>
+      </aside>
+    )}
+
+    <div class="libdoc__layout">
+      {toc.length > 0 && (
+        <nav class="libdoc__toc" aria-label="On this page">
+          <p class="libdoc__toc-label">On this page</p>
+          <ol class="libdoc__toc-list">
+            {toc.map((h) => (
+              <li><a href={`#${h.slug}`}>{h.text}</a></li>
+            ))}
+          </ol>
+        </nav>
+      )}
+
+      <div class="libdoc__body dt-prose">
+        <slot />
+      </div>
+    </div>
+  </article>
+</BaseLayout>
+
+<style>
+  .libdoc {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 40px 48px 96px;
+  }
+  .libdoc__head { margin: 28px 0 20px; }
+  .libdoc__title { margin: 0; }
+  .libdoc__byline {
+    font-family: var(--dt-font-mono);
+    font-size: 14px;
+    letter-spacing: 0.02em;
+    color: var(--dt-text-muted);
+    margin: 12px 0 0;
+  }
+  .libdoc__source {
+    background: var(--dt-bg-subtle);
+    border-left: 4px solid var(--dt-border-ink);
+    padding: 16px 20px;
+    margin: 0 0 8px;
+    max-width: 760px;
+  }
+  .libdoc__source-label {
+    display: block;
+    font-family: var(--dt-font-mono);
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--dt-text-muted);
+    margin-bottom: 6px;
+  }
+  .libdoc__source-text {
+    font-family: var(--dt-font-body);
+    font-size: 15px;
+    line-height: 1.5;
+    color: var(--dt-text-body);
+    margin: 0;
+    font-style: italic;
+  }
+
+  .libdoc__layout {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 40px;
+    margin-top: 40px;
+  }
+  @media (min-width: 1000px) {
+    .libdoc__layout {
+      grid-template-columns: 240px minmax(0, 1fr);
+      gap: 56px;
+      align-items: start;
+    }
+  }
+
+  .libdoc__toc {
+    border-top: 2px solid var(--dt-border-ink);
+    padding-top: 14px;
+  }
+  @media (min-width: 1000px) {
+    .libdoc__toc {
+      position: sticky;
+      top: calc(var(--dt-nav-h) + 24px);
+      order: 2;
+    }
+    .libdoc__body { order: 1; }
+  }
+  .libdoc__toc-label {
+    font-family: var(--dt-font-mono);
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--dt-text-muted);
+    margin: 0 0 12px;
+  }
+  .libdoc__toc-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    counter-reset: toc;
+  }
+  .libdoc__toc-list li { margin: 0 0 8px; }
+  .libdoc__toc-list a {
+    font-family: var(--dt-font-mono);
+    font-size: 12.5px;
+    line-height: 1.4;
+    color: var(--dt-text-muted);
+    text-decoration: none;
+    display: block;
+    text-transform: uppercase;
+    letter-spacing: 0.01em;
+  }
+  .libdoc__toc-list a:hover { color: var(--dt-ink); }
+
+  /* Long-form reading measure */
+  .libdoc__body { max-width: 720px; }
+  .libdoc__body :global(h2) { scroll-margin-top: calc(var(--dt-nav-h) + 16px); }
+
+  /* References list */
+  .libdoc__body :global(.dt-refs) {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    counter-reset: none;
+  }
+  .libdoc__body :global(.dt-refs li) {
+    position: relative;
+    padding-left: 44px;
+    margin: 0 0 12px;
+    font-family: var(--dt-font-body);
+    font-size: 14px;
+    line-height: 1.55;
+    color: var(--dt-text-body);
+  }
+  .libdoc__body :global(.dt-refs__n) {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 36px;
+    text-align: right;
+    font-family: var(--dt-font-mono);
+    font-size: 12px;
+    font-weight: 700;
+    color: var(--dt-text-muted);
+  }
+
+  @media (max-width: 880px) {
+    .libdoc { padding: 32px 24px 72px; }
+  }
+</style>
