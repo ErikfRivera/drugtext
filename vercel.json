@@ -12,6 +12,16 @@
       "source": "/library/research/mdma/archive/15/default.htm",
       "destination": "/library/mdma/substance-abuse-textbook",
       "permanent": true
+    },
+    {
+      "source": "/articles/TimesAd.html",
+      "destination": "/library/cannabis/times-1967-marijuana-advertisement",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/TimesAd.html",
+      "destination": "/library/cannabis/times-1967-marijuana-advertisement",
+      "permanent": true
     }
   ]
 }
