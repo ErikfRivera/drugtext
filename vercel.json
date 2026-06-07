@@ -12,6 +12,246 @@
       "source": "/library/research/mdma/archive/15/default.htm",
       "destination": "/library/mdma/substance-abuse-textbook",
       "permanent": true
+    },
+    {
+      "source": "/library/books/hurtado/chapter2.htm",
+      "destination": "/library/cocaine/coca/coca-leaves-scientific-aspects",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/hurtado/chapter2.html",
+      "destination": "/library/cocaine/coca/coca-leaves-scientific-aspects",
+      "permanent": true
+    },
+    {
+      "source": "/books/hurtado/chapter2.htm",
+      "destination": "/library/cocaine/coca/coca-leaves-scientific-aspects",
+      "permanent": true
+    },
+    {
+      "source": "/books/hurtado/chapter2.html",
+      "destination": "/library/cocaine/coca/coca-leaves-scientific-aspects",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/zinberg2/default.htm",
+      "destination": "/library/addiction/drug-set-and-setting",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/zinberg2/default.html",
+      "destination": "/library/addiction/drug-set-and-setting",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/zinberg2/",
+      "destination": "/library/addiction/drug-set-and-setting",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/zinberg2",
+      "destination": "/library/addiction/drug-set-and-setting",
+      "permanent": true
+    },
+    {
+      "source": "/books/zinberg2/default.htm",
+      "destination": "/library/addiction/drug-set-and-setting",
+      "permanent": true
+    },
+    {
+      "source": "/books/zinberg2/default.html",
+      "destination": "/library/addiction/drug-set-and-setting",
+      "permanent": true
+    },
+    {
+      "source": "/books/zinberg2/",
+      "destination": "/library/addiction/drug-set-and-setting",
+      "permanent": true
+    },
+    {
+      "source": "/books/zinberg2",
+      "destination": "/library/addiction/drug-set-and-setting",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/cu/CU35.html",
+      "destination": "/library/cocaine/licit-illicit-drugs-chapter-35",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/cu/CU35.htm",
+      "destination": "/library/cocaine/licit-illicit-drugs-chapter-35",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/cu/cu35.html",
+      "destination": "/library/cocaine/licit-illicit-drugs-chapter-35",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/cu/cu35.htm",
+      "destination": "/library/cocaine/licit-illicit-drugs-chapter-35",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/cu/CU35Print.html",
+      "destination": "/library/cocaine/licit-illicit-drugs-chapter-35",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/cu/cu35print.html",
+      "destination": "/library/cocaine/licit-illicit-drugs-chapter-35",
+      "permanent": true
+    },
+    {
+      "source": "/reports/cu/CU35.html",
+      "destination": "/library/cocaine/licit-illicit-drugs-chapter-35",
+      "permanent": true
+    },
+    {
+      "source": "/reports/cu/CU35.htm",
+      "destination": "/library/cocaine/licit-illicit-drugs-chapter-35",
+      "permanent": true
+    },
+    {
+      "source": "/reports/cu/cu35.html",
+      "destination": "/library/cocaine/licit-illicit-drugs-chapter-35",
+      "permanent": true
+    },
+    {
+      "source": "/reports/cu/cu35.htm",
+      "destination": "/library/cocaine/licit-illicit-drugs-chapter-35",
+      "permanent": true
+    },
+    {
+      "source": "/druglibrary/schaffer/kids/Adolfacts.htm",
+      "destination": "/library/policy/adolescent-drug-abuse-facts-and-myths",
+      "permanent": true
+    },
+    {
+      "source": "/druglibrary/schaffer/kids/Adolfacts.html",
+      "destination": "/library/policy/adolescent-drug-abuse-facts-and-myths",
+      "permanent": true
+    },
+    {
+      "source": "/druglibrary/schaffer/kids/adolfacts.htm",
+      "destination": "/library/policy/adolescent-drug-abuse-facts-and-myths",
+      "permanent": true
+    },
+    {
+      "source": "/druglibrary/schaffer/kids/adolfacts.html",
+      "destination": "/library/policy/adolescent-drug-abuse-facts-and-myths",
+      "permanent": true
+    },
+    {
+      "source": "/articles/95644.html",
+      "destination": "/library/policy/drug-related-sites-on-the-world-wide-web",
+      "permanent": true
+    },
+    {
+      "source": "/articles/95644.htm",
+      "destination": "/library/policy/drug-related-sites-on-the-world-wide-web",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/95644.html",
+      "destination": "/library/policy/drug-related-sites-on-the-world-wide-web",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/95644.htm",
+      "destination": "/library/policy/drug-related-sites-on-the-world-wide-web",
+      "permanent": true
+    },
+    {
+      "source": "/drugtext.html",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/drugtext.htm",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/Cannabis-and-Culture/dagga-the-history-and-ethnographic-setting-of-cannabis-sativa-in-southern-africa.html",
+      "destination": "/library/cannabis/cannabis-and-culture/dagga-southern-africa",
+      "permanent": true
+    },
+    {
+      "source": "/Cannabis-and-Culture/dagga-the-history-and-ethnographic-setting-of-cannabis-sativa-in-southern-africa.htm",
+      "destination": "/library/cannabis/cannabis-and-culture/dagga-southern-africa",
+      "permanent": true
+    },
+    {
+      "source": "/Cannabis-and-Culture/dagga-the-history-and-ethnographic-setting-of-cannabis-sativa-in-southern-africa/Print.html",
+      "destination": "/library/cannabis/cannabis-and-culture/dagga-southern-africa",
+      "permanent": true
+    },
+    {
+      "source": "/cannabis-and-culture/dagga-the-history-and-ethnographic-setting-of-cannabis-sativa-in-southern-africa.html",
+      "destination": "/library/cannabis/cannabis-and-culture/dagga-southern-africa",
+      "permanent": true
+    },
+    {
+      "source": "/cannabis-and-culture/dagga-the-history-and-ethnographic-setting-of-cannabis-sativa-in-southern-africa.htm",
+      "destination": "/library/cannabis/cannabis-and-culture/dagga-southern-africa",
+      "permanent": true
+    },
+    {
+      "source": "/pdf/Cannabis-and-Culture/dagga-the-history-and-ethnographic-setting-of-cannabis-sativa-in-southern-africa.pdf",
+      "destination": "/library/cannabis/cannabis-and-culture/dagga-southern-africa",
+      "permanent": true
+    },
+    {
+      "source": "/count/bulgar.html",
+      "destination": "/library/policy/countries/bulgaria",
+      "permanent": true
+    },
+    {
+      "source": "/count/bulgar.htm",
+      "destination": "/library/policy/countries/bulgaria",
+      "permanent": true
+    },
+    {
+      "source": "/articles/pordecrim.htm",
+      "destination": "/library/policy/decriminalization-of-drug-use-in-portugal",
+      "permanent": true
+    },
+    {
+      "source": "/articles/pordecrim.html",
+      "destination": "/library/policy/decriminalization-of-drug-use-in-portugal",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/pordecrim.htm",
+      "destination": "/library/policy/decriminalization-of-drug-use-in-portugal",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/pordecrim.html",
+      "destination": "/library/policy/decriminalization-of-drug-use-in-portugal",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/useroomavis.htm",
+      "destination": "/library/harm-reduction/injection-rooms-international-law",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/useroomavis.html",
+      "destination": "/library/harm-reduction/injection-rooms-international-law",
+      "permanent": true
+    },
+    {
+      "source": "/articles/useroomavis.htm",
+      "destination": "/library/harm-reduction/injection-rooms-international-law",
+      "permanent": true
+    },
+    {
+      "source": "/articles/useroomavis.html",
+      "destination": "/library/harm-reduction/injection-rooms-international-law",
+      "permanent": true
     }
   ]
 }
