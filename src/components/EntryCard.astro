@@ -1,0 +1,94 @@
+---
+import RiskBadge from './RiskBadge.astro';
+
+interface Props {
+  category: string;
+  risk?: 'low' | 'moderate' | 'high';
+  title: string;
+  blurb: string;
+  href?: string;
+  faded?: boolean;
+}
+const { category, risk, title, blurb, href, faded = false } = Astro.props;
+const Tag = href && !faded ? 'a' : 'div';
+const props: Record<string, string> = href && !faded ? { href } : {};
+---
+<Tag {...props} class:list={['entry', faded && 'entry--faded']}>
+  <div class="entry__head">
+    <span class="entry__cat">{category}</span>
+    {risk && <RiskBadge level={risk} />}
+  </div>
+  <div class="entry__body">
+    <h3 class="entry__title">{title}</h3>
+    <p class="entry__blurb">{blurb}</p>
+    <span class="entry__cta">VIEW_DOSSIER →</span>
+  </div>
+</Tag>
+
+<style>
+  .entry {
+    display: flex;
+    flex-direction: column;
+    background: var(--dt-surface);
+    border: 1px solid var(--dt-border);
+    border-radius: 2px;
+    text-decoration: none;
+    color: inherit;
+    transition: border-color var(--dt-dur-base) var(--dt-ease),
+                box-shadow var(--dt-dur-base) var(--dt-ease);
+  }
+  .entry:hover:not(.entry--faded) {
+    border-color: var(--dt-border-strong);
+    box-shadow: var(--dt-shadow-hover);
+  }
+  .entry--faded { opacity: 0.4; cursor: default; }
+  .entry__head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    padding: 16px 20px;
+    border-bottom: 1px solid var(--dt-border);
+  }
+  .entry__cat {
+    font-family: var(--dt-font-mono);
+    font-size: 12px;
+    font-weight: 500;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--dt-text-muted);
+  }
+  .entry__body {
+    padding: 16px 20px 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+  .entry__title {
+    font-family: var(--dt-font-mono);
+    font-weight: 700;
+    font-size: 22px;
+    color: var(--dt-ink);
+    margin: 0;
+  }
+  .entry__blurb {
+    font-family: var(--dt-font-body);
+    font-size: 14px;
+    line-height: 1.6;
+    color: var(--dt-text-body);
+    margin: 0;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .entry__cta {
+    font-family: var(--dt-font-mono);
+    font-weight: 700;
+    font-size: 12px;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--dt-ink);
+    margin-top: 4px;
+  }
+</style>

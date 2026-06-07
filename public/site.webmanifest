@@ -1,0 +1,12 @@
+{
+  "name": "DrugText.org",
+  "short_name": "DrugText",
+  "description": "Open-source, non-judgmental archive of pharmacological, legal, and harm-reduction data for psychoactive substances.",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#FAFAFA",
+  "theme_color": "#FAFAFA",
+  "icons": [
+    { "src": "/favicon.svg", "type": "image/svg+xml", "sizes": "any" }
+  ]
+}

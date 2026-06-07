@@ -1,0 +1,157 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Breadcrumb from '../components/Breadcrumb.astro';
+import SectionHeader from '../components/SectionHeader.astro';
+import StatBlock from '../components/StatBlock.astro';
+import FeatureCard from '../components/FeatureCard.astro';
+import Button from '../components/Button.astro';
+
+const stats = [
+  { icon: 'database', value: '1,420+', label: 'SUBSTANCES' },
+  { icon: 'globe', value: '190+', label: 'REGIONS' },
+  { icon: 'users', value: '50K+', label: 'MONTHLY USERS' },
+  { icon: 'calendar', value: '2016', label: 'FOUNDED' },
+];
+
+const provide = [
+  { title: 'PHARMACOLOGICAL_DATA', body: 'Detailed information on chemical composition, mechanisms of action, dosage ranges, and duration of effects.' },
+  { title: 'HARM_REDUCTION', body: 'Practical safety guidelines, drug interaction charts, and overdose prevention information.' },
+  { title: 'LEGAL_STATUS', body: 'Up-to-date legal information for over 190 countries and jurisdictions worldwide.' },
+  { title: 'USER_EXPERIENCES', body: 'Anonymous, curated reports from real users describing their experiences and outcomes.' },
+];
+
+const title = 'About DrugText — Open-Source Harm Reduction Archive';
+const description = 'DrugText.org is an open-source, community-driven database of psychoactive substance data, founded in 2016 to provide non-judgmental, science-first harm reduction information.';
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'AboutPage',
+  name: 'About DrugText.org',
+  url: 'https://www.drugtext.org/about',
+  description,
+  mainEntity: {
+    '@type': 'Organization',
+    name: 'DrugText.org',
+    foundingDate: '2016',
+    description: 'Open-source, community-driven harm reduction substance database.',
+  },
+};
+---
+<BaseLayout title={title} description={description} jsonLd={jsonLd}>
+  <article class="page">
+    <Breadcrumb items={[{ label: 'Home', href: '/' }, { label: 'About' }]} />
+
+    <header class="page__head">
+      <h1 class="dt-h1">ABOUT_DRUGTEXT</h1>
+      <p class="page__lede">DrugText.org is an open-source, community-driven database dedicated to providing comprehensive information about psychoactive substances for harm reduction and education.</p>
+    </header>
+
+    <div class="stats">
+      {stats.map((s) => <StatBlock value={s.value} label={s.label} icon={s.icon} />)}
+    </div>
+
+    <section class="block">
+      <SectionHeader title="OUR_STORY" />
+      <div class="prose">
+        <p>DrugText.org was founded in 2016 by a group of researchers, healthcare professionals, and harm reduction advocates who recognized the need for accurate, accessible information about psychoactive substances.</p>
+        <p>Traditional drug education often relies on fear-based messaging that fails to prevent harm. We believed that providing honest, scientific information would be more effective at helping people make safer choices.</p>
+        <p>Today, DrugText.org serves as a trusted resource for individuals, researchers, healthcare providers, and policymakers around the world. Our database is continuously updated with the latest research and user-submitted reports.</p>
+      </div>
+    </section>
+
+    <section class="block">
+      <SectionHeader title="WHAT_WE_PROVIDE" />
+      <div class="features">
+        {provide.map((f) => <FeatureCard title={f.title}>{f.body}</FeatureCard>)}
+      </div>
+    </section>
+
+    <section class="block">
+      <SectionHeader title="OPEN_SOURCE" />
+      <div class="prose">
+        <p>DrugText.org is committed to transparency. Our database is open-source and community-maintained, ensuring that information remains free, accurate, and accessible to everyone.</p>
+        <p>We welcome contributions from researchers, healthcare professionals, and the harm reduction community. Together, we can build the most comprehensive substance database in the world.</p>
+      </div>
+    </section>
+
+    <aside class="cta">
+      <h3 class="cta__title">GET_INVOLVED</h3>
+      <p class="cta__body">Want to contribute to our mission? We're always looking for researchers, writers, and developers.</p>
+      <Button variant="outline" href="/contact">CONTACT_US</Button>
+    </aside>
+  </article>
+</BaseLayout>
+
+<style>
+  .page {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 40px 48px 80px;
+  }
+  .page__head { margin: 28px 0 48px; }
+  .page__lede {
+    font-family: var(--dt-font-body);
+    font-size: 19px;
+    line-height: 1.6;
+    color: var(--dt-text-muted);
+    margin: 16px 0 0;
+    max-width: 680px;
+  }
+  .stats {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 16px;
+    margin-bottom: 72px;
+  }
+  .block { margin-bottom: 64px; }
+  .prose {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    max-width: 840px;
+  }
+  .prose p {
+    font-family: var(--dt-font-body);
+    font-size: 16px;
+    line-height: 1.65;
+    color: var(--dt-text-body);
+    margin: 0;
+  }
+  .features {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+  }
+  .cta {
+    border: 1px solid var(--dt-border);
+    border-radius: 2px;
+    padding: 44px 32px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 18px;
+    text-align: center;
+    background: var(--dt-bg-subtle);
+  }
+  .cta__title {
+    font-family: var(--dt-font-mono);
+    font-weight: 700;
+    font-size: 18px;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--dt-ink);
+    margin: 0;
+  }
+  .cta__body {
+    font-family: var(--dt-font-body);
+    font-size: 16px;
+    color: var(--dt-text-muted);
+    margin: 0;
+    max-width: 560px;
+  }
+  @media (max-width: 880px) {
+    .page { padding: 32px 24px 64px; }
+    .stats { grid-template-columns: 1fr 1fr; }
+    .features { grid-template-columns: 1fr; }
+  }
+</style>

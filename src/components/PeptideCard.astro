@@ -1,0 +1,115 @@
+---
+interface Props {
+  id: string;
+  slug: string;
+  name: string;
+  group: string;
+  evidence: string;
+  blurb: string;
+  tag: string;
+}
+const { id, slug, name, group, evidence, blurb, tag } = Astro.props;
+const profileNumber = id.split('_')[1];
+---
+<a href={`/peptides/${slug}`} class="pcard">
+  <div class="pcard__row">
+    <span class="pcard__group">{group}</span>
+    <span class="pcard__id">{id}</span>
+  </div>
+  <h3 class="pcard__name">{name}</h3>
+  <div class="pcard__evidence">
+    <span class="pcard__dot" aria-hidden="true"></span>{evidence}
+  </div>
+  <p class="pcard__blurb">{blurb}</p>
+  <div class="pcard__foot">
+    <span>{tag}</span><span>PROFILE_{profileNumber}</span>
+  </div>
+</a>
+
+<style>
+  .pcard {
+    background: var(--dt-surface);
+    border: 1px solid var(--dt-border);
+    border-radius: 2px;
+    padding: 16px 18px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    text-decoration: none;
+    color: inherit;
+    transition: border-color var(--dt-dur-base) var(--dt-ease),
+                box-shadow var(--dt-dur-base) var(--dt-ease);
+  }
+  .pcard:hover {
+    border-color: var(--dt-border-strong);
+    box-shadow: var(--dt-shadow-hover);
+  }
+  .pcard__row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px;
+  }
+  .pcard__group {
+    font-family: var(--dt-font-mono);
+    font-size: 10px;
+    font-weight: 500;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--dt-text-muted);
+  }
+  .pcard__id {
+    font-family: var(--dt-font-mono);
+    font-size: 10px;
+    font-weight: 500;
+    color: var(--dt-text-faint);
+    border: 1px solid var(--dt-border);
+    border-radius: 2px;
+    padding: 1px 6px;
+  }
+  .pcard__name {
+    font-family: var(--dt-font-mono);
+    font-weight: 700;
+    font-size: 14px;
+    letter-spacing: 0.01em;
+    text-transform: uppercase;
+    color: var(--dt-ink);
+    margin: 0;
+  }
+  .pcard__evidence {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    font-family: var(--dt-font-mono);
+    font-style: italic;
+    font-size: 11px;
+    color: var(--dt-blue);
+  }
+  .pcard__dot {
+    width: 5px;
+    height: 5px;
+    border-radius: 5px;
+    background: var(--dt-blue);
+    flex: none;
+  }
+  .pcard__blurb {
+    font-family: var(--dt-font-body);
+    font-size: 12.5px;
+    line-height: 1.55;
+    color: var(--dt-text-body);
+    margin: 0;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .pcard__foot {
+    border-top: 1px dashed var(--dt-border);
+    padding-top: 8px;
+    display: flex;
+    justify-content: space-between;
+    font-family: var(--dt-font-mono);
+    font-size: 10px;
+    color: var(--dt-text-faint);
+  }
+</style>

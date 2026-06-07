@@ -1,0 +1,47 @@
+---
+interface Props {
+  title: string;
+  align?: 'left' | 'center';
+  rule?: boolean;
+  description?: string;
+}
+const { title, align = 'left', rule = true, description } = Astro.props;
+const hasAction = Astro.slots.has('action');
+---
+<div class="sh">
+  <div class="sh__row" data-align={align} data-has-action={hasAction}>
+    <h2 class="sh__title">{title}</h2>
+    {hasAction && <div class="sh__action"><slot name="action" /></div>}
+  </div>
+  {rule && <hr class="sh__rule" />}
+  {description && <p class="sh__desc">{description}</p>}
+</div>
+
+<style>
+  .sh { display: flex; flex-direction: column; gap: 18px; margin-bottom: 28px; }
+  .sh__row {
+    display: flex;
+    align-items: baseline;
+    gap: 24px;
+    justify-content: flex-start;
+  }
+  .sh__row[data-align="center"] { justify-content: center; }
+  .sh__row[data-has-action="true"] { justify-content: space-between; }
+  .sh__title {
+    font-family: var(--dt-font-mono);
+    font-weight: 700;
+    font-size: 22px;
+    text-transform: uppercase;
+    color: var(--dt-ink);
+    margin: 0;
+    letter-spacing: 0.01em;
+  }
+  .sh__rule { border: 0; border-top: 1px solid var(--dt-border); margin: 0; }
+  .sh__desc {
+    font-family: var(--dt-font-body);
+    font-size: 15px;
+    color: var(--dt-text-muted);
+    margin: 0;
+    max-width: 680px;
+  }
+</style>

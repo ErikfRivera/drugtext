@@ -1,0 +1,112 @@
+---
+interface Props {
+  name: string;
+  status?: string;
+  meta?: string;
+  summary: string;
+  criticalFlags?: number;
+  warnings?: number;
+  score?: number | null;
+  href?: string;
+}
+const { name, status = 'Unverified', meta, summary, criticalFlags = 0, warnings = 0, score = null, href } = Astro.props;
+---
+<article class="review">
+  <div class="review__head">
+    <h3 class="review__name">{name}</h3>
+    <span class="review__status">{status}</span>
+  </div>
+  {meta && <div class="review__meta">{meta}</div>}
+  <p class="review__summary">{summary}</p>
+  <div class="review__flags">
+    <span class="review__flags-critical">⚠ {criticalFlags} critical flags</span>
+    <span class="review__flags-warn">◷ {warnings} warnings</span>
+  </div>
+  <div class="review__foot">
+    <span class="review__score">Score: {score == null ? '--' : score}/100</span>
+    {href ? (
+      <a href={href} class="review__cta">READ_REVIEW →</a>
+    ) : (
+      <span class="review__cta">READ_REVIEW →</span>
+    )}
+  </div>
+</article>
+
+<style>
+  .review {
+    background: var(--dt-surface);
+    border: 1px solid var(--dt-border);
+    border-radius: 2px;
+    padding: 24px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    max-width: 440px;
+  }
+  .review__head {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 12px;
+  }
+  .review__name {
+    font-family: var(--dt-font-mono);
+    font-weight: 700;
+    font-size: 16px;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    color: var(--dt-ink);
+    margin: 0;
+  }
+  .review__status {
+    font-family: var(--dt-font-mono);
+    font-size: 12px;
+    font-weight: 500;
+    color: var(--dt-text-muted);
+    border: 1px solid var(--dt-border-strong);
+    padding: 3px 8px;
+    border-radius: 2px;
+    white-space: nowrap;
+  }
+  .review__meta {
+    font-family: var(--dt-font-mono);
+    font-size: 12px;
+    color: var(--dt-text-muted);
+  }
+  .review__summary {
+    font-family: var(--dt-font-body);
+    font-size: 14px;
+    line-height: 1.6;
+    color: var(--dt-text-body);
+    margin: 0;
+  }
+  .review__flags {
+    display: flex;
+    gap: 18px;
+    font-family: var(--dt-font-mono);
+    font-size: 12px;
+  }
+  .review__flags-critical { color: var(--dt-danger); }
+  .review__flags-warn { color: var(--dt-warning); }
+  .review__foot {
+    border-top: 1px solid var(--dt-border);
+    padding-top: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .review__score {
+    font-family: var(--dt-font-mono);
+    font-size: 12px;
+    color: var(--dt-text-muted);
+  }
+  .review__cta {
+    font-family: var(--dt-font-mono);
+    font-weight: 700;
+    font-size: 12px;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--dt-blue);
+    text-decoration: none;
+  }
+</style>

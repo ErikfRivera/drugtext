@@ -1,0 +1,45 @@
+---
+interface Item { label: string; href?: string; }
+interface Props { items: Item[]; }
+const { items } = Astro.props;
+const SITE = 'https://www.drugtext.org';
+
+const ld = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: items.map((it, i) => ({
+    '@type': 'ListItem',
+    position: i + 1,
+    name: it.label,
+    ...(it.href ? { item: `${SITE}${it.href}` } : {}),
+  })),
+};
+---
+<nav aria-label="Breadcrumb" class="bc">
+  <ol class="bc__list">
+    {items.map((it, i) => {
+      const last = i === items.length - 1;
+      return (
+        <li class="bc__item" data-last={last}>
+          {it.href && !last ? (
+            <a href={it.href} class="bc__link">{it.label}</a>
+          ) : (
+            <span aria-current={last ? 'page' : undefined}>{it.label}</span>
+          )}
+          {!last && <span class="bc__sep" aria-hidden="true">/</span>}
+        </li>
+      );
+    })}
+  </ol>
+</nav>
+<script type="application/ld+json" set:html={JSON.stringify(ld)} />
+
+<style>
+  .bc { font-family: var(--dt-font-mono); font-size: 13px; }
+  .bc__list { display: flex; align-items: center; gap: 8px; list-style: none; padding: 0; margin: 0; flex-wrap: wrap; }
+  .bc__item { display: inline-flex; align-items: center; gap: 8px; color: var(--dt-text-muted); }
+  .bc__item[data-last="true"] { color: var(--dt-ink); font-weight: 700; }
+  .bc__link { color: inherit; text-decoration: none; }
+  .bc__link:hover { color: var(--dt-ink); }
+  .bc__sep { color: var(--dt-text-faint); }
+</style>

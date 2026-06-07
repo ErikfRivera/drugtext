@@ -1,0 +1,84 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Breadcrumb from '../components/Breadcrumb.astro';
+import SectionHeader from '../components/SectionHeader.astro';
+import FeatureCard from '../components/FeatureCard.astro';
+
+const channels = [
+  { title: 'EDITORIAL_CORRECTIONS', body: 'Spotted an inaccuracy in an entry, a missing citation, or a stale legal status? Email editorial@drugtext.org with the URL and the correction.' },
+  { title: 'RESEARCH_SUBMISSIONS', body: 'Researchers, clinicians, and harm reduction practitioners: we accept new data, citations, and dossier contributions. Email research@drugtext.org.' },
+  { title: 'BRAND_REVIEW_TIPS', body: 'Have a tip about a vendor or product brand — lab results, missing tests, marketing claims — that should be reviewed? Email tips@drugtext.org.' },
+  { title: 'PRESS_AND_PARTNERSHIPS', body: 'Journalists, public health organizations, and policy partners: email press@drugtext.org.' },
+];
+
+const title = 'Contact DrugText — Corrections, Submissions, and Press';
+const description = 'How to reach DrugText.org for editorial corrections, research submissions, brand review tips, and press inquiries. We do not provide medical, legal, or sourcing advice.';
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'ContactPage',
+  name: 'Contact DrugText.org',
+  url: 'https://www.drugtext.org/contact',
+  description,
+};
+---
+<BaseLayout title={title} description={description} jsonLd={jsonLd}>
+  <article class="page">
+    <Breadcrumb items={[{ label: 'Home', href: '/' }, { label: 'Contact' }]} />
+
+    <header class="page__head">
+      <h1 class="dt-h1">CONTACT_US</h1>
+      <p class="page__lede">DrugText.org is community-maintained. The fastest way to reach us is by email, addressed to the right desk.</p>
+    </header>
+
+    <section class="block">
+      <SectionHeader title="WHERE_TO_WRITE" />
+      <div class="grid">
+        {channels.map((c) => <FeatureCard title={c.title}>{c.body}</FeatureCard>)}
+      </div>
+    </section>
+
+    <section class="block">
+      <SectionHeader title="WHAT_WE_DO_NOT_PROVIDE" />
+      <div class="prose">
+        <p>We cannot provide medical advice. If you are experiencing a medical emergency, contact local emergency services. If you are struggling with substance use, contact a qualified clinician or a local harm reduction service.</p>
+        <p>We cannot provide legal advice or sourcing information. We do not link to vendors of controlled substances, and we will not respond to requests to do so.</p>
+        <p>We cannot answer individual questions about whether a given substance is safe for you. Personal medical context matters; please speak with a clinician.</p>
+      </div>
+    </section>
+
+    <section class="block">
+      <SectionHeader title="RESPONSE_TIMES" />
+      <div class="prose">
+        <p>Editorial corrections are usually acknowledged within 3 business days. Research submissions and brand tips go into a review queue; please allow up to 2 weeks. Press inquiries on deadline should mention the deadline in the subject line.</p>
+      </div>
+    </section>
+  </article>
+</BaseLayout>
+
+<style>
+  .page { max-width: 1000px; margin: 0 auto; padding: 40px 48px 80px; }
+  .page__head { margin: 28px 0 48px; }
+  .page__lede {
+    font-family: var(--dt-font-body);
+    font-size: 19px;
+    line-height: 1.6;
+    color: var(--dt-text-muted);
+    margin: 16px 0 0;
+    max-width: 720px;
+  }
+  .block { margin-bottom: 64px; }
+  .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+  .prose { display: flex; flex-direction: column; gap: 20px; max-width: 840px; }
+  .prose p {
+    font-family: var(--dt-font-body);
+    font-size: 16px;
+    line-height: 1.7;
+    color: var(--dt-text-body);
+    margin: 0;
+  }
+  @media (max-width: 720px) {
+    .page { padding: 32px 24px 64px; }
+    .grid { grid-template-columns: 1fr; }
+  }
+</style>

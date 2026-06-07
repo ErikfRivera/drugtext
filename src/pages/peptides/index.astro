@@ -1,0 +1,168 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumb from '../../components/Breadcrumb.astro';
+import Eyebrow from '../../components/Eyebrow.astro';
+import SearchBar from '../../components/SearchBar.astro';
+import Callout from '../../components/Callout.astro';
+import PeptideCard from '../../components/PeptideCard.astro';
+import { PEPTIDES, PEPTIDE_GROUPS } from '../../data/peptides';
+
+const counts = PEPTIDE_GROUPS.reduce<Record<string, number>>((acc, g) => {
+  acc[g] = g === 'ALL' ? PEPTIDES.length : PEPTIDES.filter((p) => p.group === g).length;
+  return acc;
+}, {});
+
+const title = 'Peptides Reference Index — Research Compounds & Harm Reduction';
+const description = 'A non-judgmental reference index of research peptides — BPC-157, Semax, Semaglutide, Ipamorelin and more — with reported uses, evidence levels, and harm reduction context.';
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  name: 'Peptides Reference Index',
+  description,
+  url: 'https://www.drugtext.org/peptides',
+  isPartOf: { '@type': 'WebSite', name: 'DrugText.org', url: 'https://www.drugtext.org/' },
+  mainEntity: {
+    '@type': 'ItemList',
+    numberOfItems: PEPTIDES.length,
+    itemListElement: PEPTIDES.map((p, i) => ({
+      '@type': 'ListItem',
+      position: i + 1,
+      name: p.name,
+      url: `https://www.drugtext.org/peptides/${p.slug}`,
+    })),
+  },
+};
+---
+<BaseLayout title={title} description={description} jsonLd={jsonLd}>
+  <article class="page">
+    <Breadcrumb items={[{ label: 'Home', href: '/' }, { label: 'Peptides' }]} />
+
+    <header class="head">
+      <Eyebrow>{`REFERENCE_INDEX // ${PEPTIDES.length} COMPOUNDS`}</Eyebrow>
+      <h1 class="dt-display">Peptides</h1>
+      <p class="head__lede">A non-judgmental reference index of research peptides and related compounds, their reported uses, routes of administration, and harm reduction context. Information is educational and is not medical advice or an endorsement to acquire or use any compound.</p>
+      <div class="head__search"><SearchBar placeholder="Search peptides (e.g., BPC-157, Semax)..." /></div>
+    </header>
+
+    <Callout>Most of these compounds are not approved for human use in most jurisdictions and are sold as "research chemicals". Purity, dosing accuracy, and contamination vary widely on the grey market. Verify lab tests and consult a qualified clinician.</Callout>
+
+    <nav class="filters" aria-label="Filter peptides by group" id="filters">
+      {PEPTIDE_GROUPS.map((g, i) => (
+        <button
+          type="button"
+          class="filter"
+          data-group={g}
+          data-active={i === 0}
+        >
+          {g}<span class="filter__count"> ({counts[g]})</span>
+        </button>
+      ))}
+    </nav>
+    <p class="filters__count" id="filter-count">SHOWING {PEPTIDES.length} OF {PEPTIDES.length}</p>
+
+    <div class="grid">
+      {PEPTIDES.map((p) => (
+        <div class="grid__item" data-group={p.group}>
+          <PeptideCard {...p} />
+        </div>
+      ))}
+    </div>
+  </article>
+</BaseLayout>
+
+<script>
+  const filters = document.querySelectorAll<HTMLButtonElement>('.filter');
+  const items = document.querySelectorAll<HTMLDivElement>('.grid__item');
+  const countEl = document.getElementById('filter-count');
+  const total = items.length;
+
+  filters.forEach((btn) => {
+    btn.addEventListener('click', () => {
+      const group = btn.dataset.group;
+      filters.forEach((b) => (b.dataset.active = String(b === btn)));
+      let shown = 0;
+      items.forEach((it) => {
+        const match = group === 'ALL' || it.dataset.group === group;
+        it.hidden = !match;
+        if (match) shown++;
+      });
+      if (countEl) countEl.textContent = `SHOWING ${shown} OF ${total}`;
+    });
+  });
+</script>
+
+<style>
+  .page { max-width: 1200px; margin: 0 auto; padding: 40px 48px 64px; }
+  .head {
+    border: 1px solid var(--dt-border);
+    border-radius: 2px;
+    padding: 32px;
+    background: var(--dt-surface);
+    margin: 24px 0;
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+    align-items: flex-start;
+  }
+  .head__lede {
+    font-family: var(--dt-font-body);
+    font-size: 16px;
+    line-height: 1.6;
+    color: var(--dt-text-muted);
+    margin: 0;
+    max-width: 720px;
+  }
+  .head__search { max-width: 560px; width: 100%; margin-top: 6px; }
+
+  .filters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin: 24px 0 12px;
+  }
+  .filter {
+    font-family: var(--dt-font-mono);
+    font-weight: 500;
+    font-size: 12px;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    cursor: pointer;
+    padding: 7px 12px;
+    border-radius: 2px;
+    border: 1px solid var(--dt-border-strong);
+    background: var(--dt-surface);
+    color: var(--dt-text-muted);
+    transition: all var(--dt-dur-fast) var(--dt-ease);
+  }
+  .filter:hover { border-color: var(--dt-border-ink); color: var(--dt-ink); }
+  .filter[data-active="true"] {
+    background: var(--dt-ink-strong);
+    color: #fff;
+    border-color: var(--dt-ink-strong);
+  }
+  .filter__count { opacity: 0.7; }
+  .filters__count {
+    font-family: var(--dt-font-mono);
+    font-size: 11px;
+    letter-spacing: 0.04em;
+    color: var(--dt-text-faint);
+    margin: 0 0 20px;
+  }
+
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 16px;
+  }
+  .grid__item[hidden] { display: none; }
+
+  @media (max-width: 1024px) {
+    .grid { grid-template-columns: 1fr 1fr; }
+  }
+  @media (max-width: 640px) {
+    .page { padding: 24px 24px 48px; }
+    .head { padding: 24px; }
+    .grid { grid-template-columns: 1fr; }
+  }
+</style>

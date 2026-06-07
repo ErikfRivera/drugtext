@@ -1,0 +1,53 @@
+---
+interface Props {
+  variant?: 'primary' | 'outline' | 'ghost';
+  size?: 'sm' | 'md' | 'lg';
+  href?: string;
+  type?: 'button' | 'submit';
+  class?: string;
+}
+const { variant = 'primary', size = 'md', href, type = 'button', class: className } = Astro.props;
+const Tag = href ? 'a' : 'button';
+const props: Record<string, string> = href ? { href } : { type };
+---
+<Tag {...props} class:list={['btn', `btn--${variant}`, `btn--${size}`, className]}>
+  <slot />
+</Tag>
+
+<style>
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    font-family: var(--dt-font-mono);
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    border-radius: 2px;
+    border: 1px solid transparent;
+    cursor: pointer;
+    line-height: 1;
+    text-decoration: none;
+    transition: background var(--dt-dur-base) var(--dt-ease),
+                color var(--dt-dur-base) var(--dt-ease),
+                border-color var(--dt-dur-base) var(--dt-ease);
+  }
+  .btn:active { transform: translateY(1px); }
+  .btn--sm { padding: 8px 14px; font-size: 12px; }
+  .btn--md { padding: 13px 22px; font-size: 13px; }
+  .btn--lg { padding: 16px 28px; font-size: 14px; }
+
+  .btn--primary { background: var(--dt-ink-strong); color: #fff; }
+  .btn--primary:hover { background: #27272A; }
+
+  .btn--outline {
+    background: var(--dt-surface);
+    color: var(--dt-ink);
+    border-color: var(--dt-border-ink);
+  }
+  .btn--outline:hover { background: var(--dt-ink); color: #fff; }
+
+  .btn--ghost { background: transparent; color: var(--dt-ink); }
+  .btn--ghost:hover { background: var(--dt-bg-subtle); }
+</style>

@@ -1,0 +1,84 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Breadcrumb from '../components/Breadcrumb.astro';
+
+const title = 'Terms & Conditions';
+const description = 'Terms and conditions governing use of DrugText.org — an open-source, educational, harm-reduction reference archive. Read before using the site.';
+const updated = '2026-06-07';
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'WebPage',
+  name: 'Terms & Conditions',
+  url: 'https://www.drugtext.org/terms',
+  description,
+  dateModified: updated,
+};
+---
+<BaseLayout title={title} description={description} jsonLd={jsonLd}>
+  <article class="page">
+    <Breadcrumb items={[{ label: 'Home', href: '/' }, { label: 'Terms' }]} />
+
+    <header class="page__head">
+      <h1 class="dt-h1">TERMS_AND_CONDITIONS</h1>
+      <p class="page__lede">Last updated: <time datetime={updated}>{updated}</time></p>
+    </header>
+
+    <div class="dt-prose">
+      <p>By accessing DrugText.org (the "Site") you agree to these terms. If you do not agree, do not use the Site.</p>
+
+      <h2>1. Purpose and nature of the Site</h2>
+      <p>DrugText.org is an open-source, community-driven reference archive that publishes pharmacological, legal, and harm-reduction information about psychoactive substances. The Site is provided for educational and harm-reduction purposes only. <strong>Nothing on the Site is medical, legal, clinical, or professional advice, and nothing on the Site is an endorsement to acquire, possess, supply, or use any substance.</strong></p>
+
+      <h2>2. No medical or professional advice</h2>
+      <p>Content on the Site is not a substitute for diagnosis, treatment, or advice from a qualified healthcare professional, attorney, or other licensed practitioner. If you are experiencing a medical emergency, contact local emergency services immediately. If you have questions about your health, consult a qualified clinician.</p>
+
+      <h2>3. No encouragement of illegal activity</h2>
+      <p>The Site does not encourage the use, manufacture, supply, or possession of any controlled substance in any jurisdiction. Information about effects, dosing, interactions, and legal status is provided so that individuals can make informed decisions and so that public health, research, and policy stakeholders have a reliable reference.</p>
+
+      <h2>4. Accuracy and updates</h2>
+      <p>We make reasonable efforts to keep content accurate and current, but laws change, research evolves, and the supply environment shifts constantly. Content may become outdated between updates. We do not warrant that any specific entry is current, complete, or free from error.</p>
+
+      <h2>5. Acceptable use</h2>
+      <p>You agree not to: (a) misuse content to facilitate harm to yourself or others; (b) scrape, mirror, or systematically copy the Site in ways that violate applicable law or our published technical guidance; (c) attempt to compromise the Site's security or availability; or (d) submit content that you do not have the right to share.</p>
+
+      <h2>6. Community contributions</h2>
+      <p>If you submit corrections, citations, dossiers, or other content to the Site, you grant DrugText.org a non-exclusive, royalty-free, worldwide license to publish, edit, and redistribute that content as part of the open archive. You represent that the submission is yours to share and does not infringe third-party rights.</p>
+
+      <h2>7. Intellectual property</h2>
+      <p>Site code is open-source under the license stated in the repository. Editorial content is published under a permissive open license; specific entry-level licensing terms appear on each entry where applicable. Third-party trademarks (including substance brand names referenced in reviews) remain the property of their respective owners and are used solely for identification.</p>
+
+      <h2>8. Third-party links and brand reviews</h2>
+      <p>The Site links to third-party sources for citations and context. We do not control those sources and are not responsible for their content. Brand reviews are independent editorial assessments based on publicly available information at the time of publication and are not commercial endorsements.</p>
+
+      <h2>9. Disclaimer of warranties</h2>
+      <p>The Site is provided "as is" and "as available" without warranties of any kind, express or implied, including warranties of merchantability, fitness for a particular purpose, and non-infringement.</p>
+
+      <h2>10. Limitation of liability</h2>
+      <p>To the maximum extent permitted by law, DrugText.org, its contributors, and its sponsors will not be liable for any indirect, incidental, special, consequential, or punitive damages arising from your use of, or inability to use, the Site or its content.</p>
+
+      <h2>11. Changes to these terms</h2>
+      <p>We may update these terms from time to time. The "Last updated" date at the top of this page reflects the most recent change. Continued use of the Site after an update constitutes acceptance of the revised terms.</p>
+
+      <h2>12. Governing law</h2>
+      <p>These terms are governed by the laws of the jurisdiction in which DrugText.org is operated, without regard to its conflict-of-laws principles.</p>
+
+      <h2>13. Contact</h2>
+      <p>Questions about these terms can be sent through the <a href="/contact">contact page</a>.</p>
+    </div>
+  </article>
+</BaseLayout>
+
+<style>
+  .page { max-width: 880px; margin: 0 auto; padding: 40px 48px 80px; }
+  .page__head { margin: 28px 0 40px; }
+  .page__lede {
+    font-family: var(--dt-font-mono);
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--dt-text-muted);
+    margin: 14px 0 0;
+  }
+  @media (max-width: 720px) { .page { padding: 32px 24px 64px; } }
+</style>

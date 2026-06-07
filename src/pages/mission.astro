@@ -1,0 +1,128 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Breadcrumb from '../components/Breadcrumb.astro';
+import SectionHeader from '../components/SectionHeader.astro';
+import FeatureCard from '../components/FeatureCard.astro';
+import Button from '../components/Button.astro';
+import Eyebrow from '../components/Eyebrow.astro';
+
+const principles = [
+  { title: 'NON_JUDGMENTAL', body: 'Information is presented factually and without moralizing. We describe substances, we do not endorse or condemn their use.' },
+  { title: 'SCIENCE_FIRST', body: 'Every entry cites peer-reviewed research, government datasets, or first-hand reports. Uncertainty is flagged, never hidden.' },
+  { title: 'HARM_REDUCTION', body: 'When people choose to use, accurate dosing, interaction, and safety information saves lives. We make that information freely available.' },
+  { title: 'OPEN_SOURCE', body: 'The database, schemas, and content are versioned in public. Anyone can audit, correct, or contribute to the record.' },
+  { title: 'PRIVACY_BY_DEFAULT', body: 'No accounts required. No tracking pixels. Reports are anonymized at submission.' },
+  { title: 'GLOBAL_LEGAL_DATA', body: 'Legal status is recorded for 190+ jurisdictions and updated as laws change. Travel and local context matter.' },
+];
+
+const title = 'Our Mission — Harm Reduction Through Open Information';
+const description = 'DrugText.org exists to make accurate, non-judgmental, harm reduction information about psychoactive substances freely available to everyone. Our principles, in plain language.';
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'AboutPage',
+  name: 'DrugText Mission',
+  url: 'https://www.drugtext.org/mission',
+  description,
+};
+---
+<BaseLayout title={title} description={description} jsonLd={jsonLd}>
+  <article class="page">
+    <Breadcrumb items={[{ label: 'Home', href: '/' }, { label: 'Mission' }]} />
+
+    <header class="page__head">
+      <Eyebrow>MISSION_STATEMENT // OPEN_INFRASTRUCTURE</Eyebrow>
+      <h1 class="dt-h1">OUR_MISSION</h1>
+      <p class="page__lede">To make accurate, non-judgmental, harm reduction information about psychoactive substances freely available to everyone, everywhere, in every language we can support.</p>
+    </header>
+
+    <section class="block">
+      <SectionHeader title="WHY_WE_EXIST" />
+      <div class="prose">
+        <p>Drug education in most of the world is built on fear. It is designed to discourage use, not to keep people who do use alive and informed. The result is predictable: people who use drugs are pushed toward unreliable sources, unverified products, and unsafe practices — exactly the conditions that lead to overdose, contamination, and preventable harm.</p>
+        <p>We reject that model. DrugText.org operates on the premise that people make better decisions when they have better information, and that withholding facts in the name of discouragement has never reduced harm — only its visibility.</p>
+        <p>Our job is to be the reference, not the referee. We document. We cite. We flag risk. We do not moralize, and we do not tell anyone what to do.</p>
+      </div>
+    </section>
+
+    <section class="block">
+      <SectionHeader title="CORE_PRINCIPLES" description="The rules we apply to every entry, every brand review, and every editorial decision." />
+      <div class="grid">
+        {principles.map((p) => <FeatureCard title={p.title}>{p.body}</FeatureCard>)}
+      </div>
+    </section>
+
+    <section class="block">
+      <SectionHeader title="WHAT_WE_DO_NOT_DO" />
+      <div class="prose">
+        <p>We do not sell substances. We do not link to vendors that have not been independently verified. We do not accept paid placements in editorial content. We do not collect personal data from readers.</p>
+        <p>We do not publish trip reports without context, lethal-dose tables without harm reduction guidance, or vendor lists without an explicit review of supply-chain risk.</p>
+      </div>
+    </section>
+
+    <aside class="cta">
+      <h3 class="cta__title">CONTRIBUTE_TO_THE_ARCHIVE</h3>
+      <p class="cta__body">Researchers, clinicians, and harm reduction practitioners: the archive is community-maintained. Send corrections, citations, or first-hand observations.</p>
+      <Button variant="outline" href="/contact">CONTACT_US</Button>
+    </aside>
+  </article>
+</BaseLayout>
+
+<style>
+  .page { max-width: 1000px; margin: 0 auto; padding: 40px 48px 80px; }
+  .page__head { margin: 28px 0 48px; display: flex; flex-direction: column; gap: 18px; align-items: flex-start; }
+  .page__lede {
+    font-family: var(--dt-font-body);
+    font-size: 19px;
+    line-height: 1.6;
+    color: var(--dt-text-muted);
+    margin: 0;
+    max-width: 720px;
+  }
+  .block { margin-bottom: 64px; }
+  .prose { display: flex; flex-direction: column; gap: 20px; max-width: 840px; }
+  .prose p {
+    font-family: var(--dt-font-body);
+    font-size: 16px;
+    line-height: 1.7;
+    color: var(--dt-text-body);
+    margin: 0;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 16px;
+  }
+  .cta {
+    border: 1px solid var(--dt-border);
+    border-radius: 2px;
+    padding: 44px 32px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 18px;
+    text-align: center;
+    background: var(--dt-bg-subtle);
+  }
+  .cta__title {
+    font-family: var(--dt-font-mono);
+    font-weight: 700;
+    font-size: 18px;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--dt-ink);
+    margin: 0;
+  }
+  .cta__body {
+    font-family: var(--dt-font-body);
+    font-size: 16px;
+    color: var(--dt-text-muted);
+    margin: 0;
+    max-width: 560px;
+  }
+  @media (max-width: 1024px) { .grid { grid-template-columns: 1fr 1fr; } }
+  @media (max-width: 720px) {
+    .page { padding: 32px 24px 64px; }
+    .grid { grid-template-columns: 1fr; }
+  }
+</style>

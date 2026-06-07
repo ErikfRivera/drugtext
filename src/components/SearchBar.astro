@@ -1,0 +1,66 @@
+---
+interface Props {
+  placeholder?: string;
+  buttonLabel?: string;
+  name?: string;
+  action?: string;
+}
+const { placeholder = 'Search database...', buttonLabel, name = 'q', action = '/search' } = Astro.props;
+---
+<form class="sb" role="search" action={action} method="get">
+  <div class="sb__field">
+    <svg class="sb__icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" aria-hidden="true">
+      <circle cx="11" cy="11" r="7" />
+      <path d="m21 21-4.3-4.3" />
+    </svg>
+    <input class="sb__input" type="search" name={name} placeholder={placeholder} aria-label={placeholder} />
+  </div>
+  {buttonLabel && <button class="sb__btn" type="submit">{buttonLabel}</button>}
+</form>
+
+<style>
+  .sb {
+    display: flex;
+    align-items: stretch;
+    width: 100%;
+  }
+  .sb__field {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex: 1;
+    background: var(--dt-surface);
+    border: 1px solid var(--dt-border-strong);
+    border-radius: 2px;
+    padding: 12px 14px;
+    color: var(--dt-text-faint);
+  }
+  .sb__field:focus-within { border-color: var(--dt-border-ink); }
+  .sb__icon { flex: none; }
+  .sb__input {
+    border: 0;
+    outline: 0;
+    background: transparent;
+    width: 100%;
+    font-family: var(--dt-font-mono);
+    font-size: 13px;
+    color: var(--dt-ink);
+  }
+  .sb__input::placeholder { color: var(--dt-text-faint); }
+  .sb__btn {
+    font-family: var(--dt-font-mono);
+    font-weight: 700;
+    font-size: 13px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    background: var(--dt-ink-strong);
+    color: #fff;
+    border: 0;
+    border-radius: 2px;
+    padding: 0 22px;
+    margin-left: 12px;
+    cursor: pointer;
+    white-space: nowrap;
+  }
+  .sb__btn:hover { background: #27272A; }
+</style>

@@ -1,0 +1,40 @@
+---
+interface Props {
+  level: 'low' | 'moderate' | 'high';
+  label?: string;
+}
+const { level, label } = Astro.props;
+const labels = { low: 'LOW RISK', moderate: 'MODERATE RISK', high: 'HIGH RISK' };
+---
+<span class:list={['risk', `risk--${level}`]}>{label || labels[level]}</span>
+
+<style>
+  .risk {
+    display: inline-flex;
+    align-items: center;
+    font-family: var(--dt-font-mono);
+    font-weight: 700;
+    font-size: 12px;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    padding: 3px 8px;
+    border-radius: 2px;
+    border: 1px solid transparent;
+    white-space: nowrap;
+  }
+  .risk--low {
+    color: var(--dt-risk-low-fg);
+    background: var(--dt-risk-low-bg);
+    border-color: var(--dt-risk-low-border);
+  }
+  .risk--moderate {
+    color: var(--dt-risk-mod-fg);
+    background: var(--dt-risk-mod-bg);
+    border-color: var(--dt-risk-mod-border);
+  }
+  .risk--high {
+    color: var(--dt-risk-high-fg);
+    background: var(--dt-risk-high-bg);
+    border-color: var(--dt-risk-high-border);
+  }
+</style>

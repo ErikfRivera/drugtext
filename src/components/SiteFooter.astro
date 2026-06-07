@@ -1,0 +1,121 @@
+---
+import Logo from './Logo.astro';
+
+const cols = [
+  {
+    title: 'DATABASE',
+    links: [
+      { label: 'Peptides', href: '/peptides' },
+      { label: 'Brand Reviews', href: '/brands/mynd-mushroom-chocolates' },
+    ],
+  },
+  {
+    title: 'RESOURCES',
+    links: [
+      { label: 'About', href: '/about' },
+      { label: 'Mission', href: '/mission' },
+      { label: 'Contact', href: '/contact' },
+    ],
+  },
+  {
+    title: 'LEGAL',
+    links: [
+      { label: 'Terms & Conditions', href: '/terms' },
+      { label: 'Privacy Policy', href: '/privacy' },
+    ],
+  },
+];
+const year = new Date().getFullYear();
+---
+<footer class="footer">
+  <div class="dt-container footer__inner">
+    <div class="footer__cols">
+      <div class="footer__brand">
+        <Logo size={16} />
+        <p class="footer__tag">Dedicated to providing accurate, unbiased information about psychoactive substances to promote harm reduction and informed decision making.</p>
+      </div>
+      {cols.map((c) => (
+        <div class="footer__col">
+          <div class="footer__col-title">{c.title}</div>
+          {c.links.map((l) => (
+            <a href={l.href} class="footer__link">{l.label}</a>
+          ))}
+        </div>
+      ))}
+    </div>
+    <div class="footer__bottom">
+      <div class="footer__disclaimer">
+        <span class="footer__warn">⚠</span> DISCLAIMER: This site does not encourage the use of illicit substances. Information is provided for harm reduction and educational purposes only.
+      </div>
+      <div class="footer__copy">© {year} DrugText.org. All rights reserved. Open Source Database.</div>
+    </div>
+  </div>
+</footer>
+
+<style>
+  .footer {
+    background: var(--dt-surface);
+    border-top: 1px solid var(--dt-border);
+    margin-top: auto;
+  }
+  .footer__inner { padding-block: 56px 36px; }
+  .footer__cols {
+    display: grid;
+    grid-template-columns: 1.4fr 1fr 1fr 1fr;
+    gap: 40px;
+  }
+  .footer__brand { display: flex; flex-direction: column; gap: 14px; }
+  .footer__tag {
+    font-family: var(--dt-font-body);
+    font-size: 13px;
+    line-height: 1.6;
+    color: var(--dt-text-muted);
+    margin: 0;
+    max-width: 260px;
+  }
+  .footer__col { display: flex; flex-direction: column; gap: 12px; }
+  .footer__col-title {
+    font-family: var(--dt-font-mono);
+    font-weight: 700;
+    font-size: 12px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--dt-ink);
+  }
+  .footer__link {
+    font-family: var(--dt-font-body);
+    font-size: 14px;
+    color: var(--dt-text-muted);
+    text-decoration: none;
+    transition: color var(--dt-dur-fast) var(--dt-ease);
+  }
+  .footer__link:hover { color: var(--dt-ink); }
+  .footer__bottom {
+    border-top: 1px solid var(--dt-border);
+    margin-top: 44px;
+    padding-top: 24px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    align-items: center;
+    text-align: center;
+  }
+  .footer__disclaimer {
+    font-family: var(--dt-font-mono);
+    font-size: 12px;
+    color: var(--dt-text-muted);
+    line-height: 1.6;
+  }
+  .footer__warn { color: var(--dt-warning-line); }
+  .footer__copy {
+    font-family: var(--dt-font-mono);
+    font-size: 12px;
+    color: var(--dt-text-faint);
+  }
+  @media (max-width: 880px) {
+    .footer__cols { grid-template-columns: 1fr 1fr; }
+  }
+  @media (max-width: 520px) {
+    .footer__cols { grid-template-columns: 1fr; }
+  }
+</style>

@@ -1,0 +1,145 @@
+---
+import Logo from './Logo.astro';
+
+const items = [
+  { label: 'LIBRARY', href: '/#browse' },
+  { label: 'PEPTIDES', href: '/peptides' },
+  { label: 'BRANDS', href: '/#brand-reviews' },
+  { label: 'MISSION', href: '/mission' },
+  { label: 'ABOUT', href: '/about' },
+];
+const path = Astro.url.pathname.replace(/\/$/, '') || '/';
+---
+<header class="nav">
+  <div class="dt-container nav__inner">
+    <Logo size={18} href="/" />
+    <nav class="nav__items" aria-label="Primary">
+      {items.map((it) => {
+        const href = it.href.split('#')[0] || '/';
+        const active = href === path || (href !== '/' && path.startsWith(href));
+        return (
+          <a href={it.href} class:list={['nav__link', active && 'nav__link--active']}>{it.label}</a>
+        );
+      })}
+      <a href="/#search" class="nav__search">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" aria-hidden="true">
+          <circle cx="11" cy="11" r="7" />
+          <path d="m21 21-4.3-4.3" />
+        </svg>
+        Search
+      </a>
+    </nav>
+    <button class="nav__menu" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="mobile-nav">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true">
+        <line x1="3" y1="6" x2="21" y2="6" />
+        <line x1="3" y1="12" x2="21" y2="12" />
+        <line x1="3" y1="18" x2="21" y2="18" />
+      </svg>
+    </button>
+  </div>
+  <nav id="mobile-nav" class="nav__mobile" hidden aria-label="Primary mobile">
+    {items.map((it) => (
+      <a href={it.href} class="nav__mobile-link">{it.label}</a>
+    ))}
+  </nav>
+</header>
+
+<style>
+  .nav {
+    position: sticky;
+    top: 0;
+    z-index: 50;
+    background: rgba(255, 255, 255, 0.92);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    border-bottom: 1px solid var(--dt-border);
+  }
+  .nav__inner {
+    height: var(--dt-nav-h);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .nav__items {
+    display: flex;
+    align-items: center;
+    gap: 28px;
+  }
+  .nav__link {
+    font-family: var(--dt-font-mono);
+    font-weight: 500;
+    font-size: 13px;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: var(--dt-text-muted);
+    transition: color var(--dt-dur-fast) var(--dt-ease);
+  }
+  .nav__link:hover { color: var(--dt-ink); }
+  .nav__link--active { color: var(--dt-ink); font-weight: 700; }
+  .nav__search {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    font-family: var(--dt-font-mono);
+    font-weight: 700;
+    font-size: 12px;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--dt-ink);
+    background: var(--dt-surface);
+    border: 1px solid var(--dt-border-strong);
+    border-radius: 2px;
+    padding: 8px 14px;
+    text-decoration: none;
+    cursor: pointer;
+    transition: border-color var(--dt-dur-fast) var(--dt-ease);
+  }
+  .nav__search:hover { border-color: var(--dt-border-ink); }
+
+  .nav__menu {
+    display: none;
+    background: transparent;
+    border: 1px solid var(--dt-border-strong);
+    border-radius: 2px;
+    padding: 8px;
+    cursor: pointer;
+    color: var(--dt-ink);
+  }
+  .nav__mobile {
+    display: none;
+    flex-direction: column;
+    border-top: 1px solid var(--dt-border);
+    background: var(--dt-surface);
+  }
+  .nav__mobile[data-open="true"] { display: flex; }
+  .nav__mobile-link {
+    font-family: var(--dt-font-mono);
+    font-weight: 500;
+    font-size: 14px;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--dt-ink);
+    padding: 14px 24px;
+    border-bottom: 1px solid var(--dt-border);
+    text-decoration: none;
+  }
+
+  @media (max-width: 880px) {
+    .nav__items { display: none; }
+    .nav__menu { display: inline-flex; }
+  }
+</style>
+
+<script>
+  const btn = document.querySelector<HTMLButtonElement>('.nav__menu');
+  const menu = document.getElementById('mobile-nav');
+  if (btn && menu) {
+    btn.addEventListener('click', () => {
+      const open = menu.dataset.open === 'true';
+      menu.dataset.open = open ? 'false' : 'true';
+      menu.hidden = open;
+      btn.setAttribute('aria-expanded', String(!open));
+    });
+  }
+</script>

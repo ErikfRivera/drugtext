@@ -1,0 +1,24 @@
+---
+interface Props {
+  size?: number;
+  href?: string;
+}
+const { size = 18, href = '/' } = Astro.props;
+---
+<a href={href} class="logo" style={`--logo-size: ${size}px`} aria-label="DrugText.org home">
+  DRUG<span class="logo__accent">TEXT</span>_ORG
+</a>
+
+<style>
+  .logo {
+    font-family: var(--dt-font-mono);
+    font-weight: 700;
+    font-size: var(--logo-size, 18px);
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    color: var(--dt-ink);
+    white-space: nowrap;
+    text-decoration: none;
+  }
+  .logo__accent { color: var(--dt-blue); }
+</style>

@@ -1,0 +1,37 @@
+---
+interface Props {
+  variant?: 'warning' | 'info';
+}
+const { variant = 'warning' } = Astro.props;
+---
+<aside class:list={['callout', `callout--${variant}`]} role="note">
+  <svg class="callout__icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+    <path d="m10.29 3.86-8.18 14A2 2 0 0 0 3.83 21h16.34a2 2 0 0 0 1.72-3.14l-8.18-14a2 2 0 0 0-3.42 0z" />
+    <path d="M12 9v4" />
+    <path d="M12 17h.01" />
+  </svg>
+  <div class="callout__body"><slot /></div>
+</aside>
+
+<style>
+  .callout {
+    display: flex;
+    gap: 12px;
+    align-items: flex-start;
+    padding: 14px 18px;
+    font-family: var(--dt-font-mono);
+    font-size: 12px;
+    line-height: 1.55;
+    color: var(--dt-text-body);
+  }
+  .callout--warning {
+    background: var(--dt-warning-bg);
+    border-left: 4px solid var(--dt-warning-line);
+  }
+  .callout--info {
+    background: var(--dt-blue-bg);
+    border-left: 4px solid var(--dt-blue);
+  }
+  .callout__icon { flex: none; margin-top: 1px; color: var(--dt-warning-line); }
+  .callout--info .callout__icon { color: var(--dt-blue); }
+</style>

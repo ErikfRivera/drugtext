@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 48" role="img" aria-label="DrugText.org">
+  <style>
+    .ink { fill: #18181B; }
+    .blue { fill: #2563EB; }
+    text { font-family: 'JetBrains Mono', ui-monospace, Menlo, Consolas, monospace; font-weight: 700; font-size: 32px; letter-spacing: 0.5px; }
+  </style>
+  <text x="0" y="36">
+    <tspan class="ink">DRUG</tspan><tspan class="blue">TEXT</tspan><tspan class="ink">_ORG</tspan>
+  </text>
+</svg>

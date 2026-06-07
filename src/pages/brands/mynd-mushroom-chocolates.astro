@@ -1,0 +1,269 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumb from '../../components/Breadcrumb.astro';
+import Eyebrow from '../../components/Eyebrow.astro';
+import Callout from '../../components/Callout.astro';
+import SectionHeader from '../../components/SectionHeader.astro';
+import FeatureCard from '../../components/FeatureCard.astro';
+
+const updated = '2026-06-07';
+
+const flags = [
+  { tone: 'critical', label: 'NO_VERIFIABLE_LAB_TESTING', body: 'No third-party certificate of analysis (COA) is publicly published for any production batch. Requests for COAs to listed contact addresses have gone unanswered.' },
+  { tone: 'critical', label: 'COMPETING_OFFICIAL_DOMAINS', body: 'Multiple domains claim to be the "official" MYND Mushroom Chocolates storefront. Several use mismatched branding, payment processors, and shipping origins, making it impossible to confirm which (if any) is authorized.' },
+  { tone: 'warning', label: 'UNVERIFIED_DOSING_CLAIMS', body: 'Per-piece psilocybin content is stated on packaging but cannot be independently verified absent lab data. Reported subjective potency varies substantially across batches per first-hand reports.' },
+  { tone: 'warning', label: 'OPAQUE_INGREDIENT_SOURCING', body: 'Mushroom species, mycelium/fruit ratio, and adjunct ingredients ("functional blend", "nootropic stack") are not specified at the level necessary to assess pharmacology or allergen risk.' },
+  { tone: 'warning', label: 'PAYMENT_AND_RETURNS', body: 'Payment processors and refund policies differ between the competing storefronts. Several charge through generic merchant descriptors that complicate dispute resolution.' },
+];
+
+const verdict = {
+  label: 'UNVERIFIED',
+  body: 'Insufficient transparency to recommend. Until a single authoritative storefront publishes third-party lab results and answers basic supply-chain questions, MYND Mushroom Chocolates should be treated as an unverified brand operating in the grey market.',
+};
+
+const title = 'MYND Mushroom Chocolates Review — Brand Verification & Red Flags';
+const description = 'Independent brand review of MYND Mushroom Chocolates: lab verification status, competing storefront domains, dosing claims, payment risk, and an unverified verdict. Updated June 2026.';
+
+const canonical = 'https://www.drugtext.org/brands/mynd-mushroom-chocolates';
+
+const jsonLd = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Review',
+    name: 'MYND Mushroom Chocolates — Brand Review',
+    url: canonical,
+    datePublished: updated,
+    dateModified: updated,
+    itemReviewed: {
+      '@type': 'Brand',
+      name: 'MYND Mushroom Chocolates',
+      description: 'California-marketed psilocybin mushroom chocolate brand.',
+    },
+    reviewBody: 'Insufficient transparency to recommend. Multiple critical flags identified including absent third-party lab testing and competing "official" storefronts.',
+    reviewRating: {
+      '@type': 'Rating',
+      ratingValue: '0',
+      bestRating: '100',
+      worstRating: '0',
+      alternateName: 'Unverified',
+    },
+    author: { '@type': 'Organization', name: 'DrugText.org' },
+    publisher: { '@type': 'Organization', name: 'DrugText.org' },
+  },
+];
+---
+<BaseLayout title={title} description={description} jsonLd={jsonLd} ogType="article">
+  <article class="page">
+    <Breadcrumb items={[
+      { label: 'Home', href: '/' },
+      { label: 'Brand Reviews', href: '/#brand-reviews' },
+      { label: 'MYND Mushroom Chocolates' },
+    ]} />
+
+    <header class="page__head">
+      <Eyebrow>BRAND_REVIEW // PSILOCYBIN_EDIBLES</Eyebrow>
+      <h1 class="dt-display">MYND Mushroom Chocolates</h1>
+      <p class="page__lede">Independent assessment of a California-marketed psilocybin mushroom chocolate brand. Lab verification, supply-chain transparency, and consumer risk — without commercial influence.</p>
+      <div class="meta">
+        <span class="meta__chip meta__chip--unverified">UNVERIFIED</span>
+        <span class="meta__item">CATEGORY · Psilocybin Edibles</span>
+        <span class="meta__item">FLAGGED · 2 Critical / 3 Warning</span>
+        <span class="meta__item">UPDATED · <time datetime={updated}>JUN 7 2026</time></span>
+      </div>
+    </header>
+
+    <Callout>This review is independent editorial analysis based on publicly available information at the time of publication. It is not a commercial endorsement. Psilocybin is a controlled substance in most jurisdictions; nothing here is encouragement to acquire or use it.</Callout>
+
+    <section class="block">
+      <SectionHeader title="SUMMARY" />
+      <div class="prose">
+        <p>MYND Mushroom Chocolates is a brand marketing psilocybin-containing mushroom chocolate bars and gummies primarily to U.S. consumers, with California-coded packaging and product copy. Multiple websites present themselves as the "official" MYND storefront, and the brand has not, to date, published third-party laboratory testing for any production batch we could verify.</p>
+        <p>On the available evidence — absent COAs, opaque sourcing, and a fractured retail surface — we are unable to recommend the brand. We flag it as <strong>UNVERIFIED</strong> and document the specific issues below.</p>
+      </div>
+    </section>
+
+    <section class="block">
+      <SectionHeader title="CRITICAL_FLAGS_AND_WARNINGS" description="Each flag below is independently sourced. Where contact attempts were made, we note the outcome." />
+      <div class="flags">
+        {flags.map((f) => (
+          <div class:list={['flag', `flag--${f.tone}`]}>
+            <div class="flag__head">
+              <span class:list={['flag__tag', `flag__tag--${f.tone}`]}>{f.tone === 'critical' ? 'CRITICAL' : 'WARNING'}</span>
+              <h3 class="flag__title">{f.label}</h3>
+            </div>
+            <p class="flag__body">{f.body}</p>
+          </div>
+        ))}
+      </div>
+    </section>
+
+    <section class="block">
+      <SectionHeader title="WHAT_WE_LOOKED_FOR" />
+      <div class="grid">
+        <FeatureCard title="THIRD_PARTY_LAB_DATA">A current Certificate of Analysis from an ISO 17025 (or equivalent) lab covering psilocybin/psilocin content, contaminant screening, and heavy metals, tied to a verifiable batch number.</FeatureCard>
+        <FeatureCard title="SINGLE_AUTHORITATIVE_STORE">One clearly authoritative storefront, ideally with a verifiable corporate registration, consistent merchant-of-record, and a published returns address.</FeatureCard>
+        <FeatureCard title="DOSING_TRANSPARENCY">A specified species, an explicit per-piece dose range, and disclosure of any adjunct active ingredients ("functional blends" must be itemized).</FeatureCard>
+        <FeatureCard title="RESPONSIVE_SUPPORT">A contact channel that responds to documented test or refund requests within a reasonable window.</FeatureCard>
+      </div>
+    </section>
+
+    <section class="block">
+      <SectionHeader title="HARM_REDUCTION_CONTEXT" />
+      <div class="prose">
+        <p>Psilocybin from unverified sources carries two distinct risks: <strong>dose unpredictability</strong> (uneven distribution within edibles can produce substantially higher single-piece doses than the label suggests) and <strong>identity uncertainty</strong> (chocolate effectively masks the appearance, taste, and smell of the active ingredient, so adulteration cannot be detected by the consumer). Where the active is not lab-verified, the only conservative approach is to treat every piece as potentially higher-potency than advertised.</p>
+        <p>If you choose to use psilocybin products from the grey market, general harm-reduction practice applies: start with a fraction of any stated dose, do not combine with other psychoactive substances, ensure a trip-sitter, and avoid using in any setting where impairment carries safety, legal, or occupational risk.</p>
+      </div>
+    </section>
+
+    <section class="block">
+      <SectionHeader title="VERDICT" />
+      <div class="verdict">
+        <span class="verdict__tag">{verdict.label}</span>
+        <p class="verdict__body">{verdict.body}</p>
+      </div>
+    </section>
+
+    <section class="block">
+      <SectionHeader title="METHODOLOGY" />
+      <div class="prose">
+        <p>DrugText.org brand reviews are independent and unsponsored. We examine publicly available product listings, packaging, claimed lab data, regulatory filings, payment processors, and first-hand consumer reports. We make at least one good-faith contact attempt to listed brand support channels. Findings are documented with sources, dated, and re-reviewed when new information appears.</p>
+        <p>Have additional information — a published COA, a corrected supply chain, a refund process update? <a href="/contact">Send a tip</a> and we will update this review.</p>
+      </div>
+    </section>
+  </article>
+</BaseLayout>
+
+<style>
+  .page { max-width: 900px; margin: 0 auto; padding: 32px 48px 80px; }
+  .page__head {
+    margin: 24px 0 40px;
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+  }
+  .page__lede {
+    font-family: var(--dt-font-body);
+    font-size: 18px;
+    line-height: 1.6;
+    color: var(--dt-text-muted);
+    margin: 4px 0 0;
+    max-width: 720px;
+  }
+  .meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px 18px;
+    align-items: center;
+    padding-top: 4px;
+  }
+  .meta__chip {
+    font-family: var(--dt-font-mono);
+    font-weight: 700;
+    font-size: 12px;
+    letter-spacing: 0.06em;
+    padding: 4px 10px;
+    border-radius: 2px;
+  }
+  .meta__chip--unverified {
+    color: var(--dt-warning);
+    background: var(--dt-warning-bg);
+    border: 1px solid var(--dt-warning-line);
+  }
+  .meta__item {
+    font-family: var(--dt-font-mono);
+    font-size: 12px;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: var(--dt-text-muted);
+  }
+  .block { margin-top: 56px; }
+  .prose { display: flex; flex-direction: column; gap: 18px; max-width: 760px; }
+  .prose p {
+    font-family: var(--dt-font-body);
+    font-size: 16px;
+    line-height: 1.7;
+    color: var(--dt-text-body);
+    margin: 0;
+  }
+  .prose a { color: var(--dt-blue); text-decoration: underline; text-underline-offset: 2px; }
+
+  .flags { display: flex; flex-direction: column; gap: 12px; }
+  .flag {
+    background: var(--dt-surface);
+    border: 1px solid var(--dt-border);
+    border-left: 4px solid var(--dt-border-strong);
+    border-radius: 2px;
+    padding: 18px 22px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+  }
+  .flag--critical { border-left-color: var(--dt-danger); }
+  .flag--warning { border-left-color: var(--dt-warning-line); }
+  .flag__head { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
+  .flag__tag {
+    font-family: var(--dt-font-mono);
+    font-weight: 700;
+    font-size: 11px;
+    letter-spacing: 0.08em;
+    padding: 3px 8px;
+    border-radius: 2px;
+  }
+  .flag__tag--critical { color: var(--dt-danger); background: #FEE2E2; border: 1px solid #FECACA; }
+  .flag__tag--warning { color: var(--dt-warning); background: var(--dt-warning-bg); border: 1px solid #FDE68A; }
+  .flag__title {
+    font-family: var(--dt-font-mono);
+    font-weight: 700;
+    font-size: 14px;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: var(--dt-ink);
+    margin: 0;
+  }
+  .flag__body {
+    font-family: var(--dt-font-body);
+    font-size: 15px;
+    line-height: 1.6;
+    color: var(--dt-text-body);
+    margin: 0;
+  }
+
+  .grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+  }
+
+  .verdict {
+    background: var(--dt-warning-bg);
+    border-left: 4px solid var(--dt-warning-line);
+    padding: 22px 24px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+  .verdict__tag {
+    align-self: flex-start;
+    font-family: var(--dt-font-mono);
+    font-weight: 700;
+    font-size: 12px;
+    letter-spacing: 0.08em;
+    color: var(--dt-warning);
+    background: #fff;
+    border: 1px solid var(--dt-warning-line);
+    padding: 4px 10px;
+    border-radius: 2px;
+  }
+  .verdict__body {
+    font-family: var(--dt-font-body);
+    font-size: 16px;
+    line-height: 1.65;
+    color: var(--dt-text-body);
+    margin: 0;
+  }
+
+  @media (max-width: 720px) {
+    .page { padding: 24px 24px 64px; }
+    .grid { grid-template-columns: 1fr; }
+  }
+</style>

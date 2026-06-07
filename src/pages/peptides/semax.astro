@@ -1,0 +1,281 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumb from '../../components/Breadcrumb.astro';
+import Eyebrow from '../../components/Eyebrow.astro';
+import Callout from '../../components/Callout.astro';
+import SectionHeader from '../../components/SectionHeader.astro';
+
+const updated = '2026-06-07';
+
+const factSheet = [
+  { label: 'CLASS', value: 'Heptapeptide · ACTH(4-10) analog' },
+  { label: 'ALIASES', value: 'N-acetyl Semax, Methionine Enkephalin variant' },
+  { label: 'STRUCTURE', value: 'Met-Glu-His-Phe-Pro-Gly-Pro' },
+  { label: 'STATUS_RU', value: 'Approved (cerebrovascular indications)' },
+  { label: 'STATUS_US_EU', value: 'Not approved · "research chemical"' },
+  { label: 'COMMON_ROUTES', value: 'Intranasal solution; subcutaneous injection' },
+  { label: 'EVIDENCE', value: 'Limited human data (primarily Russian publications)' },
+  { label: 'DRUGTEXT_RISK', value: 'MODERATE' },
+];
+
+const title = 'Semax — Profile, Reported Effects, Dosing & Harm Reduction';
+const description = 'Semax (ACTH(4-10) analog) profile: mechanism, reported nootropic and neuroprotective effects, dosing context, side effects, legal status, and harm reduction. Educational only.';
+
+const canonical = 'https://www.drugtext.org/peptides/semax';
+
+const jsonLd = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: 'Semax — Profile & Harm Reduction Reference',
+    description,
+    url: canonical,
+    datePublished: updated,
+    dateModified: updated,
+    author: { '@type': 'Organization', name: 'DrugText.org' },
+    publisher: { '@type': 'Organization', name: 'DrugText.org' },
+    about: {
+      '@type': 'Drug',
+      name: 'Semax',
+      alternateName: ['N-acetyl Semax', 'ACTH(4-10)-Pro-Gly-Pro'],
+      description: 'Synthetic heptapeptide analog of ACTH(4-10) developed in Russia for cerebrovascular and cognitive indications.',
+    },
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: [
+      {
+        '@type': 'Question',
+        name: 'What is Semax?',
+        acceptedAnswer: {
+          '@type': 'Answer',
+          text: 'Semax is a synthetic heptapeptide analog of adrenocorticotropic hormone fragment ACTH(4-10), developed in Russia. It is studied for nootropic and neuroprotective effects believed to be mediated through BDNF upregulation and modulation of the dopaminergic and serotonergic systems.',
+        },
+      },
+      {
+        '@type': 'Question',
+        name: 'Is Semax legal?',
+        acceptedAnswer: {
+          '@type': 'Answer',
+          text: 'Semax is an approved medicine in Russia for specific cerebrovascular indications. It is not approved by the FDA or EMA and is sold in most Western markets only as a "research chemical", which carries supply-chain and identity risk.',
+        },
+      },
+      {
+        '@type': 'Question',
+        name: 'What are the reported side effects?',
+        acceptedAnswer: {
+          '@type': 'Answer',
+          text: 'Published literature is limited but generally describes a clean side effect profile at researched doses. First-hand reports note occasional headache, sleep disruption, and emotional blunting at higher doses. Long-term safety in healthy adults has not been established.',
+        },
+      },
+    ],
+  },
+];
+---
+<BaseLayout title={title} description={description} jsonLd={jsonLd} ogType="article">
+  <article class="page">
+    <Breadcrumb items={[
+      { label: 'Home', href: '/' },
+      { label: 'Peptides', href: '/peptides' },
+      { label: 'Semax' },
+    ]} />
+
+    <header class="head">
+      <Eyebrow>COGNITIVE // PEP_013</Eyebrow>
+      <h1 class="dt-display">Semax</h1>
+      <p class="head__sub">A synthetic heptapeptide analog of ACTH(4-10), developed in Russia. Reported nootropic and neuroprotective effects through BDNF modulation. Educational reference only.</p>
+      <dl class="facts">
+        {factSheet.map((f) => (
+          <div class="fact">
+            <dt>{f.label}</dt>
+            <dd>{f.value}</dd>
+          </div>
+        ))}
+      </dl>
+    </header>
+
+    <Callout>Semax is not approved for human use in the United States, the European Union, or most other jurisdictions. Material sold as "Semax" in those markets is typically marketed as a research chemical and is not subject to pharmaceutical quality controls. Identity, potency, and contamination cannot be assumed without third-party lab verification.</Callout>
+
+    <section class="block">
+      <SectionHeader title="WHAT_IT_IS" />
+      <div class="prose">
+        <p>Semax is a heptapeptide — seven amino acids in the sequence Met-Glu-His-Phe-Pro-Gly-Pro — derived from the natural adrenocorticotropic hormone fragment ACTH(4-10), with a Pro-Gly-Pro tail added to slow enzymatic degradation. It was developed at the Institute of Molecular Genetics of the Russian Academy of Sciences in the late 1980s and is approved in Russia for specific cerebrovascular indications.</p>
+        <p>Outside Russia it has no marketing authorisation. Most consumer-facing supply takes the form of intranasal solutions sold as "research chemicals", commonly in either the base form or as the longer-acting N-acetyl derivative.</p>
+      </div>
+    </section>
+
+    <section class="block">
+      <SectionHeader title="REPORTED_MECHANISM" />
+      <div class="prose">
+        <p>Published research and review articles propose that Semax acts primarily through upregulation of brain-derived neurotrophic factor (BDNF) and nerve growth factor (NGF), with downstream effects on dopaminergic and serotonergic signaling. Animal models report neuroprotection in models of ischaemic injury and modulation of stress responses through the hypothalamic-pituitary-adrenal axis without classical glucocorticoid activity.</p>
+        <p>Human evidence outside Russia remains limited; the bulk of clinical data is in Russian-language journals and was conducted in cerebrovascular and post-stroke contexts rather than in healthy nootropic users.</p>
+      </div>
+    </section>
+
+    <section class="block">
+      <SectionHeader title="REPORTED_EFFECTS" />
+      <div class="prose">
+        <p>First-hand reports from non-clinical users typically describe subtle enhancement of focus, working memory, and verbal fluency over a course of days, rather than acute stimulant-like effects. Some reports note reduced perception of mental fatigue. Subjective effect size varies widely and is highly context-dependent.</p>
+        <p>None of the above constitutes a clinical claim. There are no large, blinded, placebo-controlled trials in healthy adults that would support marketing it as a cognitive enhancer.</p>
+      </div>
+    </section>
+
+    <section class="block">
+      <SectionHeader title="DOSING_CONTEXT" />
+      <div class="prose">
+        <p>Russian product literature for the approved cerebrovascular indication describes intranasal doses in the low-milligram range per day, divided. Non-clinical "research chemical" usage in Western markets has been reported across a wide span, often without standardized concentrations or droppers, which compounds the dose-uncertainty problem.</p>
+        <p>This entry does not publish a recommended dose. Without lab verification of the source material, any specific number would be misleading.</p>
+      </div>
+    </section>
+
+    <section class="block">
+      <SectionHeader title="SIDE_EFFECTS_AND_INTERACTIONS" />
+      <div class="prose">
+        <p>Published Russian literature describes a generally favourable short-term side-effect profile at studied doses. First-hand reports from non-clinical users include headache, light-headedness, nasal irritation (intranasal route), sleep disruption, and at higher doses a flattening of affect. Long-term safety in healthy adults has not been characterized.</p>
+        <p>Interactions with psychiatric medications — particularly serotonergic and dopaminergic agents — are not well studied and should be assumed to be possible. Concomitant use with prescription medications should be reviewed with a qualified clinician.</p>
+      </div>
+    </section>
+
+    <section class="block">
+      <SectionHeader title="LEGAL_STATUS" />
+      <div class="prose">
+        <p>Semax is an approved prescription medicine in the Russian Federation. It is <strong>not</strong> approved by the U.S. Food and Drug Administration or the European Medicines Agency, and it is not a scheduled controlled substance in most Western jurisdictions. Possession of "research chemical" preparations may still violate medicines, customs, or doping regulations depending on the jurisdiction, the route of import, and the user's status (e.g. competitive athletes subject to WADA rules should consult the current prohibited list).</p>
+      </div>
+    </section>
+
+    <section class="block">
+      <SectionHeader title="HARM_REDUCTION" />
+      <div class="prose">
+        <p>The single largest harm vector for Semax in Western markets is supply: product sold as "Semax" by unverified research-chemical vendors may contain a different peptide, may be degraded, or may be contaminated. The conservative practice is to (a) refuse to buy from vendors that cannot supply a current, third-party Certificate of Analysis tied to a verifiable batch number, (b) start at a fraction of any anecdotally cited dose, and (c) avoid combination with other psychoactive substances until baseline tolerability is established.</p>
+        <p>Intranasal preparations introduce additional considerations: cross-contamination of the dropper, microbial growth in poorly preserved solutions, and inconsistent absorption. Avoid using preparations that have been opened for long periods or stored outside manufacturer-specified conditions.</p>
+      </div>
+    </section>
+
+    <section class="block">
+      <SectionHeader title="FREQUENTLY_ASKED_QUESTIONS" />
+      <div class="faq">
+        <details>
+          <summary>Is Semax the same as N-acetyl Semax?</summary>
+          <p>No. N-acetyl Semax (sometimes "NA-Semax") carries an acetyl group on the N-terminus, which slows degradation and is reported to extend duration. Effective dose and onset differ between the two forms.</p>
+        </details>
+        <details>
+          <summary>Is it banned in sport?</summary>
+          <p>Athletes subject to WADA or similar anti-doping authorities should consult the current prohibited list. Semax's status has shifted over time and varies by sport and tier.</p>
+        </details>
+        <details>
+          <summary>Can I buy it legally in the United States?</summary>
+          <p>It is not approved for medical use and is not a scheduled controlled substance in the U.S., but it cannot be marketed for human consumption. Vendors typically sell it labelled "for research purposes only".</p>
+        </details>
+      </div>
+    </section>
+
+    <section class="block">
+      <SectionHeader title="SOURCES_AND_LAST_REVIEW" />
+      <div class="prose">
+        <p>This entry synthesises peer-reviewed pharmacology reviews, the Russian product literature for the approved indication, and aggregated first-hand reports. It is reviewed quarterly and on any material change in regulatory status. Last reviewed: <time datetime={updated}>{updated}</time>.</p>
+        <p>Have a correction or a citation we should add? <a href="/contact">Send it here.</a></p>
+      </div>
+    </section>
+  </article>
+</BaseLayout>
+
+<style>
+  .page { max-width: 900px; margin: 0 auto; padding: 32px 48px 80px; }
+  .head {
+    border: 1px solid var(--dt-border);
+    border-radius: 2px;
+    background: var(--dt-surface);
+    padding: 32px;
+    margin: 24px 0 24px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    align-items: flex-start;
+  }
+  .head__sub {
+    font-family: var(--dt-font-body);
+    font-size: 17px;
+    line-height: 1.6;
+    color: var(--dt-text-muted);
+    margin: 0;
+    max-width: 720px;
+  }
+  .facts {
+    margin: 8px 0 0;
+    padding: 16px 0 0;
+    border-top: 1px solid var(--dt-border);
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 12px 32px;
+  }
+  .fact { display: flex; flex-direction: column; gap: 2px; }
+  .fact dt {
+    font-family: var(--dt-font-mono);
+    font-size: 10px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--dt-text-muted);
+  }
+  .fact dd {
+    font-family: var(--dt-font-mono);
+    font-size: 13px;
+    color: var(--dt-ink);
+    margin: 0;
+  }
+
+  .block { margin-top: 56px; }
+  .prose { display: flex; flex-direction: column; gap: 18px; max-width: 760px; }
+  .prose p {
+    font-family: var(--dt-font-body);
+    font-size: 16px;
+    line-height: 1.7;
+    color: var(--dt-text-body);
+    margin: 0;
+  }
+  .prose a { color: var(--dt-blue); text-decoration: underline; text-underline-offset: 2px; }
+  .prose strong { color: var(--dt-ink); font-weight: 600; }
+
+  .faq { display: flex; flex-direction: column; gap: 4px; max-width: 760px; }
+  .faq details {
+    border-top: 1px solid var(--dt-border);
+    padding: 14px 0;
+  }
+  .faq details:last-child { border-bottom: 1px solid var(--dt-border); }
+  .faq summary {
+    cursor: pointer;
+    font-family: var(--dt-font-mono);
+    font-weight: 700;
+    font-size: 14px;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    color: var(--dt-ink);
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+  }
+  .faq summary::-webkit-details-marker { display: none; }
+  .faq summary::after {
+    content: '+';
+    color: var(--dt-text-muted);
+    font-weight: 400;
+    font-size: 18px;
+  }
+  .faq details[open] summary::after { content: '−'; }
+  .faq details p {
+    font-family: var(--dt-font-body);
+    font-size: 15px;
+    line-height: 1.65;
+    color: var(--dt-text-body);
+    margin: 10px 0 0;
+  }
+
+  @media (max-width: 720px) {
+    .page { padding: 24px 24px 64px; }
+    .head { padding: 24px; }
+    .facts { grid-template-columns: 1fr; }
+  }
+</style>
