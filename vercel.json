@@ -12,6 +12,286 @@
       "source": "/library/research/mdma/archive/15/default.htm",
       "destination": "/library/mdma/substance-abuse-textbook",
       "permanent": true
+    },
+    {
+      "source": "/articles/michka1.html",
+      "destination": "/library/cannabis/professor-nahas-crusade-art-of-disinformation",
+      "permanent": true
+    },
+    {
+      "source": "/articles/michka1.htm",
+      "destination": "/library/cannabis/professor-nahas-crusade-art-of-disinformation",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/michka1.html",
+      "destination": "/library/cannabis/professor-nahas-crusade-art-of-disinformation",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/michka1.htm",
+      "destination": "/library/cannabis/professor-nahas-crusade-art-of-disinformation",
+      "permanent": true
+    },
+    {
+      "source": "/press/webster/jun00/",
+      "destination": "/library/policy",
+      "permanent": true
+    },
+    {
+      "source": "/press/webster/jun00/index.html",
+      "destination": "/library/policy",
+      "permanent": true
+    },
+    {
+      "source": "/press/webster/jun00/index.htm",
+      "destination": "/library/policy",
+      "permanent": true
+    },
+    {
+      "source": "/articles/902208.html",
+      "destination": "/library/policy/building-upon-the-successes-of-dutch-drug-policy",
+      "permanent": true
+    },
+    {
+      "source": "/articles/902208.htm",
+      "destination": "/library/policy/building-upon-the-successes-of-dutch-drug-policy",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/902208.html",
+      "destination": "/library/policy/building-upon-the-successes-of-dutch-drug-policy",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/902208.htm",
+      "destination": "/library/policy/building-upon-the-successes-of-dutch-drug-policy",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/ial5.html",
+      "destination": "/library/policy/the-drug-war",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/ial5.htm",
+      "destination": "/library/policy/the-drug-war",
+      "permanent": true
+    },
+    {
+      "source": "/articles/ial5.html",
+      "destination": "/library/policy/the-drug-war",
+      "permanent": true
+    },
+    {
+      "source": "/articles/ial5.htm",
+      "destination": "/library/policy/the-drug-war",
+      "permanent": true
+    },
+    {
+      "source": "/Drug-Policy-Letter-march/april-1989/court-continues-privacy-erosion.html",
+      "destination": "/library/policy/court-continues-privacy-erosion",
+      "permanent": true
+    },
+    {
+      "source": "/Drug-Policy-Letter-march/april-1989/court-continues-privacy-erosion/Print.html",
+      "destination": "/library/policy/court-continues-privacy-erosion",
+      "permanent": true
+    },
+    {
+      "source": "/Drug-Policy-Letter-march/april-1989/court-continues-privacy-erosion.htm",
+      "destination": "/library/policy/court-continues-privacy-erosion",
+      "permanent": true
+    },
+    {
+      "source": "/drug-policy-letter-march/april-1989/court-continues-privacy-erosion.html",
+      "destination": "/library/policy/court-continues-privacy-erosion",
+      "permanent": true
+    },
+    {
+      "source": "/Le-Dain-Interim-Report/cannabis.html",
+      "destination": "/reports/le-dain-interim-report/cannabis",
+      "permanent": true
+    },
+    {
+      "source": "/Le-Dain-Interim-Report/cannabis.htm",
+      "destination": "/reports/le-dain-interim-report/cannabis",
+      "permanent": true
+    },
+    {
+      "source": "/le-dain-interim-report/cannabis.html",
+      "destination": "/reports/le-dain-interim-report/cannabis",
+      "permanent": true
+    },
+    {
+      "source": "/le-dain-interim-report/cannabis.htm",
+      "destination": "/reports/le-dain-interim-report/cannabis",
+      "permanent": true
+    },
+    {
+      "source": "/Le-Dain-Interim-Report/cannabis/Print.html",
+      "destination": "/reports/le-dain-interim-report/cannabis",
+      "permanent": true
+    },
+    {
+      "source": "/le-dain-interim-report/cannabis/print.html",
+      "destination": "/reports/le-dain-interim-report/cannabis",
+      "permanent": true
+    },
+    {
+      "source": "/staff/Print.html",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/staff/print.html",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/staff/",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/staff",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/staff/default.htm",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/staff/default.html",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/Recreational-Drugs/coleus/Print.html",
+      "destination": "/library/coleus/recreational-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/Recreational-Drugs/coleus/print.html",
+      "destination": "/library/coleus/recreational-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/Recreational-Drugs/coleus/Print.htm",
+      "destination": "/library/coleus/recreational-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/Recreational-Drugs/coleus/print.htm",
+      "destination": "/library/coleus/recreational-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/recreational-drugs/coleus/Print.html",
+      "destination": "/library/coleus/recreational-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/recreational-drugs/coleus/print.html",
+      "destination": "/library/coleus/recreational-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/recreational-drugs/coleus/Print.htm",
+      "destination": "/library/coleus/recreational-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/recreational-drugs/coleus/print.htm",
+      "destination": "/library/coleus/recreational-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/cu/cu5.html",
+      "destination": "/reports/consumers-union-licit-illicit-drugs/some-eminent-narcotics-addicts",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/cu/cu5.htm",
+      "destination": "/reports/consumers-union-licit-illicit-drugs/some-eminent-narcotics-addicts",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/cu/CU5.html",
+      "destination": "/reports/consumers-union-licit-illicit-drugs/some-eminent-narcotics-addicts",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/cu/CU5.htm",
+      "destination": "/reports/consumers-union-licit-illicit-drugs/some-eminent-narcotics-addicts",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/cu/cu5Print.html",
+      "destination": "/reports/consumers-union-licit-illicit-drugs/some-eminent-narcotics-addicts",
+      "permanent": true
+    },
+    {
+      "source": "/reports/cu/cu5.html",
+      "destination": "/reports/consumers-union-licit-illicit-drugs/some-eminent-narcotics-addicts",
+      "permanent": true
+    },
+    {
+      "source": "/reports/cu/cu5.htm",
+      "destination": "/reports/consumers-union-licit-illicit-drugs/some-eminent-narcotics-addicts",
+      "permanent": true
+    },
+    {
+      "source": "/reports/cu/CU5.html",
+      "destination": "/reports/consumers-union-licit-illicit-drugs/some-eminent-narcotics-addicts",
+      "permanent": true
+    },
+    {
+      "source": "/library/psychedelics/default.htm",
+      "destination": "/library/psychedelics",
+      "permanent": true
+    },
+    {
+      "source": "/library/psychedelics/default.html",
+      "destination": "/library/psychedelics",
+      "permanent": true
+    },
+    {
+      "source": "/library/psychedelics/default/",
+      "destination": "/library/psychedelics",
+      "permanent": true
+    },
+    {
+      "source": "/psychedelics/default.htm",
+      "destination": "/library/psychedelics",
+      "permanent": true
+    },
+    {
+      "source": "/psychedelics/default.html",
+      "destination": "/library/psychedelics",
+      "permanent": true
+    },
+    {
+      "source": "/psychedelics/default/",
+      "destination": "/library/psychedelics",
+      "permanent": true
+    },
+    {
+      "source": "/DPF-The-Pioneers-of-Reform-1996/nativism-in-the-passage-of-the-marijuana-tax-act-of-1937/Print.html",
+      "destination": "/library/cannabis/nativism-marijuana-tax-act-1937",
+      "permanent": true
+    },
+    {
+      "source": "/DPF-The-Pioneers-of-Reform-1996/nativism-in-the-passage-of-the-marijuana-tax-act-of-1937.html",
+      "destination": "/library/cannabis/nativism-marijuana-tax-act-1937",
+      "permanent": true
+    },
+    {
+      "source": "/DPF-The-Pioneers-of-Reform-1996/nativism-in-the-passage-of-the-marijuana-tax-act-of-1937.htm",
+      "destination": "/library/cannabis/nativism-marijuana-tax-act-1937",
+      "permanent": true
     }
   ]
 }
