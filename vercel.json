@@ -42,6 +42,16 @@
       "source": "/The-Politics-of-Heroin-in-Southeast-Asia/7-the-golden-triangle-heroin-is-our-most-important-product/Print.html",
       "destination": "/library/heroin/politics-of-heroin-southeast-asia/golden-triangle-heroin",
       "permanent": true
+    },
+    {
+      "source": "/books/McCoy/book/29.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/secret-war-in-burma-the-kmt",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/McCoy/book/29.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/secret-war-in-burma-the-kmt",
+      "permanent": true
     }
   ]
 }
