@@ -52,6 +52,16 @@
       "source": "/library/books/McCoy/book/29.htm",
       "destination": "/library/heroin/politics-of-heroin-southeast-asia/secret-war-in-burma-the-kmt",
       "permanent": true
+    },
+    {
+      "source": "/books/McCoy/book/62.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/shan-rebellion",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/McCoy/book/62.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/shan-rebellion",
+      "permanent": true
     }
   ]
 }
