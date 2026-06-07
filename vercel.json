@@ -12,6 +12,391 @@
       "source": "/library/research/mdma/archive/15/default.htm",
       "destination": "/library/mdma/substance-abuse-textbook",
       "permanent": true
+    },
+    {
+      "source": "/library/books/devos/default.htm",
+      "destination": "/library/methadone/methadone-maintenance-treatment",
+      "permanent": true
+    },
+    {
+      "source": "/books/devos/default.htm",
+      "destination": "/library/methadone/methadone-maintenance-treatment",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/devos/default.html",
+      "destination": "/library/methadone/methadone-maintenance-treatment",
+      "permanent": true
+    },
+    {
+      "source": "/books/devos/default.html",
+      "destination": "/library/methadone/methadone-maintenance-treatment",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/devos/",
+      "destination": "/library/methadone/methadone-maintenance-treatment",
+      "permanent": true
+    },
+    {
+      "source": "/books/devos/",
+      "destination": "/library/methadone/methadone-maintenance-treatment",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/devos/index.htm",
+      "destination": "/library/methadone/methadone-maintenance-treatment",
+      "permanent": true
+    },
+    {
+      "source": "/books/devos/index.htm",
+      "destination": "/library/methadone/methadone-maintenance-treatment",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/devos/index.html",
+      "destination": "/library/methadone/methadone-maintenance-treatment",
+      "permanent": true
+    },
+    {
+      "source": "/books/devos/index.html",
+      "destination": "/library/methadone/methadone-maintenance-treatment",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/wvc/drugnota/4/s63.htm",
+      "destination": "/library/policy/politica-holandesa-de-la-droga-literatura",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/wvc/drugnota/4/s63.html",
+      "destination": "/library/policy/politica-holandesa-de-la-droga-literatura",
+      "permanent": true
+    },
+    {
+      "source": "/reports/wvc/drugnota/4/s63.htm",
+      "destination": "/library/policy/politica-holandesa-de-la-droga-literatura",
+      "permanent": true
+    },
+    {
+      "source": "/reports/wvc/drugnota/4/s63.html",
+      "destination": "/library/policy/politica-holandesa-de-la-droga-literatura",
+      "permanent": true
+    },
+    {
+      "source": "/Recreational-Drugs/nutmeg.html",
+      "destination": "/library/nutmeg/recreational-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/recreational-drugs/nutmeg.html",
+      "destination": "/library/nutmeg/recreational-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/Recreational-Drugs/nutmeg.htm",
+      "destination": "/library/nutmeg/recreational-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/recreational-drugs/nutmeg.htm",
+      "destination": "/library/nutmeg/recreational-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/Recreational-Drugs/nutmeg/Print.html",
+      "destination": "/library/nutmeg/recreational-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/recreational-drugs/nutmeg/print.html",
+      "destination": "/library/nutmeg/recreational-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/recreationaldrugs/nutmeg.htm",
+      "destination": "/library/nutmeg/recreational-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/recreationaldrugs/nutmeg.html",
+      "destination": "/library/nutmeg/recreational-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/books/recreationaldrugs/nutmeg.htm",
+      "destination": "/library/nutmeg/recreational-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/books/recreationaldrugs/nutmeg.html",
+      "destination": "/library/nutmeg/recreational-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/library/legal/",
+      "destination": "/library/legal",
+      "permanent": true
+    },
+    {
+      "source": "/legal/",
+      "destination": "/library/legal",
+      "permanent": true
+    },
+    {
+      "source": "/legal",
+      "destination": "/library/legal",
+      "permanent": true
+    },
+    {
+      "source": "/library/legal/index.htm",
+      "destination": "/library/legal",
+      "permanent": true
+    },
+    {
+      "source": "/library/legal/index.html",
+      "destination": "/library/legal",
+      "permanent": true
+    },
+    {
+      "source": "/legal/index.htm",
+      "destination": "/library/legal",
+      "permanent": true
+    },
+    {
+      "source": "/legal/index.html",
+      "destination": "/library/legal",
+      "permanent": true
+    },
+    {
+      "source": "/library/legal/default.htm",
+      "destination": "/library/legal",
+      "permanent": true
+    },
+    {
+      "source": "/library/legal/default.html",
+      "destination": "/library/legal",
+      "permanent": true
+    },
+    {
+      "source": "/legal/default.htm",
+      "destination": "/library/legal",
+      "permanent": true
+    },
+    {
+      "source": "/legal/default.html",
+      "destination": "/library/legal",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/maccoun01.htm",
+      "destination": "/library/policy/american-distortion-of-dutch-drug-statistics",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/maccoun01.html",
+      "destination": "/library/policy/american-distortion-of-dutch-drug-statistics",
+      "permanent": true
+    },
+    {
+      "source": "/articles/maccoun01.htm",
+      "destination": "/library/policy/american-distortion-of-dutch-drug-statistics",
+      "permanent": true
+    },
+    {
+      "source": "/articles/maccoun01.html",
+      "destination": "/library/policy/american-distortion-of-dutch-drug-statistics",
+      "permanent": true
+    },
+    {
+      "source": "/The-Marijuana-Papers/chapter-six-red-dirt-marihuana.html",
+      "destination": "/library/cannabis/the-marijuana-papers/red-dirt-marihuana",
+      "permanent": true
+    },
+    {
+      "source": "/The-Marijuana-Papers/chapter-six-red-dirt-marihuana.htm",
+      "destination": "/library/cannabis/the-marijuana-papers/red-dirt-marihuana",
+      "permanent": true
+    },
+    {
+      "source": "/The-Marijuana-Papers/chapter-six-red-dirt-marihuana/Print.html",
+      "destination": "/library/cannabis/the-marijuana-papers/red-dirt-marihuana",
+      "permanent": true
+    },
+    {
+      "source": "/the-marijuana-papers/chapter-six-red-dirt-marihuana.html",
+      "destination": "/library/cannabis/the-marijuana-papers/red-dirt-marihuana",
+      "permanent": true
+    },
+    {
+      "source": "/the-marijuana-papers/chapter-six-red-dirt-marihuana.htm",
+      "destination": "/library/cannabis/the-marijuana-papers/red-dirt-marihuana",
+      "permanent": true
+    },
+    {
+      "source": "/the-marijuana-papers/chapter-six-red-dirt-marihuana/print.html",
+      "destination": "/library/cannabis/the-marijuana-papers/red-dirt-marihuana",
+      "permanent": true
+    },
+    {
+      "source": "/library/legal/treat/1971commentary/article12.htm",
+      "destination": "/reports/commentary-single-convention-on-narcotic-drugs-1961/article-12-amendment-to-article-22",
+      "permanent": true
+    },
+    {
+      "source": "/library/legal/treat/1971commentary/article12.html",
+      "destination": "/reports/commentary-single-convention-on-narcotic-drugs-1961/article-12-amendment-to-article-22",
+      "permanent": true
+    },
+    {
+      "source": "/legal/treat/1971commentary/article12.htm",
+      "destination": "/reports/commentary-single-convention-on-narcotic-drugs-1961/article-12-amendment-to-article-22",
+      "permanent": true
+    },
+    {
+      "source": "/legal/treat/1971commentary/article12.html",
+      "destination": "/reports/commentary-single-convention-on-narcotic-drugs-1961/article-12-amendment-to-article-22",
+      "permanent": true
+    },
+    {
+      "source": "/library/legal/treat/commentary/article12.htm",
+      "destination": "/reports/commentary-single-convention-on-narcotic-drugs-1961/article-12-amendment-to-article-22",
+      "permanent": true
+    },
+    {
+      "source": "/library/legal/treat/commentary/article12.html",
+      "destination": "/reports/commentary-single-convention-on-narcotic-drugs-1961/article-12-amendment-to-article-22",
+      "permanent": true
+    },
+    {
+      "source": "/legal/treat/commentary/article12.htm",
+      "destination": "/reports/commentary-single-convention-on-narcotic-drugs-1961/article-12-amendment-to-article-22",
+      "permanent": true
+    },
+    {
+      "source": "/legal/treat/commentary/article12.html",
+      "destination": "/reports/commentary-single-convention-on-narcotic-drugs-1961/article-12-amendment-to-article-22",
+      "permanent": true
+    },
+    {
+      "source": "/legal/treat/commentary/article06.htm",
+      "destination": "/reports/commentary-single-convention-on-narcotic-drugs-1961/article-6-expenses-of-international-control-organs",
+      "permanent": true
+    },
+    {
+      "source": "/legal/treat/commentary/article06.html",
+      "destination": "/reports/commentary-single-convention-on-narcotic-drugs-1961/article-6-expenses-of-international-control-organs",
+      "permanent": true
+    },
+    {
+      "source": "/library/legal/treat/commentary/article06.htm",
+      "destination": "/reports/commentary-single-convention-on-narcotic-drugs-1961/article-6-expenses-of-international-control-organs",
+      "permanent": true
+    },
+    {
+      "source": "/library/legal/treat/commentary/article06.html",
+      "destination": "/reports/commentary-single-convention-on-narcotic-drugs-1961/article-6-expenses-of-international-control-organs",
+      "permanent": true
+    },
+    {
+      "source": "/library/legal/treat/1971commentary/article06.htm",
+      "destination": "/reports/commentary-single-convention-on-narcotic-drugs-1961/article-6-expenses-of-international-control-organs",
+      "permanent": true
+    },
+    {
+      "source": "/library/legal/treat/1971commentary/article06.html",
+      "destination": "/reports/commentary-single-convention-on-narcotic-drugs-1961/article-6-expenses-of-international-control-organs",
+      "permanent": true
+    },
+    {
+      "source": "/legal/treat/1971commentary/article06.htm",
+      "destination": "/reports/commentary-single-convention-on-narcotic-drugs-1961/article-6-expenses-of-international-control-organs",
+      "permanent": true
+    },
+    {
+      "source": "/legal/treat/1971commentary/article06.html",
+      "destination": "/reports/commentary-single-convention-on-narcotic-drugs-1961/article-6-expenses-of-international-control-organs",
+      "permanent": true
+    },
+    {
+      "source": "/The-Strange-Case-of-Pot/7-the-wootton-report.html",
+      "destination": "/library/cannabis/the-strange-case-of-pot/the-wootton-report",
+      "permanent": true
+    },
+    {
+      "source": "/The-Strange-Case-of-Pot/7-the-wootton-report.htm",
+      "destination": "/library/cannabis/the-strange-case-of-pot/the-wootton-report",
+      "permanent": true
+    },
+    {
+      "source": "/The-Strange-Case-of-Pot/7-the-wootton-report/Print.html",
+      "destination": "/library/cannabis/the-strange-case-of-pot/the-wootton-report",
+      "permanent": true
+    },
+    {
+      "source": "/the-strange-case-of-pot/7-the-wootton-report.html",
+      "destination": "/library/cannabis/the-strange-case-of-pot/the-wootton-report",
+      "permanent": true
+    },
+    {
+      "source": "/the-strange-case-of-pot/7-the-wootton-report.htm",
+      "destination": "/library/cannabis/the-strange-case-of-pot/the-wootton-report",
+      "permanent": true
+    },
+    {
+      "source": "/the-strange-case-of-pot/7-the-wootton-report/print.html",
+      "destination": "/library/cannabis/the-strange-case-of-pot/the-wootton-report",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/McCoy/book/53.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/phoumi-nosavan-feudalism",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/mccoy/book/53.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/phoumi-nosavan-feudalism",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/McCoy/book/53.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/phoumi-nosavan-feudalism",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/mccoy/book/53.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/phoumi-nosavan-feudalism",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/McCoy/book/Print53.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/phoumi-nosavan-feudalism",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/mccoy/book/Print53.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/phoumi-nosavan-feudalism",
+      "permanent": true
+    },
+    {
+      "source": "/books/McCoy/book/53.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/phoumi-nosavan-feudalism",
+      "permanent": true
+    },
+    {
+      "source": "/books/mccoy/book/53.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/phoumi-nosavan-feudalism",
+      "permanent": true
+    },
+    {
+      "source": "/books/McCoy/book/53.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/phoumi-nosavan-feudalism",
+      "permanent": true
+    },
+    {
+      "source": "/books/mccoy/book/53.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/phoumi-nosavan-feudalism",
+      "permanent": true
     }
   ]
 }
