@@ -1,0 +1,28 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const title = 'Page Not Found (404) | Drugtext';
+const description = 'The page you requested could not be found. Browse the Drugtext library and reports.';
+---
+<BaseLayout title={title} description={description} noindex={true}>
+  <article class="nf">
+    <p class="nf__code">404</p>
+    <h1 class="dt-h1 nf__title">Page not found</h1>
+    <p class="nf__lede">The page you requested doesn't exist or may have moved. Drugtext was rebuilt in 2026 — most historic URLs now redirect automatically, but a few may have changed.</p>
+    <ul class="nf__links">
+      <li><a href="/">Home</a></li>
+      <li><a href="/library">Library</a> — documents by topic (heroin, cannabis, MDMA, psychedelics, cocaine, methadone, addiction, harm reduction, policy)</li>
+      <li><a href="/reports">Reports &amp; Commissions</a> — LaGuardia, Wootton, Le Dain, Brain, Indian Hemp, Consumers Union</li>
+    </ul>
+  </article>
+</BaseLayout>
+
+<style>
+  .nf { max-width: 720px; margin: 0 auto; padding: 64px 48px 96px; }
+  .nf__code { font-family: var(--dt-font-mono); font-size: 14px; letter-spacing: 0.2em; color: var(--dt-text-muted); margin: 0 0 8px; }
+  .nf__title { margin: 0 0 16px; }
+  .nf__lede { font-size: 17px; line-height: 1.6; color: var(--dt-text-body); margin: 0 0 28px; max-width: 60ch; }
+  .nf__links { list-style: none; padding: 0; margin: 0; display: grid; gap: 12px; }
+  .nf__links li { font-size: 15px; line-height: 1.5; }
+  @media (max-width: 880px) { .nf { padding: 40px 24px 72px; } }
+</style>
