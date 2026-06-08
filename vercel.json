@@ -6482,6 +6482,246 @@
       "source": "/library/books/raterisks/3.3.html",
       "destination": "/library/harm-reduction/rate-your-risks/uppers-downers-and-hallucinogens",
       "permanent": true
+    },
+    {
+      "source": "/articles/923105.htm",
+      "destination": "/library/policy/dominant-ideology-and-drugs-in-the-media",
+      "permanent": true
+    },
+    {
+      "source": "/articles/923105.html",
+      "destination": "/library/policy/dominant-ideology-and-drugs-in-the-media",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/923105.htm",
+      "destination": "/library/policy/dominant-ideology-and-drugs-in-the-media",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/923105.html",
+      "destination": "/library/policy/dominant-ideology-and-drugs-in-the-media",
+      "permanent": true
+    },
+    {
+      "source": "/articles/sweden1.html",
+      "destination": "/library/policy/sweden-the-paragon-in-a-different-light",
+      "permanent": true
+    },
+    {
+      "source": "/articles/sweden1.htm",
+      "destination": "/library/policy/sweden-the-paragon-in-a-different-light",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/sweden1.html",
+      "destination": "/library/policy/sweden-the-paragon-in-a-different-light",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/sweden1.htm",
+      "destination": "/library/policy/sweden-the-paragon-in-a-different-light",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/923203.htm",
+      "destination": "/library/policy/legalisation-or-harm-reduction",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/923203.html",
+      "destination": "/library/policy/legalisation-or-harm-reduction",
+      "permanent": true
+    },
+    {
+      "source": "/articles/923203.htm",
+      "destination": "/library/policy/legalisation-or-harm-reduction",
+      "permanent": true
+    },
+    {
+      "source": "/articles/923203.html",
+      "destination": "/library/policy/legalisation-or-harm-reduction",
+      "permanent": true
+    },
+    {
+      "source": "/harmreduction/",
+      "destination": "/library/harm-reduction",
+      "permanent": true
+    },
+    {
+      "source": "/harmreduction",
+      "destination": "/library/harm-reduction",
+      "permanent": true
+    },
+    {
+      "source": "/harmreduction/index.html",
+      "destination": "/library/harm-reduction",
+      "permanent": true
+    },
+    {
+      "source": "/harmreduction/index.htm",
+      "destination": "/library/harm-reduction",
+      "permanent": true
+    },
+    {
+      "source": "/harmreduction/default.htm",
+      "destination": "/library/harm-reduction",
+      "permanent": true
+    },
+    {
+      "source": "/druglibrary/schaffer/hemp/medical/nelson1.htm",
+      "destination": "/library/cannabis/biological-and-psychological-effects-of-cannabis",
+      "permanent": true
+    },
+    {
+      "source": "/druglibrary/schaffer/hemp/medical/nelson1.html",
+      "destination": "/library/cannabis/biological-and-psychological-effects-of-cannabis",
+      "permanent": true
+    },
+    {
+      "source": "/ecdp/",
+      "destination": "/library/policy",
+      "permanent": true
+    },
+    {
+      "source": "/ecdp",
+      "destination": "/library/policy",
+      "permanent": true
+    },
+    {
+      "source": "/ecdp/index.htm",
+      "destination": "/library/policy",
+      "permanent": true
+    },
+    {
+      "source": "/ecdp/index.html",
+      "destination": "/library/policy",
+      "permanent": true
+    },
+    {
+      "source": "/ecdp/default.htm",
+      "destination": "/library/policy",
+      "permanent": true
+    },
+    {
+      "source": "/ecdp/default.html",
+      "destination": "/library/policy",
+      "permanent": true
+    },
+    {
+      "source": "/FAMM/default.htm",
+      "destination": "/library/policy/families-against-mandatory-minimums",
+      "permanent": true
+    },
+    {
+      "source": "/FAMM/default.html",
+      "destination": "/library/policy/families-against-mandatory-minimums",
+      "permanent": true
+    },
+    {
+      "source": "/FAMM/",
+      "destination": "/library/policy/families-against-mandatory-minimums",
+      "permanent": true
+    },
+    {
+      "source": "/FAMM/index.htm",
+      "destination": "/library/policy/families-against-mandatory-minimums",
+      "permanent": true
+    },
+    {
+      "source": "/FAMM/index.html",
+      "destination": "/library/policy/families-against-mandatory-minimums",
+      "permanent": true
+    },
+    {
+      "source": "/famm/default.htm",
+      "destination": "/library/policy/families-against-mandatory-minimums",
+      "permanent": true
+    },
+    {
+      "source": "/famm/default.html",
+      "destination": "/library/policy/families-against-mandatory-minimums",
+      "permanent": true
+    },
+    {
+      "source": "/famm/",
+      "destination": "/library/policy/families-against-mandatory-minimums",
+      "permanent": true
+    },
+    {
+      "source": "/famm/index.htm",
+      "destination": "/library/policy/families-against-mandatory-minimums",
+      "permanent": true
+    },
+    {
+      "source": "/famm/index.html",
+      "destination": "/library/policy/families-against-mandatory-minimums",
+      "permanent": true
+    },
+    {
+      "source": "/ecdp/index-1.htm",
+      "destination": "/library/policy/european-cities-on-drug-policy",
+      "permanent": true
+    },
+    {
+      "source": "/ecdp/index-1.html",
+      "destination": "/library/policy/european-cities-on-drug-policy",
+      "permanent": true
+    },
+    {
+      "source": "/tips4trips/index-1.htm",
+      "destination": "/library/harm-reduction",
+      "permanent": true
+    },
+    {
+      "source": "/tips4trips/index-1.html",
+      "destination": "/library/harm-reduction",
+      "permanent": true
+    },
+    {
+      "source": "/Cannabis-and-Culture/cannabis-an-example-of-taxonomic-neglect.html",
+      "destination": "/library/cannabis/cannabis-and-culture/cannabis-an-example-of-taxonomic-neglect",
+      "permanent": true
+    },
+    {
+      "source": "/Cannabis-and-Culture/cannabis-an-example-of-taxonomic-neglect.htm",
+      "destination": "/library/cannabis/cannabis-and-culture/cannabis-an-example-of-taxonomic-neglect",
+      "permanent": true
+    },
+    {
+      "source": "/Cannabis-and-Culture/cannabis-an-example-of-taxonomic-neglect/Print.html",
+      "destination": "/library/cannabis/cannabis-and-culture/cannabis-an-example-of-taxonomic-neglect",
+      "permanent": true
+    },
+    {
+      "source": "/cannabis-and-culture/cannabis-an-example-of-taxonomic-neglect.html",
+      "destination": "/library/cannabis/cannabis-and-culture/cannabis-an-example-of-taxonomic-neglect",
+      "permanent": true
+    },
+    {
+      "source": "/cannabis-and-culture/cannabis-an-example-of-taxonomic-neglect.htm",
+      "destination": "/library/cannabis/cannabis-and-culture/cannabis-an-example-of-taxonomic-neglect",
+      "permanent": true
+    },
+    {
+      "source": "/Psychopharmacology/alcohol.html",
+      "destination": "/library/alcohol/psychopharmacology",
+      "permanent": true
+    },
+    {
+      "source": "/Psychopharmacology/alcohol.htm",
+      "destination": "/library/alcohol/psychopharmacology",
+      "permanent": true
+    },
+    {
+      "source": "/Psychopharmacology/alcohol/Print.html",
+      "destination": "/library/alcohol/psychopharmacology",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/recreationaldrugs/alcohol.htm",
+      "destination": "/library/alcohol/psychopharmacology",
+      "permanent": true
     }
   ]
 }
