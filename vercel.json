@@ -12,6 +12,311 @@
       "source": "/library/research/mdma/archive/15/default.htm",
       "destination": "/library/mdma/substance-abuse-textbook",
       "permanent": true
+    },
+    {
+      "source": "/Table/Wickersham-Commission-Report/",
+      "destination": "/reports/wickersham-commission",
+      "permanent": true
+    },
+    {
+      "source": "/table/wickersham-commission-report/",
+      "destination": "/reports/wickersham-commission",
+      "permanent": true
+    },
+    {
+      "source": "/Table/Wickersham-Commission-Report",
+      "destination": "/reports/wickersham-commission",
+      "permanent": true
+    },
+    {
+      "source": "/table/wickersham-commission-report",
+      "destination": "/reports/wickersham-commission",
+      "permanent": true
+    },
+    {
+      "source": "/Table/Wickersham-Commission-Report/index.html",
+      "destination": "/reports/wickersham-commission",
+      "permanent": true
+    },
+    {
+      "source": "/table/wickersham-commission-report/index.html",
+      "destination": "/reports/wickersham-commission",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/McCoy/book/64.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/conclusion",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/mccoy/book/64.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/conclusion",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/McCoy/book/64.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/conclusion",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/mccoy/book/64.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/conclusion",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/McCoy/book/Print64.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/conclusion",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/mccoy/book/Print64.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/conclusion",
+      "permanent": true
+    },
+    {
+      "source": "/books/McCoy/book/64.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/conclusion",
+      "permanent": true
+    },
+    {
+      "source": "/books/mccoy/book/64.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/conclusion",
+      "permanent": true
+    },
+    {
+      "source": "/books/McCoy/book/64.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/conclusion",
+      "permanent": true
+    },
+    {
+      "source": "/books/mccoy/book/64.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/conclusion",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/96733.htm",
+      "destination": "/library/policy/drug-education-politics-propaganda-and-censorship",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/96733.html",
+      "destination": "/library/policy/drug-education-politics-propaganda-and-censorship",
+      "permanent": true
+    },
+    {
+      "source": "/articles/96733.htm",
+      "destination": "/library/policy/drug-education-politics-propaganda-and-censorship",
+      "permanent": true
+    },
+    {
+      "source": "/articles/96733.html",
+      "destination": "/library/policy/drug-education-politics-propaganda-and-censorship",
+      "permanent": true
+    },
+    {
+      "source": "/books/adopiates/chapter3.htm",
+      "destination": "/library/addiction/addiction-and-opiates/chapter-3-habituation-and-addiction",
+      "permanent": true
+    },
+    {
+      "source": "/books/adopiates/chapter3.html",
+      "destination": "/library/addiction/addiction-and-opiates/chapter-3-habituation-and-addiction",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/adopiates/chapter3.htm",
+      "destination": "/library/addiction/addiction-and-opiates/chapter-3-habituation-and-addiction",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/adopiates/chapter3.html",
+      "destination": "/library/addiction/addiction-and-opiates/chapter-3-habituation-and-addiction",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/hurtado/chapter3.htm",
+      "destination": "/library/addiction/addiction-and-opiates/chapter-3-habituation-and-addiction",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/hurtado/chapter3.html",
+      "destination": "/library/addiction/addiction-and-opiates/chapter-3-habituation-and-addiction",
+      "permanent": true
+    },
+    {
+      "source": "/books/hurtado/chapter3.htm",
+      "destination": "/library/addiction/addiction-and-opiates/chapter-3-habituation-and-addiction",
+      "permanent": true
+    },
+    {
+      "source": "/books/hurtado/chapter3.html",
+      "destination": "/library/addiction/addiction-and-opiates/chapter-3-habituation-and-addiction",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/McCoy/book/notes2.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/marseille-heroin-laboratory-notes",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/McCoy/book/notes2.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/marseille-heroin-laboratory-notes",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/mccoy/book/notes2.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/marseille-heroin-laboratory-notes",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/mccoy/book/notes2.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/marseille-heroin-laboratory-notes",
+      "permanent": true
+    },
+    {
+      "source": "/books/McCoy/book/notes2.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/marseille-heroin-laboratory-notes",
+      "permanent": true
+    },
+    {
+      "source": "/books/McCoy/book/notes2.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/marseille-heroin-laboratory-notes",
+      "permanent": true
+    },
+    {
+      "source": "/books/mccoy/book/notes2.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/marseille-heroin-laboratory-notes",
+      "permanent": true
+    },
+    {
+      "source": "/books/mccoy/book/notes2.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/marseille-heroin-laboratory-notes",
+      "permanent": true
+    },
+    {
+      "source": "/Tastes-of-Paradise/two-coffee-and-the-protestant-ethic.html",
+      "destination": "/library/tastes-of-paradise/coffee-and-the-protestant-ethic",
+      "permanent": true
+    },
+    {
+      "source": "/Tastes-of-Paradise/two-coffee-and-the-protestant-ethic.htm",
+      "destination": "/library/tastes-of-paradise/coffee-and-the-protestant-ethic",
+      "permanent": true
+    },
+    {
+      "source": "/Tastes-of-Paradise/two-coffee-and-the-protestant-ethic/Print.html",
+      "destination": "/library/tastes-of-paradise/coffee-and-the-protestant-ethic",
+      "permanent": true
+    },
+    {
+      "source": "/tastes-of-paradise/two-coffee-and-the-protestant-ethic.html",
+      "destination": "/library/tastes-of-paradise/coffee-and-the-protestant-ethic",
+      "permanent": true
+    },
+    {
+      "source": "/tastes-of-paradise/two-coffee-and-the-protestant-ethic.htm",
+      "destination": "/library/tastes-of-paradise/coffee-and-the-protestant-ethic",
+      "permanent": true
+    },
+    {
+      "source": "/tastes-of-paradise/two-coffee-and-the-protestant-ethic/Print.html",
+      "destination": "/library/tastes-of-paradise/coffee-and-the-protestant-ethic",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/turner.htm",
+      "destination": "/library/mdma/eating-and-ecstasy",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/turner.html",
+      "destination": "/library/mdma/eating-and-ecstasy",
+      "permanent": true
+    },
+    {
+      "source": "/articles/turner.htm",
+      "destination": "/library/mdma/eating-and-ecstasy",
+      "permanent": true
+    },
+    {
+      "source": "/articles/turner.html",
+      "destination": "/library/mdma/eating-and-ecstasy",
+      "permanent": true
+    },
+    {
+      "source": "/library/legal/verdicft.html",
+      "destination": "/library/legal/basic-principles",
+      "permanent": true
+    },
+    {
+      "source": "/legal/verdicft.html",
+      "destination": "/library/legal/basic-principles",
+      "permanent": true
+    },
+    {
+      "source": "/library/legal/verdicft.htm",
+      "destination": "/library/legal/basic-principles",
+      "permanent": true
+    },
+    {
+      "source": "/legal/verdicft.htm",
+      "destination": "/library/legal/basic-principles",
+      "permanent": true
+    },
+    {
+      "source": "/psylib/loudun.htm",
+      "destination": "/library/psychedelics/aldous-huxley-on-self-transcendence",
+      "permanent": true
+    },
+    {
+      "source": "/psylib/loudun.html",
+      "destination": "/library/psychedelics/aldous-huxley-on-self-transcendence",
+      "permanent": true
+    },
+    {
+      "source": "/library/psylib/loudun.htm",
+      "destination": "/library/psychedelics/aldous-huxley-on-self-transcendence",
+      "permanent": true
+    },
+    {
+      "source": "/library/psylib/loudun.html",
+      "destination": "/library/psychedelics/aldous-huxley-on-self-transcendence",
+      "permanent": true
+    },
+    {
+      "source": "/druglibrary/schaffer/lsd/loudun.htm",
+      "destination": "/library/psychedelics/aldous-huxley-on-self-transcendence",
+      "permanent": true
+    },
+    {
+      "source": "/druglibrary/schaffer/lsd/loudun.html",
+      "destination": "/library/psychedelics/aldous-huxley-on-self-transcendence",
+      "permanent": true
+    },
+    {
+      "source": "/Cocaine-the-Legend/foreword.html",
+      "destination": "/library/cocaine/coca/foreword-and-introduction",
+      "permanent": true
+    },
+    {
+      "source": "/Cocaine-the-Legend/foreword.htm",
+      "destination": "/library/cocaine/coca/foreword-and-introduction",
+      "permanent": true
+    },
+    {
+      "source": "/Cocaine-the-Legend/foreword/Print.html",
+      "destination": "/library/cocaine/coca/foreword-and-introduction",
+      "permanent": true
+    },
+    {
+      "source": "/Cocaine-the-Legend/foreword/Print.htm",
+      "destination": "/library/cocaine/coca/foreword-and-introduction",
+      "permanent": true
+    },
+    {
+      "source": "/Table/Cocaine-the-Legend/",
+      "destination": "/library/cocaine/coca",
+      "permanent": true
     }
   ]
 }
