@@ -1097,6 +1097,276 @@
       "source": "/reports/wootton/index.html",
       "destination": "/reports/wootton-report",
       "permanent": true
+    },
+    {
+      "source": "/Treatment/can-drugs-be-used-to-enhance-the-psychotherapeutic-process.html",
+      "destination": "/library/psychedelics/can-drugs-enhance-psychotherapeutic-process",
+      "permanent": true
+    },
+    {
+      "source": "/Treatment/can-drugs-be-used-to-enhance-the-psychotherapeutic-process/Print.html",
+      "destination": "/library/psychedelics/can-drugs-enhance-psychotherapeutic-process",
+      "permanent": true
+    },
+    {
+      "source": "/Treatment/can-drugs-be-used-to-enhance-the-psychotherapeutic-process.htm",
+      "destination": "/library/psychedelics/can-drugs-enhance-psychotherapeutic-process",
+      "permanent": true
+    },
+    {
+      "source": "/pdf/Treatment/can-drugs-be-used-to-enhance-the-psychotherapeutic-process.pdf",
+      "destination": "/library/psychedelics/can-drugs-enhance-psychotherapeutic-process",
+      "permanent": true
+    },
+    {
+      "source": "/Psychedelics/current-status-and-future-trends-in-psychedelic-lsd-research.html",
+      "destination": "/library/psychedelics/current-status-future-trends-lsd-research",
+      "permanent": true
+    },
+    {
+      "source": "/Psychedelics/current-status-and-future-trends-in-psychedelic-lsd-research/Print.html",
+      "destination": "/library/psychedelics/current-status-future-trends-lsd-research",
+      "permanent": true
+    },
+    {
+      "source": "/Psychedelics/current-status-and-future-trends-in-psychedelic-lsd-research.htm",
+      "destination": "/library/psychedelics/current-status-future-trends-lsd-research",
+      "permanent": true
+    },
+    {
+      "source": "/pdf/Psychedelics/current-status-and-future-trends-in-psychedelic-lsd-research.pdf",
+      "destination": "/library/psychedelics/current-status-future-trends-lsd-research",
+      "permanent": true
+    },
+    {
+      "source": "/European-Drug-Laws/chapter-4-france-drug-use-and-supply-illegal-possession-undefined-situation-unsatisfactory.html",
+      "destination": "/reports/european-drug-laws/france",
+      "permanent": true
+    },
+    {
+      "source": "/European-Drug-Laws/chapter-4-france-drug-use-and-supply-illegal-possession-undefined-situation-unsatisfactory/Print.html",
+      "destination": "/reports/european-drug-laws/france",
+      "permanent": true
+    },
+    {
+      "source": "/european-drug-laws/chapter-4-france-drug-use-and-supply-illegal-possession-undefined-situation-unsatisfactory.html",
+      "destination": "/reports/european-drug-laws/france",
+      "permanent": true
+    },
+    {
+      "source": "/pdf/European-Drug-Laws/chapter-4-france-drug-use-and-supply-illegal-possession-undefined-situation-unsatisfactory.pdf",
+      "destination": "/reports/european-drug-laws/france",
+      "permanent": true
+    },
+    {
+      "source": "/pdf/Various-general/opium-cocaine-and-marijuana-in-american-history.pdf",
+      "destination": "/library/policy/opium-cocaine-marijuana-american-history",
+      "permanent": true
+    },
+    {
+      "source": "/pdf/various-general/opium-cocaine-and-marijuana-in-american-history.pdf",
+      "destination": "/library/policy/opium-cocaine-marijuana-american-history",
+      "permanent": true
+    },
+    {
+      "source": "/Various-general/opium-cocaine-and-marijuana-in-american-history.html",
+      "destination": "/library/policy/opium-cocaine-marijuana-american-history",
+      "permanent": true
+    },
+    {
+      "source": "/various-general/opium-cocaine-and-marijuana-in-american-history.html",
+      "destination": "/library/policy/opium-cocaine-marijuana-american-history",
+      "permanent": true
+    },
+    {
+      "source": "/Various-general/opium-cocaine-and-marijuana-in-american-history.htm",
+      "destination": "/library/policy/opium-cocaine-marijuana-american-history",
+      "permanent": true
+    },
+    {
+      "source": "/various-general/opium-cocaine-and-marijuana-in-american-history.htm",
+      "destination": "/library/policy/opium-cocaine-marijuana-american-history",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/craig2.html",
+      "destination": "/library/cocaine/construction-of-americas-crack-crisis",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/craig2.htm",
+      "destination": "/library/cocaine/construction-of-americas-crack-crisis",
+      "permanent": true
+    },
+    {
+      "source": "/articles/craig2.html",
+      "destination": "/library/cocaine/construction-of-americas-crack-crisis",
+      "permanent": true
+    },
+    {
+      "source": "/articles/craig2.htm",
+      "destination": "/library/cocaine/construction-of-americas-crack-crisis",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/craig2Print.html",
+      "destination": "/library/cocaine/construction-of-americas-crack-crisis",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/craig2print.html",
+      "destination": "/library/cocaine/construction-of-americas-crack-crisis",
+      "permanent": true
+    },
+    {
+      "source": "/legal/treat/commentary/article02.htm",
+      "destination": "/reports/commentary-single-convention-on-narcotic-drugs-1961/article-2-substances-under-control",
+      "permanent": true
+    },
+    {
+      "source": "/legal/treat/commentary/article02.html",
+      "destination": "/reports/commentary-single-convention-on-narcotic-drugs-1961/article-2-substances-under-control",
+      "permanent": true
+    },
+    {
+      "source": "/library/legal/treat/commentary/article02.htm",
+      "destination": "/reports/commentary-single-convention-on-narcotic-drugs-1961/article-2-substances-under-control",
+      "permanent": true
+    },
+    {
+      "source": "/library/legal/treat/commentary/article02.html",
+      "destination": "/reports/commentary-single-convention-on-narcotic-drugs-1961/article-2-substances-under-control",
+      "permanent": true
+    },
+    {
+      "source": "/library/legal/treat/1971commentary/article02.htm",
+      "destination": "/reports/commentary-single-convention-on-narcotic-drugs-1961/article-2-substances-under-control",
+      "permanent": true
+    },
+    {
+      "source": "/library/legal/treat/1971commentary/article02.html",
+      "destination": "/reports/commentary-single-convention-on-narcotic-drugs-1961/article-2-substances-under-control",
+      "permanent": true
+    },
+    {
+      "source": "/legal/treat/1971commentary/article02.htm",
+      "destination": "/reports/commentary-single-convention-on-narcotic-drugs-1961/article-2-substances-under-control",
+      "permanent": true
+    },
+    {
+      "source": "/legal/treat/1971commentary/article02.html",
+      "destination": "/reports/commentary-single-convention-on-narcotic-drugs-1961/article-2-substances-under-control",
+      "permanent": true
+    },
+    {
+      "source": "/library/legal/treat/commentary/article11.htm",
+      "destination": "/reports/commentary-single-convention-on-narcotic-drugs-1961/article-11-rules-of-procedure-of-the-board",
+      "permanent": true
+    },
+    {
+      "source": "/library/legal/treat/commentary/article11.html",
+      "destination": "/reports/commentary-single-convention-on-narcotic-drugs-1961/article-11-rules-of-procedure-of-the-board",
+      "permanent": true
+    },
+    {
+      "source": "/legal/treat/commentary/article11.htm",
+      "destination": "/reports/commentary-single-convention-on-narcotic-drugs-1961/article-11-rules-of-procedure-of-the-board",
+      "permanent": true
+    },
+    {
+      "source": "/legal/treat/commentary/article11.html",
+      "destination": "/reports/commentary-single-convention-on-narcotic-drugs-1961/article-11-rules-of-procedure-of-the-board",
+      "permanent": true
+    },
+    {
+      "source": "/library/legal/treat/1971commentary/article11.htm",
+      "destination": "/reports/commentary-single-convention-on-narcotic-drugs-1961/article-11-rules-of-procedure-of-the-board",
+      "permanent": true
+    },
+    {
+      "source": "/library/legal/treat/1971commentary/article11.html",
+      "destination": "/reports/commentary-single-convention-on-narcotic-drugs-1961/article-11-rules-of-procedure-of-the-board",
+      "permanent": true
+    },
+    {
+      "source": "/legal/treat/1971commentary/article11.htm",
+      "destination": "/reports/commentary-single-convention-on-narcotic-drugs-1961/article-11-rules-of-procedure-of-the-board",
+      "permanent": true
+    },
+    {
+      "source": "/legal/treat/1971commentary/article11.html",
+      "destination": "/reports/commentary-single-convention-on-narcotic-drugs-1961/article-11-rules-of-procedure-of-the-board",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/cancan/vol3/repfinalvol3-e/css/repfinalvol3-e_31.htm",
+      "destination": "/reports/canadian-senate-cannabis-vol3/single-convention-narcotic-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/cancan/vol3/repfinalvol3-e/css/repfinalvol3-e_31.html",
+      "destination": "/reports/canadian-senate-cannabis-vol3/single-convention-narcotic-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/library/legal/treat/commentary/article03.htm",
+      "destination": "/reports/commentary-single-convention-on-narcotic-drugs-1961/article-3-changes-in-scope-of-control",
+      "permanent": true
+    },
+    {
+      "source": "/library/legal/treat/commentary/article03.html",
+      "destination": "/reports/commentary-single-convention-on-narcotic-drugs-1961/article-3-changes-in-scope-of-control",
+      "permanent": true
+    },
+    {
+      "source": "/legal/treat/commentary/article03.htm",
+      "destination": "/reports/commentary-single-convention-on-narcotic-drugs-1961/article-3-changes-in-scope-of-control",
+      "permanent": true
+    },
+    {
+      "source": "/legal/treat/commentary/article03.html",
+      "destination": "/reports/commentary-single-convention-on-narcotic-drugs-1961/article-3-changes-in-scope-of-control",
+      "permanent": true
+    },
+    {
+      "source": "/library/legal/treat/1971commentary/article03.htm",
+      "destination": "/reports/commentary-single-convention-on-narcotic-drugs-1961/article-3-changes-in-scope-of-control",
+      "permanent": true
+    },
+    {
+      "source": "/library/legal/treat/1971commentary/article03.html",
+      "destination": "/reports/commentary-single-convention-on-narcotic-drugs-1961/article-3-changes-in-scope-of-control",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/adopiates/chapter10.htm",
+      "destination": "/library/addiction/addiction-and-opiates/chapter-10-federal-anti-narcotics-legislation",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/adopiates/chapter10.html",
+      "destination": "/library/addiction/addiction-and-opiates/chapter-10-federal-anti-narcotics-legislation",
+      "permanent": true
+    },
+    {
+      "source": "/books/adopiates/chapter10.htm",
+      "destination": "/library/addiction/addiction-and-opiates/chapter-10-federal-anti-narcotics-legislation",
+      "permanent": true
+    },
+    {
+      "source": "/books/adopiates/chapter10.html",
+      "destination": "/library/addiction/addiction-and-opiates/chapter-10-federal-anti-narcotics-legislation",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/adopiates/chapter10Print.html",
+      "destination": "/library/addiction/addiction-and-opiates/chapter-10-federal-anti-narcotics-legislation",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/adopiates/chapter10print.html",
+      "destination": "/library/addiction/addiction-and-opiates/chapter-10-federal-anti-narcotics-legislation",
+      "permanent": true
     }
   ]
 }
