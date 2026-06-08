@@ -3,11 +3,18 @@ layout: ../../../layouts/LibraryDocLayout.astro
 title: "MDMA: Clinical Overview, History & Neurotoxicity — Grob & Poland | Drugtext"
 description: "A clinical reference chapter on MDMA (Ecstasy): its history, epidemiology, psychiatric treatment applications, adverse effects, and serotonergic neurotoxicity. From Substance Abuse: A Comprehensive Textbook (1997)."
 h1: "MDMA"
+eyebrow: "CLINICAL_LITERATURE // MDMA_REF"
+lede: "A clinical reference chapter on MDMA covering its history, epidemiology, psychiatric treatment applications, adverse effects, and serotonergic neurotoxicity. Reproduced verbatim from a 1997 medical textbook and preserved as a historical reference."
 authors:
   - "Charles S. Grob"
   - "Russell E. Poland"
+publication: "Substance Abuse: A Comprehensive Textbook"
+edition: "3rd Edition"
+publisher: "Williams & Wilkins"
+pages: "269–275"
 citation: "Substance Abuse: A Comprehensive Textbook, 3rd Edition, Williams & Wilkins, 1997, pp. 269–275"
 datePublished: "1997"
+historical: true
 about:
   - "MDMA"
   - "Ecstasy"
@@ -91,7 +98,10 @@ Efforts to extend the neurotoxicity hypothesis to human populations have met wit
 
 Unfortunately, the question of MDMA's potential neurotoxicity in humans has been marked by unwelcome and excessive attention by the media. This has led not only to often sensationalized and distorted media reportage but also to implicit and explicit pressures on scientific researchers to align their findings with conventional expectations. Needless to say, MDMA's role as a recreational drug for millions of young people worldwide is worrisome, particularly within the context of ill-prepared and vulnerable individuals consuming an illicitly manufactured and marketed drug of dubious quality in unpredictable and often dangerous settings. Nevertheless, for a true appreciation of MDMA's range of effects, it is imperative that objective investigation be conducted in an impartial and fair scientific environment. As previously mentioned, the authors have recently been granted permission for the first FDA-sanctioned administration of MDMA to human normal volunteers with prior experience with the drug, in order to accurately determine its range of physiological effects, safety parameters, and central nervous system mechanisms (53). In addition to standard Phase I investigational measures, brain imaging studies and neuropsychological testing will be administered in a prospective manner, to more clearly delineate MDMA's psychobiological effects and potential to cause injury to brain function. Hopefully, the future will provide additional controlled and methodologically sound investigations probing the full range of MDMA's effects, and begin to answer the questions surrounding the drug's capacity to cause harm versus its innate potential under optimal conditions to facilitate beneficial outcomes.
 
-**Acknowledgments.** This work was supported in part by National Institutes of Health grants MH00534, DA06863 and by General Clinical Research Center grant RR 00425. We thank Mrs. Debbie Hanava for expert administrative assistance.
+<aside class="dt-acks" aria-label="Acknowledgments">
+  <span class="dt-acks__label">Acknowledgments</span>
+  <p>This work was supported in part by National Institutes of Health grants MH00534, DA06863 and by General Clinical Research Center grant RR 00425. We thank Mrs. Debbie Hanava for expert administrative assistance.</p>
+</aside>
 
 ## References
 
