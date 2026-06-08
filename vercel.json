@@ -3227,6 +3227,261 @@
       "source": "/library/druglibrary/schaffer/psychedelics/zinberg.html",
       "destination": "/library/addiction/drug-set-and-setting",
       "permanent": true
+    },
+    {
+      "source": "/reports/ledain/NONMED.HTM",
+      "destination": "/reports/le-dain-commission",
+      "permanent": true
+    },
+    {
+      "source": "/reports/ledain/nonmed.htm",
+      "destination": "/reports/le-dain-commission",
+      "permanent": true
+    },
+    {
+      "source": "/reports/ledain/nonmed.html",
+      "destination": "/reports/le-dain-commission",
+      "permanent": true
+    },
+    {
+      "source": "/reports/ledain/NONMED.html",
+      "destination": "/reports/le-dain-commission",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/ledain/NONMED.HTM",
+      "destination": "/reports/le-dain-commission",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/ledain/nonmed.htm",
+      "destination": "/reports/le-dain-commission",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/ledain/nonmed.html",
+      "destination": "/reports/le-dain-commission",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/ledain/NONMED.html",
+      "destination": "/reports/le-dain-commission",
+      "permanent": true
+    },
+    {
+      "source": "/library/legal/mjtaxact.html",
+      "destination": "/library/cannabis",
+      "permanent": true
+    },
+    {
+      "source": "/library/legal/mjtaxact.htm",
+      "destination": "/library/cannabis",
+      "permanent": true
+    },
+    {
+      "source": "/legal/mjtaxact.html",
+      "destination": "/library/cannabis",
+      "permanent": true
+    },
+    {
+      "source": "/legal/mjtaxact.htm",
+      "destination": "/library/cannabis",
+      "permanent": true
+    },
+    {
+      "source": "/pfneurot.html",
+      "destination": "/library/psychopharmacology/neurotransmissores",
+      "permanent": true
+    },
+    {
+      "source": "/pfneurot.htm",
+      "destination": "/library/psychopharmacology/neurotransmissores",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/cu/CU45.html",
+      "destination": "/reports/consumers-union-licit-illicit-drugs/early-use-of-lsd-like-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/cu/CU45.htm",
+      "destination": "/reports/consumers-union-licit-illicit-drugs/early-use-of-lsd-like-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/cu/cu45.html",
+      "destination": "/reports/consumers-union-licit-illicit-drugs/early-use-of-lsd-like-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/cu/cu45.htm",
+      "destination": "/reports/consumers-union-licit-illicit-drugs/early-use-of-lsd-like-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/cu/CU45Print.html",
+      "destination": "/reports/consumers-union-licit-illicit-drugs/early-use-of-lsd-like-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/cu/cu45print.html",
+      "destination": "/reports/consumers-union-licit-illicit-drugs/early-use-of-lsd-like-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/reports/cu/CU45.html",
+      "destination": "/reports/consumers-union-licit-illicit-drugs/early-use-of-lsd-like-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/reports/cu/CU45.htm",
+      "destination": "/reports/consumers-union-licit-illicit-drugs/early-use-of-lsd-like-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/reports/cu/cu45.html",
+      "destination": "/reports/consumers-union-licit-illicit-drugs/early-use-of-lsd-like-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/reports/cu/cu45.htm",
+      "destination": "/reports/consumers-union-licit-illicit-drugs/early-use-of-lsd-like-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/psychedelics/inglis.htm",
+      "destination": "/library/psychedelics/the-forbidden-game",
+      "permanent": true
+    },
+    {
+      "source": "/psychedelics/inglis.html",
+      "destination": "/library/psychedelics/the-forbidden-game",
+      "permanent": true
+    },
+    {
+      "source": "/library/psylib/inglis.htm",
+      "destination": "/library/psychedelics/the-forbidden-game",
+      "permanent": true
+    },
+    {
+      "source": "/library/psylib/inglis.html",
+      "destination": "/library/psychedelics/the-forbidden-game",
+      "permanent": true
+    },
+    {
+      "source": "/druglibrary/schaffer/lsd/inglis.htm",
+      "destination": "/library/psychedelics/the-forbidden-game",
+      "permanent": true
+    },
+    {
+      "source": "/druglibrary/schaffer/lsd/inglis.html",
+      "destination": "/library/psychedelics/the-forbidden-game",
+      "permanent": true
+    },
+    {
+      "source": "/library/psylib/inglisi.htm",
+      "destination": "/library/psychedelics/the-forbidden-game",
+      "permanent": true
+    },
+    {
+      "source": "/Table/The-Forbidden-Game/",
+      "destination": "/library/psychedelics/the-forbidden-game",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/901502.html",
+      "destination": "/library/policy/notes-from-the-drug-wars",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/901502.htm",
+      "destination": "/library/policy/notes-from-the-drug-wars",
+      "permanent": true
+    },
+    {
+      "source": "/articles/901502.html",
+      "destination": "/library/policy/notes-from-the-drug-wars",
+      "permanent": true
+    },
+    {
+      "source": "/articles/901502.htm",
+      "destination": "/library/policy/notes-from-the-drug-wars",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/901502Print.html",
+      "destination": "/library/policy/notes-from-the-drug-wars",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/grund/chasdra5.htm",
+      "destination": "/library/harm-reduction/drug-use-as-social-ritual/chapter-5-changing-dutch-heroin-culture",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/grund/chasdra5.html",
+      "destination": "/library/harm-reduction/drug-use-as-social-ritual/chapter-5-changing-dutch-heroin-culture",
+      "permanent": true
+    },
+    {
+      "source": "/books/grund/chasdra5.htm",
+      "destination": "/library/harm-reduction/drug-use-as-social-ritual/chapter-5-changing-dutch-heroin-culture",
+      "permanent": true
+    },
+    {
+      "source": "/books/grund/chasdra5.html",
+      "destination": "/library/harm-reduction/drug-use-as-social-ritual/chapter-5-changing-dutch-heroin-culture",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/morgan1.html",
+      "destination": "/library/policy/poisons-and-prohibitions-persistence-of-folly",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/morgan1.htm",
+      "destination": "/library/policy/poisons-and-prohibitions-persistence-of-folly",
+      "permanent": true
+    },
+    {
+      "source": "/articles/morgan1.html",
+      "destination": "/library/policy/poisons-and-prohibitions-persistence-of-folly",
+      "permanent": true
+    },
+    {
+      "source": "/articles/morgan1.htm",
+      "destination": "/library/policy/poisons-and-prohibitions-persistence-of-folly",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/recreationaldrugs/heroin.htm",
+      "destination": "/library/heroin/recreational-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/recreationaldrugs/heroin.html",
+      "destination": "/library/heroin/recreational-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/Recreational-Drugs/heroin.html",
+      "destination": "/library/heroin/recreational-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/Recreational-Drugs/heroin.htm",
+      "destination": "/library/heroin/recreational-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/books/recreationaldrugs/heroin.htm",
+      "destination": "/library/heroin/recreational-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/books/recreationaldrugs/heroin.html",
+      "destination": "/library/heroin/recreational-drugs",
+      "permanent": true
     }
   ]
 }
