@@ -9197,6 +9197,271 @@
       "source": "/behind-the-wall-of-respect/preface.htm",
       "destination": "/library/addiction/behind-the-wall-of-respect/preface",
       "permanent": true
+    },
+    {
+      "source": "/Drug-Use-as-a-Social-Ritual/19-summary.html",
+      "destination": "/library/harm-reduction/drug-use-as-social-ritual/summary",
+      "permanent": true
+    },
+    {
+      "source": "/Drug-Use-as-a-Social-Ritual/19-summary.htm",
+      "destination": "/library/harm-reduction/drug-use-as-social-ritual/summary",
+      "permanent": true
+    },
+    {
+      "source": "/Drug-Use-as-a-Social-Ritual/19-summary/Print.html",
+      "destination": "/library/harm-reduction/drug-use-as-social-ritual/summary",
+      "permanent": true
+    },
+    {
+      "source": "/drug-use-as-a-social-ritual/19-summary.html",
+      "destination": "/library/harm-reduction/drug-use-as-social-ritual/summary",
+      "permanent": true
+    },
+    {
+      "source": "/drug-use-as-a-social-ritual/19-summary.htm",
+      "destination": "/library/harm-reduction/drug-use-as-social-ritual/summary",
+      "permanent": true
+    },
+    {
+      "source": "/psychedelics/peyote.htm",
+      "destination": "/library/psychedelics/peyote",
+      "permanent": true
+    },
+    {
+      "source": "/psychedelics/peyote.html",
+      "destination": "/library/psychedelics/peyote",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/recreationaldrugs/peyote.htm",
+      "destination": "/library/psychedelics/peyote",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/recreationaldrugs/peyote.html",
+      "destination": "/library/psychedelics/peyote",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/Recreational-Drugs/peyote.html",
+      "destination": "/library/psychedelics/peyote",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/recreationaldrugs/peyote",
+      "destination": "/library/psychedelics/peyote",
+      "permanent": true
+    },
+    {
+      "source": "/Cannabis-marijuana-hashisch/pharmacologic-effects-of-marijuana.html",
+      "destination": "/library/cannabis/pharmacologic-effects-of-marijuana",
+      "permanent": true
+    },
+    {
+      "source": "/Cannabis-marijuana-hashisch/pharmacologic-effects-of-marijuana.htm",
+      "destination": "/library/cannabis/pharmacologic-effects-of-marijuana",
+      "permanent": true
+    },
+    {
+      "source": "/Cannabis-marijuana-hashisch/pharmacologic-effects-of-marijuana/Print.html",
+      "destination": "/library/cannabis/pharmacologic-effects-of-marijuana",
+      "permanent": true
+    },
+    {
+      "source": "/cannabis-marijuana-hashisch/pharmacologic-effects-of-marijuana.html",
+      "destination": "/library/cannabis/pharmacologic-effects-of-marijuana",
+      "permanent": true
+    },
+    {
+      "source": "/cannabis-marijuana-hashisch/pharmacologic-effects-of-marijuana.htm",
+      "destination": "/library/cannabis/pharmacologic-effects-of-marijuana",
+      "permanent": true
+    },
+    {
+      "source": "/cannabis-marijuana-hashisch/pharmacologic-effects-of-marijuana/print.html",
+      "destination": "/library/cannabis/pharmacologic-effects-of-marijuana",
+      "permanent": true
+    },
+    {
+      "source": "/drcnet/wol/125.html",
+      "destination": "/library/policy/drcnet-week-online/issue-125",
+      "permanent": true
+    },
+    {
+      "source": "/drcnet/wol/125.htm",
+      "destination": "/library/policy/drcnet-week-online/issue-125",
+      "permanent": true
+    },
+    {
+      "source": "/The-Marijuana-Question/1-the-stepping-stone-theory.html",
+      "destination": "/library/cannabis/the-marijuana-question/the-stepping-stone-theory",
+      "permanent": true
+    },
+    {
+      "source": "/The-Marijuana-Question/1-the-stepping-stone-theory.htm",
+      "destination": "/library/cannabis/the-marijuana-question/the-stepping-stone-theory",
+      "permanent": true
+    },
+    {
+      "source": "/The-Marijuana-Question/1-the-stepping-stone-theory/Print.html",
+      "destination": "/library/cannabis/the-marijuana-question/the-stepping-stone-theory",
+      "permanent": true
+    },
+    {
+      "source": "/the-marijuana-question/1-the-stepping-stone-theory.html",
+      "destination": "/library/cannabis/the-marijuana-question/the-stepping-stone-theory",
+      "permanent": true
+    },
+    {
+      "source": "/the-marijuana-question/1-the-stepping-stone-theory.htm",
+      "destination": "/library/cannabis/the-marijuana-question/the-stepping-stone-theory",
+      "permanent": true
+    },
+    {
+      "source": "/the-marijuana-question/1-the-stepping-stone-theory/print.html",
+      "destination": "/library/cannabis/the-marijuana-question/the-stepping-stone-theory",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/945108.htm",
+      "destination": "/library/policy/football-and-drugs-two-cultures-clash",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/945108.html",
+      "destination": "/library/policy/football-and-drugs-two-cultures-clash",
+      "permanent": true
+    },
+    {
+      "source": "/articles/945108.htm",
+      "destination": "/library/policy/football-and-drugs-two-cultures-clash",
+      "permanent": true
+    },
+    {
+      "source": "/articles/945108.html",
+      "destination": "/library/policy/football-and-drugs-two-cultures-clash",
+      "permanent": true
+    },
+    {
+      "source": "/articles/696-psychonautics-a-model-and-method-for-exploring-the-subjective-effects-of-psychoactive-drugs.html",
+      "destination": "/library/psychedelics/psychonautics-model-and-method",
+      "permanent": true
+    },
+    {
+      "source": "/Psychedelics/psychonautics-a-model-and-method-for-exploring-the-subjective-effects-of-psychoactive-drugs.html",
+      "destination": "/library/psychedelics/psychonautics-model-and-method",
+      "permanent": true
+    },
+    {
+      "source": "/articles/696-psychonautics-a-model-and-method-for-exploring-the-subjective-effects-of-psychoactive-drugs.htm",
+      "destination": "/library/psychedelics/psychonautics-model-and-method",
+      "permanent": true
+    },
+    {
+      "source": "/Psychedelics/psychonautics-a-model-and-method-for-exploring-the-subjective-effects-of-psychoactive-drugs.htm",
+      "destination": "/library/psychedelics/psychonautics-model-and-method",
+      "permanent": true
+    },
+    {
+      "source": "/Psychedelics/psychonautics-a-model-and-method-for-exploring-the-subjective-effects-of-psychoactive-drugs/Print.html",
+      "destination": "/library/psychedelics/psychonautics-model-and-method",
+      "permanent": true
+    },
+    {
+      "source": "/psychedelics/psychonautics-a-model-and-method-for-exploring-the-subjective-effects-of-psychoactive-drugs.html",
+      "destination": "/library/psychedelics/psychonautics-model-and-method",
+      "permanent": true
+    },
+    {
+      "source": "/psychedelics/psychonautics-a-model-and-method-for-exploring-the-subjective-effects-of-psychoactive-drugs.htm",
+      "destination": "/library/psychedelics/psychonautics-model-and-method",
+      "permanent": true
+    },
+    {
+      "source": "/Crime-police-trafficking/the-theory-a-practice-of-drug-related-crime/Print.html",
+      "destination": "/library/policy/theory-and-practice-of-drug-related-crime",
+      "permanent": true
+    },
+    {
+      "source": "/Crime-police-trafficking/the-theory-a-practice-of-drug-related-crime.html",
+      "destination": "/library/policy/theory-and-practice-of-drug-related-crime",
+      "permanent": true
+    },
+    {
+      "source": "/Crime-police-trafficking/the-theory-a-practice-of-drug-related-crime.htm",
+      "destination": "/library/policy/theory-and-practice-of-drug-related-crime",
+      "permanent": true
+    },
+    {
+      "source": "/The-Drugtakers/4-the-origins-of-drug-use.html",
+      "destination": "/library/policy/the-drugtakers/the-origins-of-drug-use",
+      "permanent": true
+    },
+    {
+      "source": "/The-Drugtakers/4-the-origins-of-drug-use.htm",
+      "destination": "/library/policy/the-drugtakers/the-origins-of-drug-use",
+      "permanent": true
+    },
+    {
+      "source": "/The-Drugtakers/4-the-origins-of-drug-use/Print.html",
+      "destination": "/library/policy/the-drugtakers/the-origins-of-drug-use",
+      "permanent": true
+    },
+    {
+      "source": "/the-drugtakers/4-the-origins-of-drug-use.html",
+      "destination": "/library/policy/the-drugtakers/the-origins-of-drug-use",
+      "permanent": true
+    },
+    {
+      "source": "/the-drugtakers/4-the-origins-of-drug-use.htm",
+      "destination": "/library/policy/the-drugtakers/the-origins-of-drug-use",
+      "permanent": true
+    },
+    {
+      "source": "/the-drugtakers/4-the-origins-of-drug-use/print.html",
+      "destination": "/library/policy/the-drugtakers/the-origins-of-drug-use",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/McCoy/book/40.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/opium-airlift-command",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/mccoy/book/40.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/opium-airlift-command",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/McCoy/book/40.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/opium-airlift-command",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/mccoy/book/40.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/opium-airlift-command",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/McCoy/book/Print40.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/opium-airlift-command",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/mccoy/book/Print40.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/opium-airlift-command",
+      "permanent": true
+    },
+    {
+      "source": "/books/McCoy/book/40.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/opium-airlift-command",
+      "permanent": true
+    },
+    {
+      "source": "/books/mccoy/book/40.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/opium-airlift-command",
+      "permanent": true
     }
   ]
 }
