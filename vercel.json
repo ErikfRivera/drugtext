@@ -5052,6 +5052,51 @@
       "source": "/library/reports/cu/cumenu.htm",
       "destination": "/reports/consumers-union-licit-illicit-drugs",
       "permanent": true
+    },
+    {
+      "source": "/sub/opiat1.html",
+      "destination": "/library/heroin",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/McCoy/book/28.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/newcombe.htm",
+      "destination": "/library/harm-reduction",
+      "permanent": true
+    },
+    {
+      "source": "/Law-and-treaties/european-integration-and-harmonization.html",
+      "destination": "/reports/european-drug-laws",
+      "permanent": true
+    },
+    {
+      "source": "/Dance/party-drugs-clubbing/ketamine-and-the-people.html",
+      "destination": "/library/psychedelics",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/923108.html",
+      "destination": "/library",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/94535.htm",
+      "destination": "/library",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/97844.htm",
+      "destination": "/library",
+      "permanent": true
+    },
+    {
+      "source": "/pdf/Dance/party-drugs-clubbing/why-mdma-should-not-have-been-made-illegal.pdf",
+      "destination": "/library/mdma",
+      "permanent": true
     }
   ]
 }

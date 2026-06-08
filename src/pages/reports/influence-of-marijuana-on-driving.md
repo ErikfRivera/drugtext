@@ -79,9 +79,9 @@ Address: P.O. Box 616, NL-6200 MD Maastricht
 
 ## Table of Contents
 
-- [List of Abbreviations](/reports/influence-of-marijuana-on-driving/abbreviations)
+- [List of Abbreviations](#abbreviations)
 
-**Chapter 1** [Raison d'être and Overview](/reports/influence-of-marijuana-on-driving/chapter-1-raison-detre-and-overview)
+**Chapter 1** [Raison d'être and Overview](#chapter-1-raison-detre-and-overview)
 
 **Chapter 2** General Introduction
 - 2.1 History of Cannabis Use
@@ -96,14 +96,14 @@ Address: P.O. Box 616, NL-6200 MD Maastricht
   - 2.5.5 Therapeutic Applications
 - 2.6 Summary and Conclusions
 
-**Chapter 3** [Cannabis and Driving](/reports/influence-of-marijuana-on-driving/chapter-3-cannabis-and-driving)
+**Chapter 3** [Cannabis and Driving](#chapter-3-cannabis-and-driving)
 - 3.1 Epidemiological Studies
 - 3.2 Laboratory Studies of Skills Related to Driving
 - 3.3 Driving Simulator Studies
 - 3.4 Actual Driving Studies
 - 3.5 General Conclusion
 
-**Chapter 4** [General Methods](/reports/influence-of-marijuana-on-driving/chapter-4-general-methods)
+**Chapter 4** [General Methods](#chapter-4-general-methods)
 - 4.1 Description of a 4-Study Program
 - 4.2 Compliance with Ethical and Legal Standards
 - 4.3 Subject Recruiting
@@ -111,31 +111,31 @@ Address: P.O. Box 616, NL-6200 MD Maastricht
 - 4.5 Screening for the Presence of Other Illicit Drugs and Alcohol
 - 4.6 Blood Sampling and Quantitative Analyses
 
-**Chapter 5** [Laboratory Study to Select THC Doses](/reports/influence-of-marijuana-on-driving/chapter-5-laboratory-study-to-select-thc-doses)
+**Chapter 5** [Laboratory Study to Select THC Doses](#chapter-5-laboratory-study-to-select-thc-doses)
 - 5.1 Introduction
 - 5.2 Methods
 - 5.3 Results
 - 5.4 Discussion
 
-**Chapter 6** [Marijuana and Driving on a Restricted Highway](/reports/influence-of-marijuana-on-driving/chapter-6-marijuana-and-driving-on-a-restricted-highway)
+**Chapter 6** [Marijuana and Driving on a Restricted Highway](#chapter-6-marijuana-and-driving-on-a-restricted-highway)
 - 6.1 Introduction
 - 6.2 Methods
 - 6.3 Results
 - 6.4 Discussion
 
-**Chapter 7** [Marijuana and Driving on a Normal Highway in Traffic](/reports/influence-of-marijuana-on-driving/chapter-7-marijuana-and-driving-on-a-normal-highway-in-traffic)
+**Chapter 7** [Marijuana and Driving on a Normal Highway in Traffic](#chapter-7-marijuana-and-driving-on-a-normal-highway-in-traffic)
 - 7.1 Introduction
 - 7.2 Methods
 - 7.3 Results
 - 7.4 Discussion
 
-**Chapter 8** [Marijuana, Alcohol and Urban City Driving](/reports/influence-of-marijuana-on-driving/chapter-8-marijuana-alcohol-and-urban-city-driving)
+**Chapter 8** [Marijuana, Alcohol and Urban City Driving](#chapter-8-marijuana-alcohol-and-urban-city-driving)
 - 8.1 Introduction
 - 8.2 Methods
 - 8.3 Results
 - 8.4 Discussion
 
-**Chapter 9** [General Discussion, Conclusions and Recommendations](/reports/influence-of-marijuana-on-driving/chapter-9-general-discussion)
+**Chapter 9** [General Discussion, Conclusions and Recommendations](#chapter-9-general-discussion)
 - 9.1 Introduction
 - 9.2 THC Doses
 - 9.3 The Driving Tests
@@ -148,7 +148,7 @@ Address: P.O. Box 616, NL-6200 MD Maastricht
 - 9.5 Summary of Conclusions
 - 9.6 Summary of Recommendations
 
-[References](/reports/influence-of-marijuana-on-driving/references)
+[References](#references)
 
 Summary
 

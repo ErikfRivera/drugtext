@@ -30,7 +30,7 @@ This thesis investigates the pharmacokinetics of methadone in heroin-dependent p
 
 ## Contents
 
-**[Summary](/library/methadone/methadone-maintenance-treatment/summary)**
+**[Summary](#summary)**
 
 **Chapter 1**
 Introduction — *Aims of the present study*

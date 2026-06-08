@@ -28,7 +28,7 @@ breadcrumb:
 
 *Written by Arno Hazekamp (Institute Biology Leiden, Leiden University, The Netherlands) and Franjo Grotenhermen (nova-Institut, Germany). Published by IACM (International Association for Cannabinoid Medicines), 2010. Originally available at www.cannabis-med.org*
 
-# Review on clinical studies with cannabis and cannabinoids 2005-2009
+## Review on clinical studies with cannabis and cannabinoids 2005-2009
 
 Arno Hazekamp, Franjo Grotenhermen
 

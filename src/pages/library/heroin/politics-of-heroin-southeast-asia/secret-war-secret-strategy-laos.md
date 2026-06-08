@@ -29,7 +29,7 @@ breadcrumb:
 
 *From* The Politics of Heroin in Southeast Asia *by Alfred W. McCoy (Harper & Row, 1972), Chapter 7.*
 
-*This chapter is part of the [McCoy book hub](/library/heroin/politics-of-heroin-southeast-asia). See also: [Secret War in Burma and the KMT](/library/heroin/politics-of-heroin-southeast-asia/secret-war-burma-kmt), [The Shan Rebellion](/library/heroin/politics-of-heroin-southeast-asia/shan-rebellion), and [The Golden Triangle](/library/heroin/politics-of-heroin-southeast-asia/golden-triangle).*
+*This chapter is part of the [McCoy book hub](/library/heroin/politics-of-heroin-southeast-asia). See also: [Secret War in Burma and the KMT](/library/heroin/politics-of-heroin-southeast-asia/secret-war-in-burma-the-kmt), [The Shan Rebellion](/library/heroin/politics-of-heroin-southeast-asia/shan-rebellion), and [The Golden Triangle](/library/heroin/politics-of-heroin-southeast-asia/golden-triangle-heroin).*
 
 ---
 
