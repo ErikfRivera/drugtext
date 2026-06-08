@@ -7687,6 +7687,311 @@
       "source": "/the-psychedelics/the-church-of-the-awakening/print.html",
       "destination": "/library/psychedelics/the-psychedelics/the-church-of-the-awakening",
       "permanent": true
+    },
+    {
+      "source": "/library/reports/baan/baan8.html",
+      "destination": "/reports/baan-commission/cannabis-hoofdstuk-6",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/baan/baan8.htm",
+      "destination": "/reports/baan-commission/cannabis-hoofdstuk-6",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/baan/baan8Print.html",
+      "destination": "/reports/baan-commission/cannabis-hoofdstuk-6",
+      "permanent": true
+    },
+    {
+      "source": "/reports/baan/baan8.html",
+      "destination": "/reports/baan-commission/cannabis-hoofdstuk-6",
+      "permanent": true
+    },
+    {
+      "source": "/reports/baan/baan8.htm",
+      "destination": "/reports/baan-commission/cannabis-hoofdstuk-6",
+      "permanent": true
+    },
+    {
+      "source": "/Addiction-and-Opiates/appendix.html",
+      "destination": "/library/addiction/addiction-and-opiates/appendix-kinds-of-drugs-and-methods-of-use",
+      "permanent": true
+    },
+    {
+      "source": "/Addiction-and-Opiates/appendix.htm",
+      "destination": "/library/addiction/addiction-and-opiates/appendix-kinds-of-drugs-and-methods-of-use",
+      "permanent": true
+    },
+    {
+      "source": "/Addiction-and-Opiates/appendix/Print.html",
+      "destination": "/library/addiction/addiction-and-opiates/appendix-kinds-of-drugs-and-methods-of-use",
+      "permanent": true
+    },
+    {
+      "source": "/addiction-and-opiates/appendix.html",
+      "destination": "/library/addiction/addiction-and-opiates/appendix-kinds-of-drugs-and-methods-of-use",
+      "permanent": true
+    },
+    {
+      "source": "/addiction-and-opiates/appendix.htm",
+      "destination": "/library/addiction/addiction-and-opiates/appendix-kinds-of-drugs-and-methods-of-use",
+      "permanent": true
+    },
+    {
+      "source": "/Opium-and-the-People/appendix.html",
+      "destination": "/library/addiction/addiction-and-opiates/appendix-kinds-of-drugs-and-methods-of-use",
+      "permanent": true
+    },
+    {
+      "source": "/Opium-and-the-People/appendix.htm",
+      "destination": "/library/addiction/addiction-and-opiates/appendix-kinds-of-drugs-and-methods-of-use",
+      "permanent": true
+    },
+    {
+      "source": "/opium-and-the-people/appendix.html",
+      "destination": "/library/addiction/addiction-and-opiates/appendix-kinds-of-drugs-and-methods-of-use",
+      "permanent": true
+    },
+    {
+      "source": "/opium-and-the-people/appendix.htm",
+      "destination": "/library/addiction/addiction-and-opiates/appendix-kinds-of-drugs-and-methods-of-use",
+      "permanent": true
+    },
+    {
+      "source": "/Dealing-with-Drugs/8-the-market-for-heroin-before-and-after-legalization.html",
+      "destination": "/library/policy/dealing-with-drugs/market-for-heroin-before-and-after-legalization",
+      "permanent": true
+    },
+    {
+      "source": "/Dealing-with-Drugs/8-the-market-for-heroin-before-and-after-legalization.htm",
+      "destination": "/library/policy/dealing-with-drugs/market-for-heroin-before-and-after-legalization",
+      "permanent": true
+    },
+    {
+      "source": "/Dealing-with-Drugs/8-the-market-for-heroin-before-and-after-legalization-Print.html",
+      "destination": "/library/policy/dealing-with-drugs/market-for-heroin-before-and-after-legalization",
+      "permanent": true
+    },
+    {
+      "source": "/dealing-with-drugs/8-the-market-for-heroin-before-and-after-legalization.html",
+      "destination": "/library/policy/dealing-with-drugs/market-for-heroin-before-and-after-legalization",
+      "permanent": true
+    },
+    {
+      "source": "/dealing-with-drugs/8-the-market-for-heroin-before-and-after-legalization.htm",
+      "destination": "/library/policy/dealing-with-drugs/market-for-heroin-before-and-after-legalization",
+      "permanent": true
+    },
+    {
+      "source": "/dealing-with-drugs/8-the-market-for-heroin-before-and-after-legalization-Print.html",
+      "destination": "/library/policy/dealing-with-drugs/market-for-heroin-before-and-after-legalization",
+      "permanent": true
+    },
+    {
+      "source": "/Opiates-heroin-methadone/speculations-on-the-nature-and-pattern-of-opium-smoking.html",
+      "destination": "/library/heroin/speculations-on-the-nature-and-pattern-of-opium-smoking",
+      "permanent": true
+    },
+    {
+      "source": "/Opiates-heroin-methadone/speculations-on-the-nature-and-pattern-of-opium-smoking.htm",
+      "destination": "/library/heroin/speculations-on-the-nature-and-pattern-of-opium-smoking",
+      "permanent": true
+    },
+    {
+      "source": "/Opiates-heroin-methadone/speculations-on-the-nature-and-pattern-of-opium-smoking/Print.html",
+      "destination": "/library/heroin/speculations-on-the-nature-and-pattern-of-opium-smoking",
+      "permanent": true
+    },
+    {
+      "source": "/Control-Over-Intoxicant-Use/speculations-on-the-nature-and-pattern-of-opium-smoking.html",
+      "destination": "/library/heroin/speculations-on-the-nature-and-pattern-of-opium-smoking",
+      "permanent": true
+    },
+    {
+      "source": "/Control-Over-Intoxicant-Use/speculations-on-the-nature-and-pattern-of-opium-smoking.htm",
+      "destination": "/library/heroin/speculations-on-the-nature-and-pattern-of-opium-smoking",
+      "permanent": true
+    },
+    {
+      "source": "/Control-Over-Intoxicant-Use/speculations-on-the-nature-and-pattern-of-opium-smoking/Print.html",
+      "destination": "/library/heroin/speculations-on-the-nature-and-pattern-of-opium-smoking",
+      "permanent": true
+    },
+    {
+      "source": "/pdf/Opiates-heroin-methadone/speculations-on-the-nature-and-pattern-of-opium-smoking.pdf",
+      "destination": "/library/heroin/speculations-on-the-nature-and-pattern-of-opium-smoking",
+      "permanent": true
+    },
+    {
+      "source": "/Drugs-The-Public/what-is-the-drug-issue-an-overview.html",
+      "destination": "/library/policy/drugs-and-the-public/what-is-the-drug-issue-an-overview",
+      "permanent": true
+    },
+    {
+      "source": "/Drugs-The-Public/what-is-the-drug-issue-an-overview.htm",
+      "destination": "/library/policy/drugs-and-the-public/what-is-the-drug-issue-an-overview",
+      "permanent": true
+    },
+    {
+      "source": "/Drugs-The-Public/what-is-the-drug-issue-an-overview/Print.html",
+      "destination": "/library/policy/drugs-and-the-public/what-is-the-drug-issue-an-overview",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/ricaurte.htm",
+      "destination": "/library/mdma/studies-of-mdma-ricaurte",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/ricaurte.html",
+      "destination": "/library/mdma/studies-of-mdma-ricaurte",
+      "permanent": true
+    },
+    {
+      "source": "/articles/ricaurte.htm",
+      "destination": "/library/mdma/studies-of-mdma-ricaurte",
+      "permanent": true
+    },
+    {
+      "source": "/articles/ricaurte.html",
+      "destination": "/library/mdma/studies-of-mdma-ricaurte",
+      "permanent": true
+    },
+    {
+      "source": "/reports/cu/cu8.html",
+      "destination": "/reports/consumers-union-licit-illicit-drugs/the-harrison-narcotic-act-1914",
+      "permanent": true
+    },
+    {
+      "source": "/reports/cu/cu8.htm",
+      "destination": "/reports/consumers-union-licit-illicit-drugs/the-harrison-narcotic-act-1914",
+      "permanent": true
+    },
+    {
+      "source": "/reports/cu/CU8.html",
+      "destination": "/reports/consumers-union-licit-illicit-drugs/the-harrison-narcotic-act-1914",
+      "permanent": true
+    },
+    {
+      "source": "/reports/cu/CU8.htm",
+      "destination": "/reports/consumers-union-licit-illicit-drugs/the-harrison-narcotic-act-1914",
+      "permanent": true
+    },
+    {
+      "source": "/reports/cu/cu8Print.html",
+      "destination": "/reports/consumers-union-licit-illicit-drugs/the-harrison-narcotic-act-1914",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/cu/cu8.html",
+      "destination": "/reports/consumers-union-licit-illicit-drugs/the-harrison-narcotic-act-1914",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/cu/cu8.htm",
+      "destination": "/reports/consumers-union-licit-illicit-drugs/the-harrison-narcotic-act-1914",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/cu/CU8.html",
+      "destination": "/reports/consumers-union-licit-illicit-drugs/the-harrison-narcotic-act-1914",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/cu/CU8.htm",
+      "destination": "/reports/consumers-union-licit-illicit-drugs/the-harrison-narcotic-act-1914",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/cu/cu8Print.html",
+      "destination": "/reports/consumers-union-licit-illicit-drugs/the-harrison-narcotic-act-1914",
+      "permanent": true
+    },
+    {
+      "source": "/reports/wvc/",
+      "destination": "/reports/dutch-drug-policy-continuity-and-change",
+      "permanent": true
+    },
+    {
+      "source": "/reports/wvc",
+      "destination": "/reports/dutch-drug-policy-continuity-and-change",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/wvc/",
+      "destination": "/reports/dutch-drug-policy-continuity-and-change",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/wvc",
+      "destination": "/reports/dutch-drug-policy-continuity-and-change",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/cu/cu24.html",
+      "destination": "/reports/consumers-union-licit-illicit-drugs/the-case-of-dr-sigmund-freud",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/cu/cu24.htm",
+      "destination": "/reports/consumers-union-licit-illicit-drugs/the-case-of-dr-sigmund-freud",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/cu/CU24.html",
+      "destination": "/reports/consumers-union-licit-illicit-drugs/the-case-of-dr-sigmund-freud",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/cu/CU24.htm",
+      "destination": "/reports/consumers-union-licit-illicit-drugs/the-case-of-dr-sigmund-freud",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/cu/cu24Print.html",
+      "destination": "/reports/consumers-union-licit-illicit-drugs/the-case-of-dr-sigmund-freud",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/cu/cu24print.html",
+      "destination": "/reports/consumers-union-licit-illicit-drugs/the-case-of-dr-sigmund-freud",
+      "permanent": true
+    },
+    {
+      "source": "/reports/cu/cu24.html",
+      "destination": "/reports/consumers-union-licit-illicit-drugs/the-case-of-dr-sigmund-freud",
+      "permanent": true
+    },
+    {
+      "source": "/reports/cu/cu24.htm",
+      "destination": "/reports/consumers-union-licit-illicit-drugs/the-case-of-dr-sigmund-freud",
+      "permanent": true
+    },
+    {
+      "source": "/reports/cu/",
+      "destination": "/reports/consumers-union-licit-illicit-drugs/the-case-of-dr-sigmund-freud",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/marchand01.htm",
+      "destination": "/library/policy/effective-international-control-on-drug-trafficking",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/marchand01.html",
+      "destination": "/library/policy/effective-international-control-on-drug-trafficking",
+      "permanent": true
+    },
+    {
+      "source": "/articles/marchand01.htm",
+      "destination": "/library/policy/effective-international-control-on-drug-trafficking",
+      "permanent": true
+    },
+    {
+      "source": "/articles/marchand01.html",
+      "destination": "/library/policy/effective-international-control-on-drug-trafficking",
+      "permanent": true
     }
   ]
 }
