@@ -6749,16 +6749,6 @@
       "permanent": true
     },
     {
-      "source": "/library/reports/wootton/",
-      "destination": "/library/cannabis/the-strange-case-of-pot/the-wootton-report",
-      "permanent": true
-    },
-    {
-      "source": "/reports/wootton/",
-      "destination": "/library/cannabis/the-strange-case-of-pot/the-wootton-report",
-      "permanent": true
-    },
-    {
       "source": "/library/mdma/archive/19/default.htm",
       "destination": "/library/mdma/pharmacology-toxicology-animals-humans",
       "permanent": true
