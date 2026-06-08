@@ -46,4 +46,4 @@ The advice is little different from that appropriate for many other mood-alterin
 
 ---
 
-*See also:* [Deglamorising cannabis — Editorial (11 November 1995)](/library/cannabis/lancet-cannabis-editorial-1995) — the earlier editorial this piece qualifies.
+*See also:* [Deglamorising cannabis — Editorial (11 November 1995)](/library/cannabis) — the earlier editorial this piece qualifies.

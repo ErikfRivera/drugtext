@@ -25,7 +25,7 @@ The LaGuardia Committee Report is one of the most significant early scientific i
 
 The report challenged many prevailing myths about marijuana, including its supposed link to violent crime and addiction, and remains a landmark document in the history of drug policy.
 
-A PDF of the complete report is available: [Download PDF](/library/reports/laguardia.pdf)
+A PDF of the complete report is available: [Download PDF](/reports/laguardia-committee-report)
 
 ## Contents
 

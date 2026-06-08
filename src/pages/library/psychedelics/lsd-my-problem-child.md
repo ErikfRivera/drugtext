@@ -27,19 +27,19 @@ breadcrumb:
 
 ## Table of Contents
 
-- [Translator's Preface](/library/psychedelics/lsd-my-problem-child/translators-preface)
-- [Foreword](/library/psychedelics/lsd-my-problem-child/foreword)
-- [Chapter 1 — How LSD Originated](/library/psychedelics/lsd-my-problem-child/how-lsd-originated)
-- [Chapter 2 — LSD in Animal Experiments and Biological Research](/library/psychedelics/lsd-my-problem-child/lsd-animal-experiments-biological-research)
-- [Chapter 3 — Chemical Modifications of LSD](/library/psychedelics/lsd-my-problem-child/chemical-modifications-of-lsd)
-- [Chapter 4 — Use of LSD in Psychiatry](/library/psychedelics/lsd-my-problem-child/use-of-lsd-in-psychiatry)
-- [Chapter 5 — From Remedy to Inebriant](/library/psychedelics/lsd-my-problem-child/from-remedy-to-inebriant)
-- [Chapter 6 — The Mexican Relatives of LSD](/library/psychedelics/lsd-my-problem-child/the-mexican-relatives-of-lsd)
-- [Chapter 7 — Radiance from Ernst Jünger](/library/psychedelics/lsd-my-problem-child/radiance-from-ernst-junger)
-- [Chapter 8 — Meeting With Aldous Huxley](/library/psychedelics/lsd-my-problem-child/meeting-with-aldous-huxley)
-- [Chapter 9 — Correspondence with the Poet-Physician Walter Vogt](/library/psychedelics/lsd-my-problem-child/correspondence-with-walter-vogt)
-- [Chapter 10 — Various Visitors](/library/psychedelics/lsd-my-problem-child/various-visitors)
-- [Chapter 11 — LSD Experience and Reality](/library/psychedelics/lsd-my-problem-child/lsd-experience-and-reality)
+- [Translator's Preface](#translators-preface)
+- [Foreword](#foreword)
+- [Chapter 1 — How LSD Originated](#how-lsd-originated)
+- [Chapter 2 — LSD in Animal Experiments and Biological Research](#lsd-animal-experiments-biological-research)
+- [Chapter 3 — Chemical Modifications of LSD](#chemical-modifications-of-lsd)
+- [Chapter 4 — Use of LSD in Psychiatry](#use-of-lsd-in-psychiatry)
+- [Chapter 5 — From Remedy to Inebriant](#from-remedy-to-inebriant)
+- [Chapter 6 — The Mexican Relatives of LSD](#the-mexican-relatives-of-lsd)
+- [Chapter 7 — Radiance from Ernst Jünger](#radiance-from-ernst-junger)
+- [Chapter 8 — Meeting With Aldous Huxley](#meeting-with-aldous-huxley)
+- [Chapter 9 — Correspondence with the Poet-Physician Walter Vogt](#correspondence-with-walter-vogt)
+- [Chapter 10 — Various Visitors](#various-visitors)
+- [Chapter 11 — LSD Experience and Reality](#lsd-experience-and-reality)
 
 ## Publication Details
 

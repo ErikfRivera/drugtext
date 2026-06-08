@@ -265,7 +265,7 @@ Sechrest, D.K., D. Shicor (eds.) (2001). "Drug courts as an alternative treatmen
 
 SPTT (1999). *Relatório de actividades 1999, Versão abreviada*, Lisboa: SPTT.
 
-Websites: http://www.EMCDDA.org — https://drugtext.org
+Websites: http://www.EMCDDA.org — https://www.drugtext.org
 
 ---
 

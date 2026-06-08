@@ -51,7 +51,7 @@ According to testimony from the task force, however, the police were unable to t
 
 Marcus' ruling could be good news for American Agriculture's owners, who have filed suit against the city in federal court, claiming the trap and trace violated their civil rights. But the judge also warned that his ruling did not guarantee a victory for the defendants in the cultivation cases, because the task force might not have relied solely on the trap and trace in its investigations of them. A final decision on that case is expected at the end of this month.
 
-Earlier DRCNet coverage of this story is available in [Issue #85](/library/policy/drcnet-week-online/issue-085) (http://www.drcnet.org/wol/085.html#portland).
+Earlier DRCNet coverage of this story is available in [Issue #85](/library/policy/drcnet-week-online) (http://www.drcnet.org/wol/085.html#portland).
 
 ---
 
@@ -171,7 +171,7 @@ The Week Online will follow this case as it progresses. You can read the Village
 
 ## 8. Methamphetamine Bill Moves Out of Committee
 
-Last week it was reported that the Senate was considering legislation to increase methamphetamine penalties and create new rules limiting the sale of over-the-counter cold medicines which contain the methamphetamine precursor chemical pseudoephedrine, such as Sudafed (see [Issue #101](/library/policy/drcnet-week-online/issue-101)).
+Last week it was reported that the Senate was considering legislation to increase methamphetamine penalties and create new rules limiting the sale of over-the-counter cold medicines which contain the methamphetamine precursor chemical pseudoephedrine, such as Sudafed (see [Issue #101](/library/policy/drcnet-week-online)).
 
 According to Tyler Green of the Drug Policy Foundation, the "Defeat Meth Act," S. 486, was reported out of the Senate Judiciary Committee on Thursday, but the bill will probably not come to a vote on the Senate floor until after the summer recess.
 

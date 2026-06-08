@@ -34,12 +34,12 @@ This edition is hosted on DrugText.org as part of its historic drug literature c
 
 ## Chapters
 
-1. [Preface](/Phantastica/preface.html)
-2. [Introduction](/Phantastica/introduction.html)
-3. [Narcotic Substances](/Phantastica/narcotic-substances.html)
-4. [Euphorica: Mental Sedatives](/Phantastica/euphorica-mental-sedatives.html)
-5. [Hallucinating Substances](/Phantastica/hallucinating-substances.html)
-6. [Inebriantia](/Phantastica/inebriantia.html)
-7. [Hypnotica: Soporifics](/Phantastica/hypnotica-soporifics.html)
-8. [Excitantia](/Phantastica/excitantia.html)
-9. [Notes](/Phantastica/notes.html)
+1. [Preface](#preface)
+2. [Introduction](#introduction)
+3. [Narcotic Substances](#narcotic-substances)
+4. [Euphorica: Mental Sedatives](#euphorica-mental-sedatives)
+5. [Hallucinating Substances](#hallucinating-substances)
+6. [Inebriantia](#inebriantia)
+7. [Hypnotica: Soporifics](#hypnotica-soporifics)
+8. [Excitantia](#excitantia)
+9. [Notes](#notes)

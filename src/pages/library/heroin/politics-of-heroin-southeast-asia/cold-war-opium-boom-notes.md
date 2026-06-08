@@ -27,7 +27,7 @@ breadcrumb:
   - label: "Cold War Opium Boom Notes"
 ---
 
-*Endnotes for Chapter 4 of* [The Politics of Heroin in Southeast Asia](/library/heroin/politics-of-heroin-southeast-asia) *by Alfred W. McCoy (Harper & Row, 1972). See also the* [chapter text](/library/heroin/politics-of-heroin-southeast-asia/cold-war-opium-boom).
+*Endnotes for Chapter 4 of* [The Politics of Heroin in Southeast Asia](/library/heroin/politics-of-heroin-southeast-asia) *by Alfred W. McCoy (Harper & Row, 1972). See also the* [chapter text](/library/heroin/politics-of-heroin-southeast-asia/cold-war-opium-boom-notes).
 
 ## Notes
 

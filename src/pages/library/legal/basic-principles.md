@@ -24,7 +24,7 @@ breadcrumb:
   - label: "German Constitutional Court Cannabis Judgement"
 ---
 
-# Judgement of German Constitutional Court on Cannabis
+## Judgement of German Constitutional Court on Cannabis
 
 
 ## Basic principles
@@ -71,7 +71,7 @@ of judges] of 9 March 1994
 
 
 
-# Federal Constitutional Court
+## Federal Constitutional Court
 
 
 
