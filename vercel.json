@@ -6722,6 +6722,256 @@
       "source": "/library/books/recreationaldrugs/alcohol.htm",
       "destination": "/library/alcohol/psychopharmacology",
       "permanent": true
+    },
+    {
+      "source": "/library/reports/wootton/strange.htm",
+      "destination": "/library/cannabis/the-strange-case-of-pot/the-wootton-report",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/wootton/strange.html",
+      "destination": "/library/cannabis/the-strange-case-of-pot/the-wootton-report",
+      "permanent": true
+    },
+    {
+      "source": "/reports/wootton/strange.htm",
+      "destination": "/library/cannabis/the-strange-case-of-pot/the-wootton-report",
+      "permanent": true
+    },
+    {
+      "source": "/reports/wootton/strange.html",
+      "destination": "/library/cannabis/the-strange-case-of-pot/the-wootton-report",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/wootton/strangePrint.html",
+      "destination": "/library/cannabis/the-strange-case-of-pot/the-wootton-report",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/wootton/",
+      "destination": "/library/cannabis/the-strange-case-of-pot/the-wootton-report",
+      "permanent": true
+    },
+    {
+      "source": "/reports/wootton/",
+      "destination": "/library/cannabis/the-strange-case-of-pot/the-wootton-report",
+      "permanent": true
+    },
+    {
+      "source": "/library/mdma/archive/19/default.htm",
+      "destination": "/library/mdma/pharmacology-toxicology-animals-humans",
+      "permanent": true
+    },
+    {
+      "source": "/library/mdma/archive/19/default.html",
+      "destination": "/library/mdma/pharmacology-toxicology-animals-humans",
+      "permanent": true
+    },
+    {
+      "source": "/library/mdma/archive/19/Default.htm",
+      "destination": "/library/mdma/pharmacology-toxicology-animals-humans",
+      "permanent": true
+    },
+    {
+      "source": "/library/mdma/archive/19/Default.html",
+      "destination": "/library/mdma/pharmacology-toxicology-animals-humans",
+      "permanent": true
+    },
+    {
+      "source": "/library/research/mdma/archive/19/default.htm",
+      "destination": "/library/mdma/pharmacology-toxicology-animals-humans",
+      "permanent": true
+    },
+    {
+      "source": "/library/research/mdma/archive/19/default.html",
+      "destination": "/library/mdma/pharmacology-toxicology-animals-humans",
+      "permanent": true
+    },
+    {
+      "source": "/library/research/mdma/archive/19/Default.htm",
+      "destination": "/library/mdma/pharmacology-toxicology-animals-humans",
+      "permanent": true
+    },
+    {
+      "source": "/library/research/mdma/archive/19/Default.html",
+      "destination": "/library/mdma/pharmacology-toxicology-animals-humans",
+      "permanent": true
+    },
+    {
+      "source": "/Marijuana-The-New-Prohibition/iv-marijuana-and-aggression/Print.html",
+      "destination": "/library/cannabis/marijuana-the-new-prohibition/marijuana-and-aggression",
+      "permanent": true
+    },
+    {
+      "source": "/Marijuana-The-New-Prohibition/iv-marijuana-and-aggression.html",
+      "destination": "/library/cannabis/marijuana-the-new-prohibition/marijuana-and-aggression",
+      "permanent": true
+    },
+    {
+      "source": "/Marijuana-The-New-Prohibition/iv-marijuana-and-aggression.htm",
+      "destination": "/library/cannabis/marijuana-the-new-prohibition/marijuana-and-aggression",
+      "permanent": true
+    },
+    {
+      "source": "/marijuana-the-new-prohibition/iv-marijuana-and-aggression.html",
+      "destination": "/library/cannabis/marijuana-the-new-prohibition/marijuana-and-aggression",
+      "permanent": true
+    },
+    {
+      "source": "/marijuana-the-new-prohibition/iv-marijuana-and-aggression.htm",
+      "destination": "/library/cannabis/marijuana-the-new-prohibition/marijuana-and-aggression",
+      "permanent": true
+    },
+    {
+      "source": "/marijuana-the-new-prohibition/iv-marijuana-and-aggression/print.html",
+      "destination": "/library/cannabis/marijuana-the-new-prohibition/marijuana-and-aggression",
+      "permanent": true
+    },
+    {
+      "source": "/druglibrary/schaffer/hemp/history/first12000/abel.htm",
+      "destination": "/library/cannabis/marihuana-the-first-12000-years",
+      "permanent": true
+    },
+    {
+      "source": "/druglibrary/schaffer/hemp/history/first12000/abel.html",
+      "destination": "/library/cannabis/marihuana-the-first-12000-years",
+      "permanent": true
+    },
+    {
+      "source": "/druglibrary/schaffer/hemp/history/first12000/index.htm",
+      "destination": "/library/cannabis/marihuana-the-first-12000-years",
+      "permanent": true
+    },
+    {
+      "source": "/druglibrary/schaffer/hemp/history/first12000/index.html",
+      "destination": "/library/cannabis/marihuana-the-first-12000-years",
+      "permanent": true
+    },
+    {
+      "source": "/Marihuana/",
+      "destination": "/library/cannabis/marihuana-the-first-12000-years",
+      "permanent": true
+    },
+    {
+      "source": "/Marihuana",
+      "destination": "/library/cannabis/marihuana-the-first-12000-years",
+      "permanent": true
+    },
+    {
+      "source": "/marihuana/",
+      "destination": "/library/cannabis/marihuana-the-first-12000-years",
+      "permanent": true
+    },
+    {
+      "source": "/marihuana",
+      "destination": "/library/cannabis/marihuana-the-first-12000-years",
+      "permanent": true
+    },
+    {
+      "source": "/books/McCoy/book/12.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/genesis",
+      "permanent": true
+    },
+    {
+      "source": "/books/McCoy/book/12.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/genesis",
+      "permanent": true
+    },
+    {
+      "source": "/druglibrary/schaffer/hemp/history/first12000/12.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/genesis",
+      "permanent": true
+    },
+    {
+      "source": "/druglibrary/schaffer/hemp/history/first12000/12.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/genesis",
+      "permanent": true
+    },
+    {
+      "source": "/druglibrary/schaffer/history/e1920/willoughby.htm",
+      "destination": "/library/policy/geneva-conferences-indian-hemp",
+      "permanent": true
+    },
+    {
+      "source": "/druglibrary/schaffer/history/e1920/willoughby.html",
+      "destination": "/library/policy/geneva-conferences-indian-hemp",
+      "permanent": true
+    },
+    {
+      "source": "/books/zinberg1/preface.htm",
+      "destination": "/library/addiction/drug-set-and-setting/preface",
+      "permanent": true
+    },
+    {
+      "source": "/books/zinberg1/preface.html",
+      "destination": "/library/addiction/drug-set-and-setting/preface",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/zinberg2/preface.htm",
+      "destination": "/library/addiction/drug-set-and-setting/preface",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/zinberg2/preface.html",
+      "destination": "/library/addiction/drug-set-and-setting/preface",
+      "permanent": true
+    },
+    {
+      "source": "/books/zinberg2/preface.htm",
+      "destination": "/library/addiction/drug-set-and-setting/preface",
+      "permanent": true
+    },
+    {
+      "source": "/books/zinberg2/preface.html",
+      "destination": "/library/addiction/drug-set-and-setting/preface",
+      "permanent": true
+    },
+    {
+      "source": "/index.php?option=com_content&view=article&id=47",
+      "destination": "/library/cocaine",
+      "permanent": true
+    },
+    {
+      "source": "/Behavioral-Social-Effects-of-Marijuana/hunger-and-appetite-after-single-doses-of-marihuana-alcohol-and-dextroamphetamine.html",
+      "destination": "/library/cannabis/hunger-and-appetite-after-marihuana-alcohol-dextroamphetamine",
+      "permanent": true
+    },
+    {
+      "source": "/Behavioral-Social-Effects-of-Marijuana/hunger-and-appetite-after-single-doses-of-marihuana-alcohol-and-dextroamphetamine/Print.html",
+      "destination": "/library/cannabis/hunger-and-appetite-after-marihuana-alcohol-dextroamphetamine",
+      "permanent": true
+    },
+    {
+      "source": "/Behavioral-Social-Effects-of-Marijuana/hunger-and-appetite-after-single-doses-of-marihuana-alcohol-and-dextroamphetamine.htm",
+      "destination": "/library/cannabis/hunger-and-appetite-after-marihuana-alcohol-dextroamphetamine",
+      "permanent": true
+    },
+    {
+      "source": "/pdf/Behavioral-Social-Effects-of-Marijuana/hunger-and-appetite-after-single-doses-of-marihuana-alcohol-and-dextroamphetamine.pdf",
+      "destination": "/library/cannabis/hunger-and-appetite-after-marihuana-alcohol-dextroamphetamine",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/97811.htm",
+      "destination": "/library/harm-reduction/aids-drugs-and-risk-behaviour-in-prison",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/97811.html",
+      "destination": "/library/harm-reduction/aids-drugs-and-risk-behaviour-in-prison",
+      "permanent": true
+    },
+    {
+      "source": "/articles/97811.htm",
+      "destination": "/library/harm-reduction/aids-drugs-and-risk-behaviour-in-prison",
+      "permanent": true
+    },
+    {
+      "source": "/articles/97811.html",
+      "destination": "/library/harm-reduction/aids-drugs-and-risk-behaviour-in-prison",
+      "permanent": true
     }
   ]
 }
