@@ -1367,6 +1367,356 @@
       "source": "/library/books/adopiates/chapter10print.html",
       "destination": "/library/addiction/addiction-and-opiates/chapter-10-federal-anti-narcotics-legislation",
       "permanent": true
+    },
+    {
+      "source": "/books/McCoy/book/20.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/burma-sahibs-in-the-shan-states",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/McCoy/book/20.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/burma-sahibs-in-the-shan-states",
+      "permanent": true
+    },
+    {
+      "source": "/books/mccoy/book/20.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/burma-sahibs-in-the-shan-states",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/mccoy/book/20.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/burma-sahibs-in-the-shan-states",
+      "permanent": true
+    },
+    {
+      "source": "/books/McCoy/book/20.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/burma-sahibs-in-the-shan-states",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/McCoy/book/20.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/burma-sahibs-in-the-shan-states",
+      "permanent": true
+    },
+    {
+      "source": "/books/mccoy/book/20.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/burma-sahibs-in-the-shan-states",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/mccoy/book/20.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/burma-sahibs-in-the-shan-states",
+      "permanent": true
+    },
+    {
+      "source": "/books/McCoy/book/Print20.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/burma-sahibs-in-the-shan-states",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/McCoy/book/Print20.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/burma-sahibs-in-the-shan-states",
+      "permanent": true
+    },
+    {
+      "source": "/books/mccoy/book/Print20.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/burma-sahibs-in-the-shan-states",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/mccoy/book/Print20.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/burma-sahibs-in-the-shan-states",
+      "permanent": true
+    },
+    {
+      "source": "/Default.htm",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/default.htm",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/kafkalides01/default.htm",
+      "destination": "/library/psychedelics",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/kafkalides01/default.html",
+      "destination": "/library/psychedelics",
+      "permanent": true
+    },
+    {
+      "source": "/books/kafkalides01/default.htm",
+      "destination": "/library/psychedelics",
+      "permanent": true
+    },
+    {
+      "source": "/books/kafkalides01/default.html",
+      "destination": "/library/psychedelics",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/ukpol/default.htm",
+      "destination": "/reports",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/ukpol/default.html",
+      "destination": "/reports",
+      "permanent": true
+    },
+    {
+      "source": "/reports/ukpol/default.htm",
+      "destination": "/reports",
+      "permanent": true
+    },
+    {
+      "source": "/reports/ukpol/default.html",
+      "destination": "/reports",
+      "permanent": true
+    },
+    {
+      "source": "/library/research/mdma/archive/21/default.htm",
+      "destination": "/library/mdma",
+      "permanent": true
+    },
+    {
+      "source": "/library/research/mdma/archive/21/default.html",
+      "destination": "/library/mdma",
+      "permanent": true
+    },
+    {
+      "source": "/library/mdma/archive/21/default.htm",
+      "destination": "/library/mdma",
+      "permanent": true
+    },
+    {
+      "source": "/library/mdma/archive/21/default.html",
+      "destination": "/library/mdma",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/PaulMcCartny.html",
+      "destination": "/library/cannabis/paul-mccartney-on-cannabis",
+      "permanent": true
+    },
+    {
+      "source": "/articles/PaulMcCartny.html",
+      "destination": "/library/cannabis/paul-mccartney-on-cannabis",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/PaulMcCartny.htm",
+      "destination": "/library/cannabis/paul-mccartney-on-cannabis",
+      "permanent": true
+    },
+    {
+      "source": "/articles/PaulMcCartny.htm",
+      "destination": "/library/cannabis/paul-mccartney-on-cannabis",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/paulmccartny.html",
+      "destination": "/library/cannabis/paul-mccartney-on-cannabis",
+      "permanent": true
+    },
+    {
+      "source": "/articles/paulmccartny.html",
+      "destination": "/library/cannabis/paul-mccartney-on-cannabis",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/paulmccartny.htm",
+      "destination": "/library/cannabis/paul-mccartney-on-cannabis",
+      "permanent": true
+    },
+    {
+      "source": "/articles/paulmccartny.htm",
+      "destination": "/library/cannabis/paul-mccartney-on-cannabis",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/PaulMcCartnyPrint.html",
+      "destination": "/library/cannabis/paul-mccartney-on-cannabis",
+      "permanent": true
+    },
+    {
+      "source": "/articles/PaulMcCartnyPrint.html",
+      "destination": "/library/cannabis/paul-mccartney-on-cannabis",
+      "permanent": true
+    },
+    {
+      "source": "/Grupp-Marihuana/dependence-on-cannabis-marihuana.html",
+      "destination": "/library/cannabis/dependence-on-cannabis",
+      "permanent": true
+    },
+    {
+      "source": "/Grupp-Marihuana/dependence-on-cannabis-marihuana.htm",
+      "destination": "/library/cannabis/dependence-on-cannabis",
+      "permanent": true
+    },
+    {
+      "source": "/Grupp-Marihuana/dependence-on-cannabis-marihuana/Print.html",
+      "destination": "/library/cannabis/dependence-on-cannabis",
+      "permanent": true
+    },
+    {
+      "source": "/grupp-marihuana/dependence-on-cannabis-marihuana.html",
+      "destination": "/library/cannabis/dependence-on-cannabis",
+      "permanent": true
+    },
+    {
+      "source": "/pdf/Addiction/addiction-brain-mechanisms-and-their-treatment-implications.pdf",
+      "destination": "/library/addiction/addiction-brain-mechanisms-and-their-treatment-implications.pdf",
+      "permanent": true
+    },
+    {
+      "source": "/Addiction/addiction-brain-mechanisms-and-their-treatment-implications.html",
+      "destination": "/library/addiction/addiction-brain-mechanisms-treatment-implications",
+      "permanent": true
+    },
+    {
+      "source": "/articles/703-addiction-brain-mechanisms-and-their-treatment-implications.html",
+      "destination": "/library/addiction/addiction-brain-mechanisms-treatment-implications",
+      "permanent": true
+    },
+    {
+      "source": "/Second-Brain-Report/drug-addiction-2.html",
+      "destination": "/reports/second-brain-report",
+      "permanent": true
+    },
+    {
+      "source": "/Second-Brain-Report/drug-addiction-2.htm",
+      "destination": "/reports/second-brain-report",
+      "permanent": true
+    },
+    {
+      "source": "/Second-Brain-Report/drug-addiction-2/Print.html",
+      "destination": "/reports/second-brain-report",
+      "permanent": true
+    },
+    {
+      "source": "/second-brain-report/drug-addiction-2.html",
+      "destination": "/reports/second-brain-report",
+      "permanent": true
+    },
+    {
+      "source": "/second-brain-report/drug-addiction-2.htm",
+      "destination": "/reports/second-brain-report",
+      "permanent": true
+    },
+    {
+      "source": "/second-brain-report/drug-addiction-2/print.html",
+      "destination": "/reports/second-brain-report",
+      "permanent": true
+    },
+    {
+      "source": "/Addiction/changing-images-of-the-addict-and-addiction.html",
+      "destination": "/library/addiction/changing-images-of-the-addict",
+      "permanent": true
+    },
+    {
+      "source": "/Addiction/changing-images-of-the-addict-and-addiction.htm",
+      "destination": "/library/addiction/changing-images-of-the-addict",
+      "permanent": true
+    },
+    {
+      "source": "/Addiction/changing-images-of-the-addict-and-addiction-Print.html",
+      "destination": "/library/addiction/changing-images-of-the-addict",
+      "permanent": true
+    },
+    {
+      "source": "/addiction/changing-images-of-the-addict-and-addiction.html",
+      "destination": "/library/addiction/changing-images-of-the-addict",
+      "permanent": true
+    },
+    {
+      "source": "/addiction/changing-images-of-the-addict-and-addiction.htm",
+      "destination": "/library/addiction/changing-images-of-the-addict",
+      "permanent": true
+    },
+    {
+      "source": "/addiction/changing-images-of-the-addict-and-addiction-print.html",
+      "destination": "/library/addiction/changing-images-of-the-addict",
+      "permanent": true
+    },
+    {
+      "source": "/druglibrary/schaffer/dea/Default.htm",
+      "destination": "/library/policy/drcnet-response-to-the-dea",
+      "permanent": true
+    },
+    {
+      "source": "/druglibrary/schaffer/dea/default.htm",
+      "destination": "/library/policy/drcnet-response-to-the-dea",
+      "permanent": true
+    },
+    {
+      "source": "/druglibrary/schaffer/dea/Default.html",
+      "destination": "/library/policy/drcnet-response-to-the-dea",
+      "permanent": true
+    },
+    {
+      "source": "/druglibrary/schaffer/dea/default.html",
+      "destination": "/library/policy/drcnet-response-to-the-dea",
+      "permanent": true
+    },
+    {
+      "source": "/druglibrary/schaffer/dea/index.htm",
+      "destination": "/library/policy/drcnet-response-to-the-dea",
+      "permanent": true
+    },
+    {
+      "source": "/druglibrary/schaffer/dea/index.html",
+      "destination": "/library/policy/drcnet-response-to-the-dea",
+      "permanent": true
+    },
+    {
+      "source": "/druglibrary/schaffer/dea/",
+      "destination": "/library/policy/drcnet-response-to-the-dea",
+      "permanent": true
+    },
+    {
+      "source": "/count/Russia_drugtext_ENG.htm",
+      "destination": "/library/harm-reduction/drugs-and-hiv-russia",
+      "permanent": true
+    },
+    {
+      "source": "/count/Russia_drugtext_ENG.html",
+      "destination": "/library/harm-reduction/drugs-and-hiv-russia",
+      "permanent": true
+    },
+    {
+      "source": "/count/russia_drugtext_eng.htm",
+      "destination": "/library/harm-reduction/drugs-and-hiv-russia",
+      "permanent": true
+    },
+    {
+      "source": "/count/russia_drugtext_eng.html",
+      "destination": "/library/harm-reduction/drugs-and-hiv-russia",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/becker02.htm",
+      "destination": "/library/addiction/theory-of-rational-addiction",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/becker02.html",
+      "destination": "/library/addiction/theory-of-rational-addiction",
+      "permanent": true
+    },
+    {
+      "source": "/articles/becker02.htm",
+      "destination": "/library/addiction/theory-of-rational-addiction",
+      "permanent": true
+    },
+    {
+      "source": "/articles/becker02.html",
+      "destination": "/library/addiction/theory-of-rational-addiction",
+      "permanent": true
     }
   ]
 }
