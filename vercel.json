@@ -12,6 +12,206 @@
       "source": "/library/research/mdma/archive/15/default.htm",
       "destination": "/library/mdma/substance-abuse-textbook",
       "permanent": true
+    },
+    {
+      "source": "/press/lists/",
+      "destination": "/library/policy",
+      "permanent": true
+    },
+    {
+      "source": "/press/lists",
+      "destination": "/library/policy",
+      "permanent": true
+    },
+    {
+      "source": "/press/lists/index.htm",
+      "destination": "/library/policy",
+      "permanent": true
+    },
+    {
+      "source": "/press/lists/index.html",
+      "destination": "/library/policy",
+      "permanent": true
+    },
+    {
+      "source": "/articles/bmj1.html",
+      "destination": "/library/policy/bmj-the-war-on-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/articles/bmj1.htm",
+      "destination": "/library/policy/bmj-the-war-on-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/bmj1.html",
+      "destination": "/library/policy/bmj-the-war-on-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/bmj1.htm",
+      "destination": "/library/policy/bmj-the-war-on-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/articles/hess1.htm",
+      "destination": "/library/policy/the-other-prohibition",
+      "permanent": true
+    },
+    {
+      "source": "/articles/hess1.html",
+      "destination": "/library/policy/the-other-prohibition",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/hess1.htm",
+      "destination": "/library/policy/the-other-prohibition",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/hess1.html",
+      "destination": "/library/policy/the-other-prohibition",
+      "permanent": true
+    },
+    {
+      "source": "/Marihuana/bibliography.html",
+      "destination": "/library/cannabis/marihuana-the-first-12000-years/bibliography",
+      "permanent": true
+    },
+    {
+      "source": "/Marihuana/bibliography.htm",
+      "destination": "/library/cannabis/marihuana-the-first-12000-years/bibliography",
+      "permanent": true
+    },
+    {
+      "source": "/Marihuana/bibliographyPrint.html",
+      "destination": "/library/cannabis/marihuana-the-first-12000-years/bibliography",
+      "permanent": true
+    },
+    {
+      "source": "/Marihuana/bibliographyPrint.htm",
+      "destination": "/library/cannabis/marihuana-the-first-12000-years/bibliography",
+      "permanent": true
+    },
+    {
+      "source": "/The-Peyote-Cult/bibliography.html",
+      "destination": "/library/cannabis/marihuana-the-first-12000-years/bibliography",
+      "permanent": true
+    },
+    {
+      "source": "/The-Peyote-Cult/bibliography.htm",
+      "destination": "/library/cannabis/marihuana-the-first-12000-years/bibliography",
+      "permanent": true
+    },
+    {
+      "source": "/frontpage.html",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/frontpage.htm",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/Cannabis-marijuana-hashisch/recent-developments-in-cannabis-chemistry.html",
+      "destination": "/library/cannabis/recent-developments-in-cannabis-chemistry",
+      "permanent": true
+    },
+    {
+      "source": "/Cannabis-marijuana-hashisch/recent-developments-in-cannabis-chemistry.htm",
+      "destination": "/library/cannabis/recent-developments-in-cannabis-chemistry",
+      "permanent": true
+    },
+    {
+      "source": "/Cannabis-marijuana-hashisch/recent-developments-in-cannabis-chemistry/Print.html",
+      "destination": "/library/cannabis/recent-developments-in-cannabis-chemistry",
+      "permanent": true
+    },
+    {
+      "source": "/Marijuana-Medical-Papers-1839-1972/recent-developments-in-cannabis-chemistry.html",
+      "destination": "/library/cannabis/recent-developments-in-cannabis-chemistry",
+      "permanent": true
+    },
+    {
+      "source": "/Marijuana-Medical-Papers-1839-1972/recent-developments-in-cannabis-chemistry.htm",
+      "destination": "/library/cannabis/recent-developments-in-cannabis-chemistry",
+      "permanent": true
+    },
+    {
+      "source": "/Hallucinogens-and-Culture/chapter-four-ibogaine-and-the-vine-of-souls-from-tropical-forest-ritual-to-psychotherapy.html",
+      "destination": "/library/psychedelics/hallucinogens-and-culture/ibogaine-and-the-vine-of-souls",
+      "permanent": true
+    },
+    {
+      "source": "/Hallucinogens-and-Culture/chapter-four-ibogaine-and-the-vine-of-souls-from-tropical-forest-ritual-to-psychotherapy.htm",
+      "destination": "/library/psychedelics/hallucinogens-and-culture/ibogaine-and-the-vine-of-souls",
+      "permanent": true
+    },
+    {
+      "source": "/Hallucinogens-and-Culture/chapter-four-ibogaine-and-the-vine-of-souls-from-tropical-forest-ritual-to-psychotherapy/Print.html",
+      "destination": "/library/psychedelics/hallucinogens-and-culture/ibogaine-and-the-vine-of-souls",
+      "permanent": true
+    },
+    {
+      "source": "/hallucinogens-and-culture/chapter-four-ibogaine-and-the-vine-of-souls-from-tropical-forest-ritual-to-psychotherapy.html",
+      "destination": "/library/psychedelics/hallucinogens-and-culture/ibogaine-and-the-vine-of-souls",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/en/articles/570-draft-cannabis-act",
+      "destination": "/library/cannabis/draft-cannabis-act",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/articles/570-draft-cannabis-act",
+      "destination": "/library/cannabis/draft-cannabis-act",
+      "permanent": true
+    },
+    {
+      "source": "/articles/570-draft-cannabis-act.html",
+      "destination": "/library/cannabis/draft-cannabis-act",
+      "permanent": true
+    },
+    {
+      "source": "/sub/chase1.htm",
+      "destination": "/library/heroin/chasing-the-dragon-0-to-600-centigrade",
+      "permanent": true
+    },
+    {
+      "source": "/sub/chase1.html",
+      "destination": "/library/heroin/chasing-the-dragon-0-to-600-centigrade",
+      "permanent": true
+    },
+    {
+      "source": "/The-Psychedelics/the-church-of-the-awakening.html",
+      "destination": "/library/psychedelics/the-psychedelics/the-church-of-the-awakening",
+      "permanent": true
+    },
+    {
+      "source": "/The-Psychedelics/the-church-of-the-awakening.htm",
+      "destination": "/library/psychedelics/the-psychedelics/the-church-of-the-awakening",
+      "permanent": true
+    },
+    {
+      "source": "/The-Psychedelics/the-church-of-the-awakening/Print.html",
+      "destination": "/library/psychedelics/the-psychedelics/the-church-of-the-awakening",
+      "permanent": true
+    },
+    {
+      "source": "/the-psychedelics/the-church-of-the-awakening.html",
+      "destination": "/library/psychedelics/the-psychedelics/the-church-of-the-awakening",
+      "permanent": true
+    },
+    {
+      "source": "/the-psychedelics/the-church-of-the-awakening.htm",
+      "destination": "/library/psychedelics/the-psychedelics/the-church-of-the-awakening",
+      "permanent": true
+    },
+    {
+      "source": "/the-psychedelics/the-church-of-the-awakening/print.html",
+      "destination": "/library/psychedelics/the-psychedelics/the-church-of-the-awakening",
+      "permanent": true
     }
   ]
 }
