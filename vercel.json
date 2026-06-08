@@ -5647,6 +5647,341 @@
       "source": "/DPF-The-Pioneers-of-Reform-1996/nativism-in-the-passage-of-the-marijuana-tax-act-of-1937.htm",
       "destination": "/library/cannabis/nativism-marijuana-tax-act-1937",
       "permanent": true
+    },
+    {
+      "source": "/component/option,com_mailto/:rest*",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/recreationaldrugs/amanita.htm",
+      "destination": "/library/amanita-muscaria/recreational-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/recreationaldrugs/amanita.html",
+      "destination": "/library/amanita-muscaria/recreational-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/books/recreationaldrugs/amanita.htm",
+      "destination": "/library/amanita-muscaria/recreational-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/books/recreationaldrugs/amanita.html",
+      "destination": "/library/amanita-muscaria/recreational-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/Recreational-Drugs/amanita.html",
+      "destination": "/library/amanita-muscaria/recreational-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/recreational-drugs/amanita.html",
+      "destination": "/library/amanita-muscaria/recreational-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/RecreationalDrugs/amanita.htm",
+      "destination": "/library/amanita-muscaria/recreational-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/library/psylib/osmond2.htm",
+      "destination": "/library/psychedelics/exploration-of-experience",
+      "permanent": true
+    },
+    {
+      "source": "/library/psylib/osmond2.html",
+      "destination": "/library/psychedelics/exploration-of-experience",
+      "permanent": true
+    },
+    {
+      "source": "/druglibrary/schaffer/lsd/osmond2.htm",
+      "destination": "/library/psychedelics/exploration-of-experience",
+      "permanent": true
+    },
+    {
+      "source": "/druglibrary/schaffer/lsd/osmond2.html",
+      "destination": "/library/psychedelics/exploration-of-experience",
+      "permanent": true
+    },
+    {
+      "source": "/psychedelics/osmond2.htm",
+      "destination": "/library/psychedelics/exploration-of-experience",
+      "permanent": true
+    },
+    {
+      "source": "/psychedelics/osmond2.html",
+      "destination": "/library/psychedelics/exploration-of-experience",
+      "permanent": true
+    },
+    {
+      "source": "/psylib/osmond2.htm",
+      "destination": "/library/psychedelics/exploration-of-experience",
+      "permanent": true
+    },
+    {
+      "source": "/psylib/osmond2.html",
+      "destination": "/library/psychedelics/exploration-of-experience",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/McCoy/book/10.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/the-marseille-connection",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/McCoy/book/10.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/the-marseille-connection",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/mccoy/book/10.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/the-marseille-connection",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/mccoy/book/10.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/the-marseille-connection",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/McCoy/book/Print10.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/the-marseille-connection",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/mccoy/book/Print10.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/the-marseille-connection",
+      "permanent": true
+    },
+    {
+      "source": "/books/McCoy/book/10.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/the-marseille-connection",
+      "permanent": true
+    },
+    {
+      "source": "/books/McCoy/book/10.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/the-marseille-connection",
+      "permanent": true
+    },
+    {
+      "source": "/books/mccoy/book/10.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/the-marseille-connection",
+      "permanent": true
+    },
+    {
+      "source": "/books/mccoy/book/10.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/the-marseille-connection",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/aint/101.htm",
+      "destination": "/library/policy/aint-nobodys-business/an-overview",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/aint/101.html",
+      "destination": "/library/policy/aint-nobodys-business/an-overview",
+      "permanent": true
+    },
+    {
+      "source": "/books/aint/101.htm",
+      "destination": "/library/policy/aint-nobodys-business/an-overview",
+      "permanent": true
+    },
+    {
+      "source": "/books/aint/101.html",
+      "destination": "/library/policy/aint-nobodys-business/an-overview",
+      "permanent": true
+    },
+    {
+      "source": "/books/grund/chasdra3.htm",
+      "destination": "/library/harm-reduction/drug-use-as-social-ritual/chapter-3-diffusion-of-the-chasing-ritual",
+      "permanent": true
+    },
+    {
+      "source": "/books/grund/chasdra3.html",
+      "destination": "/library/harm-reduction/drug-use-as-social-ritual/chapter-3-diffusion-of-the-chasing-ritual",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/grund/chasdra3.htm",
+      "destination": "/library/harm-reduction/drug-use-as-social-ritual/chapter-3-diffusion-of-the-chasing-ritual",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/grund/chasdra3.html",
+      "destination": "/library/harm-reduction/drug-use-as-social-ritual/chapter-3-diffusion-of-the-chasing-ritual",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/methadone/section3.html",
+      "destination": "/library/methadone/methadone-briefing/section-3-methadone-preparations",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/methadone/section3.htm",
+      "destination": "/library/methadone/methadone-briefing/section-3-methadone-preparations",
+      "permanent": true
+    },
+    {
+      "source": "/books/methadone/section3.html",
+      "destination": "/library/methadone/methadone-briefing/section-3-methadone-preparations",
+      "permanent": true
+    },
+    {
+      "source": "/books/methadone/section3.htm",
+      "destination": "/library/methadone/methadone-briefing/section-3-methadone-preparations",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/methadone/section3Print.html",
+      "destination": "/library/methadone/methadone-briefing/section-3-methadone-preparations",
+      "permanent": true
+    },
+    {
+      "source": "/Table/Addiction/",
+      "destination": "/library/addiction",
+      "permanent": true
+    },
+    {
+      "source": "/Table/Addiction",
+      "destination": "/library/addiction",
+      "permanent": true
+    },
+    {
+      "source": "/table/addiction/",
+      "destination": "/library/addiction",
+      "permanent": true
+    },
+    {
+      "source": "/table/addiction",
+      "destination": "/library/addiction",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/de/addiction",
+      "destination": "/library/addiction",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/addiction",
+      "destination": "/library/addiction",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/en/addiction",
+      "destination": "/library/addiction",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/da/addiction",
+      "destination": "/library/addiction",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/es/addiction",
+      "destination": "/library/addiction",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/fr/addiction",
+      "destination": "/library/addiction",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/it/addiction",
+      "destination": "/library/addiction",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/nl/addiction",
+      "destination": "/library/addiction",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/pt/addiction",
+      "destination": "/library/addiction",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/ru/addiction",
+      "destination": "/library/addiction",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/PDGRace.htm",
+      "destination": "/library/policy/race-and-the-drug-problem",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/PDGRace.html",
+      "destination": "/library/policy/race-and-the-drug-problem",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/pdgrace.htm",
+      "destination": "/library/policy/race-and-the-drug-problem",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/pdgrace.html",
+      "destination": "/library/policy/race-and-the-drug-problem",
+      "permanent": true
+    },
+    {
+      "source": "/articles/PDGRace.htm",
+      "destination": "/library/policy/race-and-the-drug-problem",
+      "permanent": true
+    },
+    {
+      "source": "/articles/PDGRace.html",
+      "destination": "/library/policy/race-and-the-drug-problem",
+      "permanent": true
+    },
+    {
+      "source": "/articles/pdgrace.htm",
+      "destination": "/library/policy/race-and-the-drug-problem",
+      "permanent": true
+    },
+    {
+      "source": "/articles/pdgrace.html",
+      "destination": "/library/policy/race-and-the-drug-problem",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/nc/nc1h.htm",
+      "destination": "/library/cannabis/investigations-very-heavy-long-term-cannabis-users",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/nc/nc1h.html",
+      "destination": "/library/cannabis/investigations-very-heavy-long-term-cannabis-users",
+      "permanent": true
+    },
+    {
+      "source": "/reports/nc/nc1h.htm",
+      "destination": "/library/cannabis/investigations-very-heavy-long-term-cannabis-users",
+      "permanent": true
+    },
+    {
+      "source": "/reports/nc/nc1h.html",
+      "destination": "/library/cannabis/investigations-very-heavy-long-term-cannabis-users",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/nc/nc1hPrint.html",
+      "destination": "/library/cannabis/investigations-very-heavy-long-term-cannabis-users",
+      "permanent": true
+    },
+    {
+      "source": "/reports/nc/nc1hPrint.html",
+      "destination": "/library/cannabis/investigations-very-heavy-long-term-cannabis-users",
+      "permanent": true
     }
   ]
 }
