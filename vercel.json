@@ -6660,12 +6660,12 @@
     },
     {
       "source": "/ecdp/index-1.htm",
-      "destination": "/library/policy/european-cities-on-drug-policy",
+      "destination": "/library/policy",
       "permanent": true
     },
     {
       "source": "/ecdp/index-1.html",
-      "destination": "/library/policy/european-cities-on-drug-policy",
+      "destination": "/library/policy",
       "permanent": true
     },
     {
