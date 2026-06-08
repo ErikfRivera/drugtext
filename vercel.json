@@ -7257,6 +7257,236 @@
       "source": "/Table/Cocaine-the-Legend/",
       "destination": "/library/cocaine/coca",
       "permanent": true
+    },
+    {
+      "source": "/articles/WRaltnet.html",
+      "destination": "/library/cannabis/the-wootton-retort",
+      "permanent": true
+    },
+    {
+      "source": "/articles/WRaltnet.htm",
+      "destination": "/library/cannabis/the-wootton-retort",
+      "permanent": true
+    },
+    {
+      "source": "/articles/wraltnet.html",
+      "destination": "/library/cannabis/the-wootton-retort",
+      "permanent": true
+    },
+    {
+      "source": "/articles/wraltnet.htm",
+      "destination": "/library/cannabis/the-wootton-retort",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/WRaltnet.html",
+      "destination": "/library/cannabis/the-wootton-retort",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/WRaltnet.htm",
+      "destination": "/library/cannabis/the-wootton-retort",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/wraltnet.html",
+      "destination": "/library/cannabis/the-wootton-retort",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/wraltnet.htm",
+      "destination": "/library/cannabis/the-wootton-retort",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/grivas/",
+      "destination": "/library/cannabis/cannabis-marihuana-hashish",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/grivas",
+      "destination": "/library/cannabis/cannabis-marihuana-hashish",
+      "permanent": true
+    },
+    {
+      "source": "/books/grivas/",
+      "destination": "/library/cannabis/cannabis-marihuana-hashish",
+      "permanent": true
+    },
+    {
+      "source": "/books/grivas",
+      "destination": "/library/cannabis/cannabis-marihuana-hashish",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/grivas/default.htm",
+      "destination": "/library/cannabis/cannabis-marihuana-hashish",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/grivas/index.htm",
+      "destination": "/library/cannabis/cannabis-marihuana-hashish",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/grivas/index.html",
+      "destination": "/library/cannabis/cannabis-marihuana-hashish",
+      "permanent": true
+    },
+    {
+      "source": "/articles/howmar1.html",
+      "destination": "/library/cannabis/the-supply-of-legal-cannabis",
+      "permanent": true
+    },
+    {
+      "source": "/articles/howmar1.htm",
+      "destination": "/library/cannabis/the-supply-of-legal-cannabis",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/howmar1.html",
+      "destination": "/library/cannabis/the-supply-of-legal-cannabis",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/howmar1.htm",
+      "destination": "/library/cannabis/the-supply-of-legal-cannabis",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/grivas/default.html",
+      "destination": "/library/cannabis/cannabis-marihuana-hashish",
+      "permanent": true
+    },
+    {
+      "source": "/books/grivas/default.htm",
+      "destination": "/library/cannabis/cannabis-marihuana-hashish",
+      "permanent": true
+    },
+    {
+      "source": "/books/grivas/default.html",
+      "destination": "/library/cannabis/cannabis-marihuana-hashish",
+      "permanent": true
+    },
+    {
+      "source": "/books/grivas/index.htm",
+      "destination": "/library/cannabis/cannabis-marihuana-hashish",
+      "permanent": true
+    },
+    {
+      "source": "/books/grivas/index.html",
+      "destination": "/library/cannabis/cannabis-marihuana-hashish",
+      "permanent": true
+    },
+    {
+      "source": "/articles/cannabis2.html",
+      "destination": "/library/cannabis/psychiatric-aspects-of-marihuana-intoxication",
+      "permanent": true
+    },
+    {
+      "source": "/articles/cannabis2.htm",
+      "destination": "/library/cannabis/psychiatric-aspects-of-marihuana-intoxication",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/cannabis2.html",
+      "destination": "/library/cannabis/psychiatric-aspects-of-marihuana-intoxication",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/cannabis2.htm",
+      "destination": "/library/cannabis/psychiatric-aspects-of-marihuana-intoxication",
+      "permanent": true
+    },
+    {
+      "source": "/sub/cannabis1.html",
+      "destination": "/library/cannabis/overview",
+      "permanent": true
+    },
+    {
+      "source": "/sub/cannabis1.htm",
+      "destination": "/library/cannabis/overview",
+      "permanent": true
+    },
+    {
+      "source": "/Addiction/psychopathology-in-drug-dependent-individuals-a-clinical-review.html",
+      "destination": "/library/addiction/psychopathology-in-drug-dependent-individuals",
+      "permanent": true
+    },
+    {
+      "source": "/addiction/psychopathology-in-drug-dependent-individuals-a-clinical-review.html",
+      "destination": "/library/addiction/psychopathology-in-drug-dependent-individuals",
+      "permanent": true
+    },
+    {
+      "source": "/Addiction/psychopathology-in-drug-dependent-individuals-a-clinical-review.htm",
+      "destination": "/library/addiction/psychopathology-in-drug-dependent-individuals",
+      "permanent": true
+    },
+    {
+      "source": "/addiction/psychopathology-in-drug-dependent-individuals-a-clinical-review.htm",
+      "destination": "/library/addiction/psychopathology-in-drug-dependent-individuals",
+      "permanent": true
+    },
+    {
+      "source": "/Addiction/psychopathology-in-drug-dependent-individuals-a-clinical-review/Print.html",
+      "destination": "/library/addiction/psychopathology-in-drug-dependent-individuals",
+      "permanent": true
+    },
+    {
+      "source": "/addiction/psychopathology-in-drug-dependent-individuals-a-clinical-review/Print.html",
+      "destination": "/library/addiction/psychopathology-in-drug-dependent-individuals",
+      "permanent": true
+    },
+    {
+      "source": "/Control-Over-Intoxicant-Use/psychopathology-in-drug-dependent-individuals-a-clinical-review.html",
+      "destination": "/library/addiction/psychopathology-in-drug-dependent-individuals",
+      "permanent": true
+    },
+    {
+      "source": "/control-over-intoxicant-use/psychopathology-in-drug-dependent-individuals-a-clinical-review.html",
+      "destination": "/library/addiction/psychopathology-in-drug-dependent-individuals",
+      "permanent": true
+    },
+    {
+      "source": "/articles/balexander.htm",
+      "destination": "/library/policy/mark-twain-and-the-american-approach-to-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/articles/balexander.html",
+      "destination": "/library/policy/mark-twain-and-the-american-approach-to-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/balexander.htm",
+      "destination": "/library/policy/mark-twain-and-the-american-approach-to-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/balexander.html",
+      "destination": "/library/policy/mark-twain-and-the-american-approach-to-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/bellis.htm",
+      "destination": "/library/mdma/ibiza-uncovered",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/bellis.html",
+      "destination": "/library/mdma/ibiza-uncovered",
+      "permanent": true
+    },
+    {
+      "source": "/articles/bellis.htm",
+      "destination": "/library/mdma/ibiza-uncovered",
+      "permanent": true
+    },
+    {
+      "source": "/articles/bellis.html",
+      "destination": "/library/mdma/ibiza-uncovered",
+      "permanent": true
     }
   ]
 }
