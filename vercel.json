@@ -4034,11 +4034,6 @@
       "permanent": true
     },
     {
-      "source": "/index.php?option=com_content&view=article&id=47",
-      "destination": "/library/cocaine",
-      "permanent": true
-    },
-    {
       "source": "/Behavioral-Social-Effects-of-Marijuana/hunger-and-appetite-after-single-doses-of-marihuana-alcohol-and-dextroamphetamine.html",
       "destination": "/library/cannabis/hunger-and-appetite-after-marihuana-alcohol-dextroamphetamine",
       "permanent": true
