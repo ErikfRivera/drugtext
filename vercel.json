@@ -9452,6 +9452,246 @@
       "source": "/books/mccoy/book/40.htm",
       "destination": "/library/heroin/politics-of-heroin-southeast-asia/opium-airlift-command",
       "permanent": true
+    },
+    {
+      "source": "/The-Drugtakers/6-the-subterranean-world-of-play.html",
+      "destination": "/library/policy/the-drugtakers/the-subterranean-world-of-play",
+      "permanent": true
+    },
+    {
+      "source": "/The-Drugtakers/6-the-subterranean-world-of-play.htm",
+      "destination": "/library/policy/the-drugtakers/the-subterranean-world-of-play",
+      "permanent": true
+    },
+    {
+      "source": "/The-Drugtakers/6-the-subterranean-world-of-play/Print.html",
+      "destination": "/library/policy/the-drugtakers/the-subterranean-world-of-play",
+      "permanent": true
+    },
+    {
+      "source": "/the-drugtakers/6-the-subterranean-world-of-play.html",
+      "destination": "/library/policy/the-drugtakers/the-subterranean-world-of-play",
+      "permanent": true
+    },
+    {
+      "source": "/the-drugtakers/6-the-subterranean-world-of-play.htm",
+      "destination": "/library/policy/the-drugtakers/the-subterranean-world-of-play",
+      "permanent": true
+    },
+    {
+      "source": "/the-drugtakers/6-the-subterranean-world-of-play/print.html",
+      "destination": "/library/policy/the-drugtakers/the-subterranean-world-of-play",
+      "permanent": true
+    },
+    {
+      "source": "/ecstasy/russell.html",
+      "destination": "/library/mdma/ecstasy-deaths",
+      "permanent": true
+    },
+    {
+      "source": "/ecstasy/russell.htm",
+      "destination": "/library/mdma/ecstasy-deaths",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/945411.html",
+      "destination": "/library/cannabis/recent-changes-in-the-dutch-cannabis-trade",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/945411.htm",
+      "destination": "/library/cannabis/recent-changes-in-the-dutch-cannabis-trade",
+      "permanent": true
+    },
+    {
+      "source": "/articles/945411.html",
+      "destination": "/library/cannabis/recent-changes-in-the-dutch-cannabis-trade",
+      "permanent": true
+    },
+    {
+      "source": "/articles/945411.htm",
+      "destination": "/library/cannabis/recent-changes-in-the-dutch-cannabis-trade",
+      "permanent": true
+    },
+    {
+      "source": "/Cannabis-and-Culture/peyote-and-huichol-worldview-the-structure-of-a-mystic-vision/Print.html",
+      "destination": "/library/cannabis/cannabis-and-culture/peyote-and-huichol-worldview",
+      "permanent": true
+    },
+    {
+      "source": "/Cannabis-and-Culture/peyote-and-huichol-worldview-the-structure-of-a-mystic-vision.html",
+      "destination": "/library/cannabis/cannabis-and-culture/peyote-and-huichol-worldview",
+      "permanent": true
+    },
+    {
+      "source": "/Cannabis-and-Culture/peyote-and-huichol-worldview-the-structure-of-a-mystic-vision.htm",
+      "destination": "/library/cannabis/cannabis-and-culture/peyote-and-huichol-worldview",
+      "permanent": true
+    },
+    {
+      "source": "/cannabis-and-culture/peyote-and-huichol-worldview-the-structure-of-a-mystic-vision.html",
+      "destination": "/library/cannabis/cannabis-and-culture/peyote-and-huichol-worldview",
+      "permanent": true
+    },
+    {
+      "source": "/cannabis-and-culture/peyote-and-huichol-worldview-the-structure-of-a-mystic-vision.htm",
+      "destination": "/library/cannabis/cannabis-and-culture/peyote-and-huichol-worldview",
+      "permanent": true
+    },
+    {
+      "source": "/cannabis-and-culture/peyote-and-huichol-worldview-the-structure-of-a-mystic-vision/print.html",
+      "destination": "/library/cannabis/cannabis-and-culture/peyote-and-huichol-worldview",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/97842.htm",
+      "destination": "/library/heroin/adulteration-and-dilution-of-heroin",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/97842.html",
+      "destination": "/library/heroin/adulteration-and-dilution-of-heroin",
+      "permanent": true
+    },
+    {
+      "source": "/articles/97842.htm",
+      "destination": "/library/heroin/adulteration-and-dilution-of-heroin",
+      "permanent": true
+    },
+    {
+      "source": "/articles/97842.html",
+      "destination": "/library/heroin/adulteration-and-dilution-of-heroin",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/adlaw/chapter09.htm",
+      "destination": "/library/addiction/the-addict-and-the-law/obstacles-to-reform",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/adlaw/chapter09.html",
+      "destination": "/library/addiction/the-addict-and-the-law/obstacles-to-reform",
+      "permanent": true
+    },
+    {
+      "source": "/books/adlaw/chapter09.htm",
+      "destination": "/library/addiction/the-addict-and-the-law/obstacles-to-reform",
+      "permanent": true
+    },
+    {
+      "source": "/books/adlaw/chapter09.html",
+      "destination": "/library/addiction/the-addict-and-the-law/obstacles-to-reform",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/",
+      "destination": "/library",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles",
+      "destination": "/library",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/index.htm",
+      "destination": "/library",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/index.html",
+      "destination": "/library",
+      "permanent": true
+    },
+    {
+      "source": "/articles/",
+      "destination": "/library",
+      "permanent": true
+    },
+    {
+      "source": "/articles",
+      "destination": "/library",
+      "permanent": true
+    },
+    {
+      "source": "/articles/index.htm",
+      "destination": "/library",
+      "permanent": true
+    },
+    {
+      "source": "/articles/index.html",
+      "destination": "/library",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/recreationaldrugs/amyl.htm",
+      "destination": "/library/amyl-nitrite/recreational-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/recreationaldrugs/amyl.html",
+      "destination": "/library/amyl-nitrite/recreational-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/Recreational-Drugs/amyl.html",
+      "destination": "/library/amyl-nitrite/recreational-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/Recreational-Drugs/amyl.htm",
+      "destination": "/library/amyl-nitrite/recreational-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/books/recreationaldrugs/amyl.htm",
+      "destination": "/library/amyl-nitrite/recreational-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/books/recreationaldrugs/amyl.html",
+      "destination": "/library/amyl-nitrite/recreational-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/recreationaldrugs/thc.htm",
+      "destination": "/library/cannabis/thc",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/recreationaldrugs/thc.html",
+      "destination": "/library/cannabis/thc",
+      "permanent": true
+    },
+    {
+      "source": "/books/recreationaldrugs/thc.htm",
+      "destination": "/library/cannabis/thc",
+      "permanent": true
+    },
+    {
+      "source": "/books/recreationaldrugs/thc.html",
+      "destination": "/library/cannabis/thc",
+      "permanent": true
+    },
+    {
+      "source": "/Recreational-Drugs/thc.html",
+      "destination": "/library/cannabis/thc",
+      "permanent": true
+    },
+    {
+      "source": "/Recreational-Drugs/thc.htm",
+      "destination": "/library/cannabis/thc",
+      "permanent": true
+    },
+    {
+      "source": "/recreational-drugs/thc.html",
+      "destination": "/library/cannabis/thc",
+      "permanent": true
+    },
+    {
+      "source": "/recreational-drugs/thc.htm",
+      "destination": "/library/cannabis/thc",
+      "permanent": true
     }
   ]
 }
