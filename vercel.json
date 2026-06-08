@@ -8867,6 +8867,336 @@
       "source": "/library/reports/wvc/drugnota/4/s53.html",
       "destination": "/library/policy/politica-holandesa-de-la-droga-criminalidad-organizada",
       "permanent": true
+    },
+    {
+      "source": "/books/McCoy/book/27.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/french-indochina-opium-espionage-operation-x",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/McCoy/book/27.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/french-indochina-opium-espionage-operation-x",
+      "permanent": true
+    },
+    {
+      "source": "/books/McCoy/book/27.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/french-indochina-opium-espionage-operation-x",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/McCoy/book/27.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/french-indochina-opium-espionage-operation-x",
+      "permanent": true
+    },
+    {
+      "source": "/books/mccoy/book/27.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/french-indochina-opium-espionage-operation-x",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/mccoy/book/27.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/french-indochina-opium-espionage-operation-x",
+      "permanent": true
+    },
+    {
+      "source": "/books/mccoy/book/27.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/french-indochina-opium-espionage-operation-x",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/mccoy/book/27.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/french-indochina-opium-espionage-operation-x",
+      "permanent": true
+    },
+    {
+      "source": "/books/McCoy/book/Print27.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/french-indochina-opium-espionage-operation-x",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/McCoy/book/Print27.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/french-indochina-opium-espionage-operation-x",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/McCoy/book/notes4.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/cold-war-opium-boom-notes",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/mccoy/book/notes4.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/cold-war-opium-boom-notes",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/McCoy/book/notes4.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/cold-war-opium-boom-notes",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/mccoy/book/notes4.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/cold-war-opium-boom-notes",
+      "permanent": true
+    },
+    {
+      "source": "/books/McCoy/book/notes4.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/cold-war-opium-boom-notes",
+      "permanent": true
+    },
+    {
+      "source": "/books/mccoy/book/notes4.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/cold-war-opium-boom-notes",
+      "permanent": true
+    },
+    {
+      "source": "/books/McCoy/book/notes4.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/cold-war-opium-boom-notes",
+      "permanent": true
+    },
+    {
+      "source": "/books/mccoy/book/notes4.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/cold-war-opium-boom-notes",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/rowe1.html",
+      "destination": "/library/policy/drug-law-reform-in-australia",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/rowe1.htm",
+      "destination": "/library/policy/drug-law-reform-in-australia",
+      "permanent": true
+    },
+    {
+      "source": "/articles/rowe1.html",
+      "destination": "/library/policy/drug-law-reform-in-australia",
+      "permanent": true
+    },
+    {
+      "source": "/articles/rowe1.htm",
+      "destination": "/library/policy/drug-law-reform-in-australia",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/rowe1Print.html",
+      "destination": "/library/policy/drug-law-reform-in-australia",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/marijuan.html",
+      "destination": "/library/cannabis/exposing-marijuana-myths",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/marijuan.htm",
+      "destination": "/library/cannabis/exposing-marijuana-myths",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/marijuanPrint.html",
+      "destination": "/library/cannabis/exposing-marijuana-myths",
+      "permanent": true
+    },
+    {
+      "source": "/articles/marijuan.html",
+      "destination": "/library/cannabis/exposing-marijuana-myths",
+      "permanent": true
+    },
+    {
+      "source": "/articles/marijuan.htm",
+      "destination": "/library/cannabis/exposing-marijuana-myths",
+      "permanent": true
+    },
+    {
+      "source": "/articles/marijuanPrint.html",
+      "destination": "/library/cannabis/exposing-marijuana-myths",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/becker1.htm",
+      "destination": "/library/addiction/rational-addiction-and-the-effect-of-price",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/becker1.html",
+      "destination": "/library/addiction/rational-addiction-and-the-effect-of-price",
+      "permanent": true
+    },
+    {
+      "source": "/articles/becker1.htm",
+      "destination": "/library/addiction/rational-addiction-and-the-effect-of-price",
+      "permanent": true
+    },
+    {
+      "source": "/articles/becker1.html",
+      "destination": "/library/addiction/rational-addiction-and-the-effect-of-price",
+      "permanent": true
+    },
+    {
+      "source": "/ijdp/94526.html",
+      "destination": "/library/policy/prevention-programmes-for-adolescents-usa",
+      "permanent": true
+    },
+    {
+      "source": "/IJDP/94526.html",
+      "destination": "/library/policy/prevention-programmes-for-adolescents-usa",
+      "permanent": true
+    },
+    {
+      "source": "/ijdp/94526.htm",
+      "destination": "/library/policy/prevention-programmes-for-adolescents-usa",
+      "permanent": true
+    },
+    {
+      "source": "/IJDP/94526.htm",
+      "destination": "/library/policy/prevention-programmes-for-adolescents-usa",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/94526.html",
+      "destination": "/library/policy/prevention-programmes-for-adolescents-usa",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/94526.htm",
+      "destination": "/library/policy/prevention-programmes-for-adolescents-usa",
+      "permanent": true
+    },
+    {
+      "source": "/Cannabis-and-Culture/cannabis-in-nepal-an-overview.html",
+      "destination": "/library/cannabis/cannabis-and-culture/cannabis-in-nepal-an-overview",
+      "permanent": true
+    },
+    {
+      "source": "/Cannabis-and-Culture/cannabis-in-nepal-an-overview.htm",
+      "destination": "/library/cannabis/cannabis-and-culture/cannabis-in-nepal-an-overview",
+      "permanent": true
+    },
+    {
+      "source": "/Cannabis-and-Culture/cannabis-in-nepal-an-overview/Print.html",
+      "destination": "/library/cannabis/cannabis-and-culture/cannabis-in-nepal-an-overview",
+      "permanent": true
+    },
+    {
+      "source": "/cannabis-and-culture/cannabis-in-nepal-an-overview.html",
+      "destination": "/library/cannabis/cannabis-and-culture/cannabis-in-nepal-an-overview",
+      "permanent": true
+    },
+    {
+      "source": "/cannabis-and-culture/cannabis-in-nepal-an-overview.htm",
+      "destination": "/library/cannabis/cannabis-and-culture/cannabis-in-nepal-an-overview",
+      "permanent": true
+    },
+    {
+      "source": "/cannabis-and-culture/cannabis-in-nepal-an-overview/print.html",
+      "destination": "/library/cannabis/cannabis-and-culture/cannabis-in-nepal-an-overview",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/McCoy/book/52.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/corsican-aviation-pioneers-air-opium",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/McCoy/book/52.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/corsican-aviation-pioneers-air-opium",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/mccoy/book/52.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/corsican-aviation-pioneers-air-opium",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/mccoy/book/52.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/corsican-aviation-pioneers-air-opium",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/McCoy/book/Print52.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/corsican-aviation-pioneers-air-opium",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/mccoy/book/Print52.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/corsican-aviation-pioneers-air-opium",
+      "permanent": true
+    },
+    {
+      "source": "/books/McCoy/book/52.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/corsican-aviation-pioneers-air-opium",
+      "permanent": true
+    },
+    {
+      "source": "/books/McCoy/book/52.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/corsican-aviation-pioneers-air-opium",
+      "permanent": true
+    },
+    {
+      "source": "/books/mccoy/book/52.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/corsican-aviation-pioneers-air-opium",
+      "permanent": true
+    },
+    {
+      "source": "/books/mccoy/book/52.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/corsican-aviation-pioneers-air-opium",
+      "permanent": true
+    },
+    {
+      "source": "/books/McCoy/book/Print52.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/corsican-aviation-pioneers-air-opium",
+      "permanent": true
+    },
+    {
+      "source": "/books/mccoy/book/Print52.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/corsican-aviation-pioneers-air-opium",
+      "permanent": true
+    },
+    {
+      "source": "/Search.html",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/search.html",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/Search.htm",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/search.htm",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/Behind-the-Wall-of-Respect/preface.html",
+      "destination": "/library/addiction/behind-the-wall-of-respect/preface",
+      "permanent": true
+    },
+    {
+      "source": "/Behind-the-Wall-of-Respect/preface.htm",
+      "destination": "/library/addiction/behind-the-wall-of-respect/preface",
+      "permanent": true
+    },
+    {
+      "source": "/Behind-the-Wall-of-Respect/preface/Print.html",
+      "destination": "/library/addiction/behind-the-wall-of-respect/preface",
+      "permanent": true
+    },
+    {
+      "source": "/behind-the-wall-of-respect/preface.html",
+      "destination": "/library/addiction/behind-the-wall-of-respect/preface",
+      "permanent": true
+    },
+    {
+      "source": "/behind-the-wall-of-respect/preface.htm",
+      "destination": "/library/addiction/behind-the-wall-of-respect/preface",
+      "permanent": true
     }
   ]
 }
