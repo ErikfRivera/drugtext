@@ -2129,11 +2129,6 @@
       "permanent": true
     },
     {
-      "source": "/library/legal",
-      "destination": "/library/legal",
-      "permanent": true
-    },
-    {
       "source": "/legal",
       "destination": "/library/legal",
       "permanent": true
