@@ -12,6 +12,236 @@
       "source": "/library/research/mdma/archive/15/default.htm",
       "destination": "/library/mdma/substance-abuse-textbook",
       "permanent": true
+    },
+    {
+      "source": "/The-Legislation-of-Morality/notes.html",
+      "destination": "/library/policy/the-legislation-of-morality/notes",
+      "permanent": true
+    },
+    {
+      "source": "/The-Legislation-of-Morality/notes.htm",
+      "destination": "/library/policy/the-legislation-of-morality/notes",
+      "permanent": true
+    },
+    {
+      "source": "/The-Legislation-of-Morality/notes/Print.html",
+      "destination": "/library/policy/the-legislation-of-morality/notes",
+      "permanent": true
+    },
+    {
+      "source": "/the-legislation-of-morality/notes.html",
+      "destination": "/library/policy/the-legislation-of-morality/notes",
+      "permanent": true
+    },
+    {
+      "source": "/the-legislation-of-morality/notes.htm",
+      "destination": "/library/policy/the-legislation-of-morality/notes",
+      "permanent": true
+    },
+    {
+      "source": "/count/nl1.html",
+      "destination": "/library/policy/countries/netherlands",
+      "permanent": true
+    },
+    {
+      "source": "/count/nl1.htm",
+      "destination": "/library/policy/countries/netherlands",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/zinberg1/default.htm",
+      "destination": "/library/addiction/drug-set-and-setting",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/zinberg1/default.html",
+      "destination": "/library/addiction/drug-set-and-setting",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/zinberg1/Default.htm",
+      "destination": "/library/addiction/drug-set-and-setting",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/zinberg1/Default.html",
+      "destination": "/library/addiction/drug-set-and-setting",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/zinberg1/",
+      "destination": "/library/addiction/drug-set-and-setting",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/zinberg1",
+      "destination": "/library/addiction/drug-set-and-setting",
+      "permanent": true
+    },
+    {
+      "source": "/books/zinberg1/default.htm",
+      "destination": "/library/addiction/drug-set-and-setting",
+      "permanent": true
+    },
+    {
+      "source": "/books/zinberg1/default.html",
+      "destination": "/library/addiction/drug-set-and-setting",
+      "permanent": true
+    },
+    {
+      "source": "/books/zinberg1/",
+      "destination": "/library/addiction/drug-set-and-setting",
+      "permanent": true
+    },
+    {
+      "source": "/books/zinberg1",
+      "destination": "/library/addiction/drug-set-and-setting",
+      "permanent": true
+    },
+    {
+      "source": "/default.htm",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/default.html",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/Default.htm",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/Hallucinogens-and-Culture/chapter-seven-the-sacred-mushrooms-rediscovery-in-mexico.html",
+      "destination": "/library/psychedelics/hallucinogens-and-culture/the-sacred-mushrooms-rediscovery-in-mexico",
+      "permanent": true
+    },
+    {
+      "source": "/Hallucinogens-and-Culture/chapter-seven-the-sacred-mushrooms-rediscovery-in-mexico.htm",
+      "destination": "/library/psychedelics/hallucinogens-and-culture/the-sacred-mushrooms-rediscovery-in-mexico",
+      "permanent": true
+    },
+    {
+      "source": "/Hallucinogens-and-Culture/chapter-seven-the-sacred-mushrooms-rediscovery-in-mexico/Print.html",
+      "destination": "/library/psychedelics/hallucinogens-and-culture/the-sacred-mushrooms-rediscovery-in-mexico",
+      "permanent": true
+    },
+    {
+      "source": "/hallucinogens-and-culture/chapter-seven-the-sacred-mushrooms-rediscovery-in-mexico.html",
+      "destination": "/library/psychedelics/hallucinogens-and-culture/the-sacred-mushrooms-rediscovery-in-mexico",
+      "permanent": true
+    },
+    {
+      "source": "/hallucinogens-and-culture/chapter-seven-the-sacred-mushrooms-rediscovery-in-mexico.htm",
+      "destination": "/library/psychedelics/hallucinogens-and-culture/the-sacred-mushrooms-rediscovery-in-mexico",
+      "permanent": true
+    },
+    {
+      "source": "/sub/sub.html",
+      "destination": "/library",
+      "permanent": true
+    },
+    {
+      "source": "/sub/sub.htm",
+      "destination": "/library",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/recreationaldrugs/psilocybin.htm",
+      "destination": "/library/psychedelics/psilocybin",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/recreationaldrugs/psilocybin.html",
+      "destination": "/library/psychedelics/psilocybin",
+      "permanent": true
+    },
+    {
+      "source": "/Recreational-Drugs/psilocybin.html",
+      "destination": "/library/psychedelics/psilocybin",
+      "permanent": true
+    },
+    {
+      "source": "/Recreational-Drugs/psilocybin.htm",
+      "destination": "/library/psychedelics/psilocybin",
+      "permanent": true
+    },
+    {
+      "source": "/books/recreationaldrugs/psilocybin.htm",
+      "destination": "/library/psychedelics/psilocybin",
+      "permanent": true
+    },
+    {
+      "source": "/books/recreationaldrugs/psilocybin.html",
+      "destination": "/library/psychedelics/psilocybin",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/kriener.htm",
+      "destination": "/library/harm-reduction/check-your-pills",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/kriener.html",
+      "destination": "/library/harm-reduction/check-your-pills",
+      "permanent": true
+    },
+    {
+      "source": "/articles/kriener.htm",
+      "destination": "/library/harm-reduction/check-your-pills",
+      "permanent": true
+    },
+    {
+      "source": "/articles/kriener.html",
+      "destination": "/library/harm-reduction/check-your-pills",
+      "permanent": true
+    },
+    {
+      "source": "/press/cannabis-european-union-will-not-block-eu-member-states/Print.html",
+      "destination": "/library/cannabis/eu-will-not-block-member-states",
+      "permanent": true
+    },
+    {
+      "source": "/press/cannabis-european-union-will-not-block-eu-member-states.html",
+      "destination": "/library/cannabis/eu-will-not-block-member-states",
+      "permanent": true
+    },
+    {
+      "source": "/press/cannabis-european-union-will-not-block-eu-member-states.htm",
+      "destination": "/library/cannabis/eu-will-not-block-member-states",
+      "permanent": true
+    },
+    {
+      "source": "/articles/3715-cannabis-european-union-will-not-block-eu-member-states.html",
+      "destination": "/library/cannabis/eu-will-not-block-member-states",
+      "permanent": true
+    },
+    {
+      "source": "/articles/3715-cannabis-european-union-will-not-block-eu-member-states.htm",
+      "destination": "/library/cannabis/eu-will-not-block-member-states",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/94-const.html",
+      "destination": "/library/policy/symbolic-criminal-law-without-limits",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/94-const.htm",
+      "destination": "/library/policy/symbolic-criminal-law-without-limits",
+      "permanent": true
+    },
+    {
+      "source": "/articles/94-const.html",
+      "destination": "/library/policy/symbolic-criminal-law-without-limits",
+      "permanent": true
+    },
+    {
+      "source": "/articles/94-const.htm",
+      "destination": "/library/policy/symbolic-criminal-law-without-limits",
+      "permanent": true
     }
   ]
 }
