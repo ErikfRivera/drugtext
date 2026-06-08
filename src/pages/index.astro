@@ -25,6 +25,7 @@ const featured = [
   { category: 'CANNABINOID', risk: 'low' as const, title: 'Cannabis', blurb: 'A psychoactive drug from the Cannabis plant used primarily for medical or recreational purposes. The main psychoactive component is THC.' },
   { category: 'STIMULANT', risk: 'high' as const, title: 'Cocaine', blurb: 'A strong stimulant frequently used as a recreational drug. It is commonly snorted, inhaled as smoke, or dissolved and injected into a vein.' },
   { category: 'DISSOCIATIVE', risk: 'moderate' as const, title: 'Ketamine', blurb: 'A medication primarily used for starting and maintaining anesthesia. It induces a trance-like state while providing pain relief, sedation, and memory loss.', faded: true },
+  { category: 'NOOTROPIC PEPTIDE', risk: 'low' as const, title: 'Semax', blurb: 'A synthetic heptapeptide analog of ACTH(4-10) developed in Russia, studied for nootropic and neuroprotective effects believed to be mediated through BDNF upregulation.', href: '/peptides/semax' },
 ];
 
 const classes = [
@@ -105,7 +106,7 @@ const jsonLd = [
       </SectionHeader>
       <div class="grid grid-3">
         {featured.map((f) => (
-          <EntryCard category={f.category} risk={f.risk} title={f.title} blurb={f.blurb} faded={f.faded} />
+          <EntryCard category={f.category} risk={f.risk} title={f.title} blurb={f.blurb} href={f.href} faded={f.faded} />
         ))}
       </div>
     </div>
