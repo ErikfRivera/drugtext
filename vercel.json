@@ -6257,6 +6257,231 @@
       "source": "/books/recreationaldrugs/amphetamines.html",
       "destination": "/library/amphetamines/recreational-drugs",
       "permanent": true
+    },
+    {
+      "source": "/count/portugal/portugal2.html",
+      "destination": "/library/policy/countries/portugal-drug-history",
+      "permanent": true
+    },
+    {
+      "source": "/count/portugal/portugal2.htm",
+      "destination": "/library/policy/countries/portugal-drug-history",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/peddr0031.htm",
+      "destination": "/library/harm-reduction/prostitution-in-europe",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/peddr0031.html",
+      "destination": "/library/harm-reduction/prostitution-in-europe",
+      "permanent": true
+    },
+    {
+      "source": "/articles/peddr0031.htm",
+      "destination": "/library/harm-reduction/prostitution-in-europe",
+      "permanent": true
+    },
+    {
+      "source": "/articles/peddr0031.html",
+      "destination": "/library/harm-reduction/prostitution-in-europe",
+      "permanent": true
+    },
+    {
+      "source": "/Cannabis-and-Culture/ethnobotanical-aspects-of-cannabis-in-southeast-asia.html",
+      "destination": "/library/cannabis/cannabis-and-culture/ethnobotanical-aspects-southeast-asia",
+      "permanent": true
+    },
+    {
+      "source": "/Cannabis-and-Culture/ethnobotanical-aspects-of-cannabis-in-southeast-asia.htm",
+      "destination": "/library/cannabis/cannabis-and-culture/ethnobotanical-aspects-southeast-asia",
+      "permanent": true
+    },
+    {
+      "source": "/Cannabis-and-Culture/ethnobotanical-aspects-of-cannabis-in-southeast-asia-Print.html",
+      "destination": "/library/cannabis/cannabis-and-culture/ethnobotanical-aspects-southeast-asia",
+      "permanent": true
+    },
+    {
+      "source": "/cannabis-and-culture/ethnobotanical-aspects-of-cannabis-in-southeast-asia.html",
+      "destination": "/library/cannabis/cannabis-and-culture/ethnobotanical-aspects-southeast-asia",
+      "permanent": true
+    },
+    {
+      "source": "/cannabis-and-culture/ethnobotanical-aspects-of-cannabis-in-southeast-asia.htm",
+      "destination": "/library/cannabis/cannabis-and-culture/ethnobotanical-aspects-southeast-asia",
+      "permanent": true
+    },
+    {
+      "source": "/cannabis-and-culture/ethnobotanical-aspects-of-cannabis-in-southeast-asia-print.html",
+      "destination": "/library/cannabis/cannabis-and-culture/ethnobotanical-aspects-southeast-asia",
+      "permanent": true
+    },
+    {
+      "source": "/articles/97824.html",
+      "destination": "/library/policy/fear-of-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/articles/97824.htm",
+      "destination": "/library/policy/fear-of-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/97824.html",
+      "destination": "/library/policy/fear-of-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/97824.htm",
+      "destination": "/library/policy/fear-of-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/LaGuardia-Committee-Report/the-sociological-study.html",
+      "destination": "/reports/laguardia-committee-report/the-sociological-study",
+      "permanent": true
+    },
+    {
+      "source": "/LaGuardia-Committee-Report/the-sociological-study.htm",
+      "destination": "/reports/laguardia-committee-report/the-sociological-study",
+      "permanent": true
+    },
+    {
+      "source": "/LaGuardia-Committee-Report/the-sociological-studyPrint.html",
+      "destination": "/reports/laguardia-committee-report/the-sociological-study",
+      "permanent": true
+    },
+    {
+      "source": "/laguardia-committee-report/the-sociological-study.html",
+      "destination": "/reports/laguardia-committee-report/the-sociological-study",
+      "permanent": true
+    },
+    {
+      "source": "/laguardia-committee-report/the-sociological-study.htm",
+      "destination": "/reports/laguardia-committee-report/the-sociological-study",
+      "permanent": true
+    },
+    {
+      "source": "/drcnet/wol/archives.html",
+      "destination": "/library/policy",
+      "permanent": true
+    },
+    {
+      "source": "/drcnet/wol/archives.htm",
+      "destination": "/library/policy",
+      "permanent": true
+    },
+    {
+      "source": "/Table/LaGuardia-Committee-Report/",
+      "destination": "/reports/laguardia-committee-report",
+      "permanent": true
+    },
+    {
+      "source": "/Table/LaGuardia-Committee-Report",
+      "destination": "/reports/laguardia-committee-report",
+      "permanent": true
+    },
+    {
+      "source": "/table/laguardia-committee-report/",
+      "destination": "/reports/laguardia-committee-report",
+      "permanent": true
+    },
+    {
+      "source": "/table/laguardia-committee-report",
+      "destination": "/reports/laguardia-committee-report",
+      "permanent": true
+    },
+    {
+      "source": "/Table/LaGuardia-Committee-Report/index.html",
+      "destination": "/reports/laguardia-committee-report",
+      "permanent": true
+    },
+    {
+      "source": "/Table/LaGuardia-Committee-Report/index.htm",
+      "destination": "/reports/laguardia-committee-report",
+      "permanent": true
+    },
+    {
+      "source": "/Cannabis-and-Culture/the-social-nexus-of-ganja-in-jamaica.html",
+      "destination": "/library/cannabis/cannabis-and-culture/social-nexus-of-ganja-in-jamaica",
+      "permanent": true
+    },
+    {
+      "source": "/Cannabis-and-Culture/the-social-nexus-of-ganja-in-jamaica.htm",
+      "destination": "/library/cannabis/cannabis-and-culture/social-nexus-of-ganja-in-jamaica",
+      "permanent": true
+    },
+    {
+      "source": "/Cannabis-and-Culture/the-social-nexus-of-ganja-in-jamaica/Print.html",
+      "destination": "/library/cannabis/cannabis-and-culture/social-nexus-of-ganja-in-jamaica",
+      "permanent": true
+    },
+    {
+      "source": "/cannabis-and-culture/the-social-nexus-of-ganja-in-jamaica.html",
+      "destination": "/library/cannabis/cannabis-and-culture/social-nexus-of-ganja-in-jamaica",
+      "permanent": true
+    },
+    {
+      "source": "/cannabis-and-culture/the-social-nexus-of-ganja-in-jamaica.htm",
+      "destination": "/library/cannabis/cannabis-and-culture/social-nexus-of-ganja-in-jamaica",
+      "permanent": true
+    },
+    {
+      "source": "/cannabis-and-culture/the-social-nexus-of-ganja-in-jamaica/Print.html",
+      "destination": "/library/cannabis/cannabis-and-culture/social-nexus-of-ganja-in-jamaica",
+      "permanent": true
+    },
+    {
+      "source": "/drcnet/wol/102.html",
+      "destination": "/library/policy/drcnet-week-online/issue-102",
+      "permanent": true
+    },
+    {
+      "source": "/drcnet/wol/102.htm",
+      "destination": "/library/policy/drcnet-week-online/issue-102",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/aint/102.htm",
+      "destination": "/library/policy/aint-nobodys-business",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/aint/102.html",
+      "destination": "/library/policy/aint-nobodys-business",
+      "permanent": true
+    },
+    {
+      "source": "/books/aint/102.htm",
+      "destination": "/library/policy/aint-nobodys-business",
+      "permanent": true
+    },
+    {
+      "source": "/books/aint/102.html",
+      "destination": "/library/policy/aint-nobodys-business",
+      "permanent": true
+    },
+    {
+      "source": "/books/raterisks/3.3.htm",
+      "destination": "/library/harm-reduction/rate-your-risks/uppers-downers-and-hallucinogens",
+      "permanent": true
+    },
+    {
+      "source": "/books/raterisks/3.3.html",
+      "destination": "/library/harm-reduction/rate-your-risks/uppers-downers-and-hallucinogens",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/raterisks/3.3.htm",
+      "destination": "/library/harm-reduction/rate-your-risks/uppers-downers-and-hallucinogens",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/raterisks/3.3.html",
+      "destination": "/library/harm-reduction/rate-your-risks/uppers-downers-and-hallucinogens",
+      "permanent": true
     }
   ]
 }
