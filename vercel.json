@@ -12,6 +12,331 @@
       "source": "/library/research/mdma/archive/15/default.htm",
       "destination": "/library/mdma/substance-abuse-textbook",
       "permanent": true
+    },
+    {
+      "source": "/International-national-drug-policy/the-swedish-narcotics-control-private-model-a-critical-assessment.html",
+      "destination": "/library/policy/swedish-narcotics-control-private-model",
+      "permanent": true
+    },
+    {
+      "source": "/International-national-drug-policy/the-swedish-narcotics-control-private-model-a-critical-assessment.htm",
+      "destination": "/library/policy/swedish-narcotics-control-private-model",
+      "permanent": true
+    },
+    {
+      "source": "/International-national-drug-policy/the-swedish-narcotics-control-private-model-a-critical-assessmentPrint.html",
+      "destination": "/library/policy/swedish-narcotics-control-private-model",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/component/content/article/3-articles/272-the-swedish-narcotics-control-private-model-a-critical-assessment",
+      "destination": "/library/policy/swedish-narcotics-control-private-model",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/recreationaldrugs/nitrous.htm",
+      "destination": "/library/nitrous-oxide/recreational-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/recreationaldrugs/nitrous.html",
+      "destination": "/library/nitrous-oxide/recreational-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/books/recreationaldrugs/nitrous.htm",
+      "destination": "/library/nitrous-oxide/recreational-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/books/recreationaldrugs/nitrous.html",
+      "destination": "/library/nitrous-oxide/recreational-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/Recreational-Drugs/nitrous.html",
+      "destination": "/library/nitrous-oxide/recreational-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/recreational-drugs/nitrous.html",
+      "destination": "/library/nitrous-oxide/recreational-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/Recreational-Drugs/nitrous.htm",
+      "destination": "/library/nitrous-oxide/recreational-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/recreational-drugs/nitrous.htm",
+      "destination": "/library/nitrous-oxide/recreational-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/Influence-of-Marijuana-on-Driving/cover.html",
+      "destination": "/reports/influence-of-marijuana-on-driving",
+      "permanent": true
+    },
+    {
+      "source": "/Influence-of-Marijuana-on-Driving/cover.htm",
+      "destination": "/reports/influence-of-marijuana-on-driving",
+      "permanent": true
+    },
+    {
+      "source": "/Influence-of-Marijuana-on-Driving/cover/Print.html",
+      "destination": "/reports/influence-of-marijuana-on-driving",
+      "permanent": true
+    },
+    {
+      "source": "/Influence-of-Marijuana-on-Driving/cover/Print.htm",
+      "destination": "/reports/influence-of-marijuana-on-driving",
+      "permanent": true
+    },
+    {
+      "source": "/influence-of-marijuana-on-driving/cover.html",
+      "destination": "/reports/influence-of-marijuana-on-driving",
+      "permanent": true
+    },
+    {
+      "source": "/influence-of-marijuana-on-driving/cover.htm",
+      "destination": "/reports/influence-of-marijuana-on-driving",
+      "permanent": true
+    },
+    {
+      "source": "/Table/Influence-of-Marijuana-on-Driving/",
+      "destination": "/reports/influence-of-marijuana-on-driving",
+      "permanent": true
+    },
+    {
+      "source": "/Table/influence-of-marijuana-on-driving/",
+      "destination": "/reports/influence-of-marijuana-on-driving",
+      "permanent": true
+    },
+    {
+      "source": "/American-Diplomacy-and-the-narcotics-traffic/chapter-5-opium-as-a-domestic-and-international-issue-1914-1924/Print.html",
+      "destination": "/library/policy/american-diplomacy-and-the-narcotics-traffic/opium-as-a-domestic-and-international-issue-1914-1924",
+      "permanent": true
+    },
+    {
+      "source": "/American-Diplomacy-and-the-narcotics-traffic/chapter-5-opium-as-a-domestic-and-international-issue-1914-1924.html",
+      "destination": "/library/policy/american-diplomacy-and-the-narcotics-traffic/opium-as-a-domestic-and-international-issue-1914-1924",
+      "permanent": true
+    },
+    {
+      "source": "/American-Diplomacy-and-the-narcotics-traffic/chapter-5-opium-as-a-domestic-and-international-issue-1914-1924.htm",
+      "destination": "/library/policy/american-diplomacy-and-the-narcotics-traffic/opium-as-a-domestic-and-international-issue-1914-1924",
+      "permanent": true
+    },
+    {
+      "source": "/american-diplomacy-and-the-narcotics-traffic/chapter-5-opium-as-a-domestic-and-international-issue-1914-1924.html",
+      "destination": "/library/policy/american-diplomacy-and-the-narcotics-traffic/opium-as-a-domestic-and-international-issue-1914-1924",
+      "permanent": true
+    },
+    {
+      "source": "/american-diplomacy-and-the-narcotics-traffic/chapter-5-opium-as-a-domestic-and-international-issue-1914-1924.htm",
+      "destination": "/library/policy/american-diplomacy-and-the-narcotics-traffic/opium-as-a-domestic-and-international-issue-1914-1924",
+      "permanent": true
+    },
+    {
+      "source": "/american-diplomacy-and-the-narcotics-traffic/chapter-5-opium-as-a-domestic-and-international-issue-1914-1924/print.html",
+      "destination": "/library/policy/american-diplomacy-and-the-narcotics-traffic/opium-as-a-domestic-and-international-issue-1914-1924",
+      "permanent": true
+    },
+    {
+      "source": "/psylib/bookmenu.htm",
+      "destination": "/library/psychedelics",
+      "permanent": true
+    },
+    {
+      "source": "/psylib/bookmenu.html",
+      "destination": "/library/psychedelics",
+      "permanent": true
+    },
+    {
+      "source": "/library/psylib/bookmenu.htm",
+      "destination": "/library/psychedelics",
+      "permanent": true
+    },
+    {
+      "source": "/library/psylib/bookmenu.html",
+      "destination": "/library/psychedelics",
+      "permanent": true
+    },
+    {
+      "source": "/psychedelics/bookmenu.htm",
+      "destination": "/library/psychedelics",
+      "permanent": true
+    },
+    {
+      "source": "/psychedelics/bookmenu.html",
+      "destination": "/library/psychedelics",
+      "permanent": true
+    },
+    {
+      "source": "/library/legal/aids/usa/federal/21_606.html",
+      "destination": "/library/legal/cfr-21-606-blood-good-manufacturing-practice",
+      "permanent": true
+    },
+    {
+      "source": "/library/legal/aids/usa/federal/21_606.htm",
+      "destination": "/library/legal/cfr-21-606-blood-good-manufacturing-practice",
+      "permanent": true
+    },
+    {
+      "source": "/legal/aids/usa/federal/21_606.html",
+      "destination": "/library/legal/cfr-21-606-blood-good-manufacturing-practice",
+      "permanent": true
+    },
+    {
+      "source": "/legal/aids/usa/federal/21_606.htm",
+      "destination": "/library/legal/cfr-21-606-blood-good-manufacturing-practice",
+      "permanent": true
+    },
+    {
+      "source": "/library/legal/aids/usa/federal/21_606Print.html",
+      "destination": "/library/legal/cfr-21-606-blood-good-manufacturing-practice",
+      "permanent": true
+    },
+    {
+      "source": "/books/McCoy/book/57.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/cia-in-northwest-laos",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/McCoy/book/57.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/cia-in-northwest-laos",
+      "permanent": true
+    },
+    {
+      "source": "/books/mccoy/book/57.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/cia-in-northwest-laos",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/mccoy/book/57.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/cia-in-northwest-laos",
+      "permanent": true
+    },
+    {
+      "source": "/books/McCoy/book/57.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/cia-in-northwest-laos",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/McCoy/book/57.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/cia-in-northwest-laos",
+      "permanent": true
+    },
+    {
+      "source": "/books/mccoy/book/57.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/cia-in-northwest-laos",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/mccoy/book/57.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/cia-in-northwest-laos",
+      "permanent": true
+    },
+    {
+      "source": "/books/McCoy/book/Print57.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/cia-in-northwest-laos",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/McCoy/book/Print57.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/cia-in-northwest-laos",
+      "permanent": true
+    },
+    {
+      "source": "/books/mccoy/book/Print57.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/cia-in-northwest-laos",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/mccoy/book/Print57.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/cia-in-northwest-laos",
+      "permanent": true
+    },
+    {
+      "source": "/reports/wvc/drugnota/4/s61.htm",
+      "destination": "/library/policy/politica-holandesa-de-la-droga-conclusiones",
+      "permanent": true
+    },
+    {
+      "source": "/reports/wvc/drugnota/4/s61.html",
+      "destination": "/library/policy/politica-holandesa-de-la-droga-conclusiones",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/wvc/drugnota/4/s61.htm",
+      "destination": "/library/policy/politica-holandesa-de-la-droga-conclusiones",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/wvc/drugnota/4/s61.html",
+      "destination": "/library/policy/politica-holandesa-de-la-droga-conclusiones",
+      "permanent": true
+    },
+    {
+      "source": "/books/raterisks/4.2.htm",
+      "destination": "/library/harm-reduction/rate-your-risks/overdose-quiz",
+      "permanent": true
+    },
+    {
+      "source": "/books/raterisks/4.2.html",
+      "destination": "/library/harm-reduction/rate-your-risks/overdose-quiz",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/raterisks/4.2.htm",
+      "destination": "/library/harm-reduction/rate-your-risks/overdose-quiz",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/raterisks/4.2.html",
+      "destination": "/library/harm-reduction/rate-your-risks/overdose-quiz",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/_vti_bin/shtml.dll/raterisks/4.2.htm",
+      "destination": "/library/harm-reduction/rate-your-risks/overdose-quiz",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/_vti_bin/shtml.dll/raterisks/4.2.html",
+      "destination": "/library/harm-reduction/rate-your-risks/overdose-quiz",
+      "permanent": true
+    },
+    {
+      "source": "/Dealing-with-Drugs/5-medical-uses-of-illicit-drugs.html",
+      "destination": "/library/policy/dealing-with-drugs/medical-uses-of-illicit-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/Dealing-with-Drugs/5-medical-uses-of-illicit-drugs.htm",
+      "destination": "/library/policy/dealing-with-drugs/medical-uses-of-illicit-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/Dealing-with-Drugs/5-medical-uses-of-illicit-drugsPrint.html",
+      "destination": "/library/policy/dealing-with-drugs/medical-uses-of-illicit-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/Dealing-with-Drugs/5-medical-uses-of-illicit-drugsPrint.htm",
+      "destination": "/library/policy/dealing-with-drugs/medical-uses-of-illicit-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/dealing-with-drugs/5-medical-uses-of-illicit-drugs.html",
+      "destination": "/library/policy/dealing-with-drugs/medical-uses-of-illicit-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/dealing-with-drugs/5-medical-uses-of-illicit-drugs.htm",
+      "destination": "/library/policy/dealing-with-drugs/medical-uses-of-illicit-drugs",
+      "permanent": true
     }
   ]
 }
