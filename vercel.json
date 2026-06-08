@@ -14,12 +14,12 @@
       "permanent": true
     },
     {
-      "source": "/articles/TimesAd.html",
+      "source": "/articles/TimesAd",
       "destination": "/library/cannabis/times-1967-marijuana-advertisement",
       "permanent": true
     },
     {
-      "source": "/library/articles/TimesAd.html",
+      "source": "/library/articles/TimesAd",
       "destination": "/library/cannabis/times-1967-marijuana-advertisement",
       "permanent": true
     },
@@ -34,12 +34,12 @@
       "permanent": true
     },
     {
-      "source": "/The-Politics-of-Heroin-in-Southeast-Asia/7-the-golden-triangle-heroin-is-our-most-important-product.html",
+      "source": "/The-Politics-of-Heroin-in-Southeast-Asia/7-the-golden-triangle-heroin-is-our-most-important-product",
       "destination": "/library/heroin/politics-of-heroin-southeast-asia/golden-triangle-heroin",
       "permanent": true
     },
     {
-      "source": "/The-Politics-of-Heroin-in-Southeast-Asia/7-the-golden-triangle-heroin-is-our-most-important-product/Print.html",
+      "source": "/The-Politics-of-Heroin-in-Southeast-Asia/7-the-golden-triangle-heroin-is-our-most-important-product/Print",
       "destination": "/library/heroin/politics-of-heroin-southeast-asia/golden-triangle-heroin",
       "permanent": true
     },
@@ -74,12 +74,12 @@
       "permanent": true
     },
     {
-      "source": "/library/articles/92333.html",
+      "source": "/library/articles/92333",
       "destination": "/library/addiction/changing-images-of-the-addict",
       "permanent": true
     },
     {
-      "source": "/Recreational-Drugs/methaqualone.html",
+      "source": "/Recreational-Drugs/methaqualone",
       "destination": "/library/methaqualone/recreational-drugs",
       "permanent": true
     },
@@ -99,7 +99,7 @@
       "permanent": true
     },
     {
-      "source": "/The-Politics-of-Heroin-in-Southeast-Asia/1-sicily.html",
+      "source": "/The-Politics-of-Heroin-in-Southeast-Asia/1-sicily",
       "destination": "/library/heroin/politics-of-heroin-southeast-asia/sicily-home-of-the-mafia",
       "permanent": true
     },
@@ -114,12 +114,12 @@
       "permanent": true
     },
     {
-      "source": "/Table/The-Politics-of-Heroin-in-Southeast-Asia/",
+      "source": "/Table/The-Politics-of-Heroin-in-Southeast-Asia",
       "destination": "/library/heroin/politics-of-heroin-southeast-asia",
       "permanent": true
     },
     {
-      "source": "/table/the-politics-of-heroin-in-southeast-asia/",
+      "source": "/table/the-politics-of-heroin-in-southeast-asia",
       "destination": "/library/heroin/politics-of-heroin-southeast-asia",
       "permanent": true
     },
@@ -174,7 +174,7 @@
       "permanent": true
     },
     {
-      "source": "/Minorities/pituri-an-australian-aboriginal-drug.html",
+      "source": "/Minorities/pituri-an-australian-aboriginal-drug",
       "destination": "/library/ethnobotany/pituri-an-australian-aboriginal-drug",
       "permanent": true
     },
@@ -189,7 +189,7 @@
       "permanent": true
     },
     {
-      "source": "/library/articles/95626.html",
+      "source": "/library/articles/95626",
       "destination": "/library/harm-reduction/where-is-the-sex-in-harm-reduction",
       "permanent": true
     },
@@ -204,7 +204,7 @@
       "permanent": true
     },
     {
-      "source": "/library/articles/901405.html",
+      "source": "/library/articles/901405",
       "destination": "/library/cannabis/rescheduling-of-marijuana",
       "permanent": true
     },
@@ -231,16 +231,6 @@
     {
       "source": "/psychedelics/unger.htm",
       "destination": "/library/psychedelics",
-      "permanent": true
-    },
-    {
-      "source": "/Table/Rolleston-Report/",
-      "destination": "/reports/rolleston-report",
-      "permanent": true
-    },
-    {
-      "source": "/table/rolleston-report/",
-      "destination": "/reports/rolleston-report",
       "permanent": true
     },
     {
@@ -279,7 +269,7 @@
       "permanent": true
     },
     {
-      "source": "/EMCDDA-Report-on-the-risk-assessment-of-mephedrone/8-description-of-the-control-measures-that-are-applicable-to-mephedrone-in-the-member-states.html",
+      "source": "/EMCDDA-Report-on-the-risk-assessment-of-mephedrone/8-description-of-the-control-measures-that-are-applicable-to-mephedrone-in-the-member-states",
       "destination": "/reports/emcdda-mephedrone-risk-assessment/control-measures-in-member-states",
       "permanent": true
     },
@@ -354,7 +344,7 @@
       "permanent": true
     },
     {
-      "source": "/library/books/methadone/section7.html",
+      "source": "/library/books/methadone/section7",
       "destination": "/library/methadone/methadone-briefing/section-7-treatment-options",
       "permanent": true
     },
@@ -369,7 +359,7 @@
       "permanent": true
     },
     {
-      "source": "/articles/marmyt1.html",
+      "source": "/articles/marmyt1",
       "destination": "/library/cannabis/marijuana-myths",
       "permanent": true
     },
@@ -379,7 +369,7 @@
       "permanent": true
     },
     {
-      "source": "/sub/marmyt1.html",
+      "source": "/sub/marmyt1",
       "destination": "/library/cannabis/marijuana-myths",
       "permanent": true
     },
@@ -389,7 +379,7 @@
       "permanent": true
     },
     {
-      "source": "/library/articles/marmyt1.html",
+      "source": "/library/articles/marmyt1",
       "destination": "/library/cannabis/marijuana-myths",
       "permanent": true
     },
@@ -404,17 +394,7 @@
       "permanent": true
     },
     {
-      "source": "/legal/treat/commentary/",
-      "destination": "/reports/commentary-single-convention-on-narcotic-drugs-1961",
-      "permanent": true
-    },
-    {
       "source": "/legal/treat/commentary",
-      "destination": "/reports/commentary-single-convention-on-narcotic-drugs-1961",
-      "permanent": true
-    },
-    {
-      "source": "/library/legal/treat/commentary/",
       "destination": "/reports/commentary-single-convention-on-narcotic-drugs-1961",
       "permanent": true
     },
@@ -434,17 +414,7 @@
       "permanent": true
     },
     {
-      "source": "/Commentary-on-the-Single-Convention/",
-      "destination": "/reports/commentary-single-convention-on-narcotic-drugs-1961",
-      "permanent": true
-    },
-    {
       "source": "/Commentary-on-the-Single-Convention",
-      "destination": "/reports/commentary-single-convention-on-narcotic-drugs-1961",
-      "permanent": true
-    },
-    {
-      "source": "/Table/Commentary-on-the-Single-Convention/",
       "destination": "/reports/commentary-single-convention-on-narcotic-drugs-1961",
       "permanent": true
     },
@@ -454,7 +424,7 @@
       "permanent": true
     },
     {
-      "source": "/The-Methadone-Handbook/hiv.html",
+      "source": "/The-Methadone-Handbook/hiv",
       "destination": "/library/methadone/methadone-handbook/hiv",
       "permanent": true
     },
@@ -469,22 +439,12 @@
       "permanent": true
     },
     {
-      "source": "/Table/The-Methadone-Handbook/",
+      "source": "/Table/The-Methadone-Handbook",
       "destination": "/library/methadone/methadone-handbook",
       "permanent": true
     },
     {
-      "source": "/Table/Methadone-Briefing/",
-      "destination": "/library/methadone/methadone-briefing",
-      "permanent": true
-    },
-    {
       "source": "/Table/Methadone-Briefing",
-      "destination": "/library/methadone/methadone-briefing",
-      "permanent": true
-    },
-    {
-      "source": "/table/methadone-briefing/",
       "destination": "/library/methadone/methadone-briefing",
       "permanent": true
     },
@@ -499,12 +459,12 @@
       "permanent": true
     },
     {
-      "source": "/The-Methadone-Handbook/the-history-of-methadone/Print.html",
+      "source": "/The-Methadone-Handbook/the-history-of-methadone/Print",
       "destination": "/library/methadone/methadone-handbook/history-of-methadone",
       "permanent": true
     },
     {
-      "source": "/The-Methadone-Handbook/the-history-of-methadone.html",
+      "source": "/The-Methadone-Handbook/the-history-of-methadone",
       "destination": "/library/methadone/methadone-handbook/history-of-methadone",
       "permanent": true
     },
@@ -514,7 +474,7 @@
       "permanent": true
     },
     {
-      "source": "/Police-Drugs/foreword.html",
+      "source": "/Police-Drugs/foreword",
       "destination": "/library/policy/police-drugs/foreword",
       "permanent": true
     },
@@ -529,7 +489,7 @@
       "permanent": true
     },
     {
-      "source": "/Methadone-Briefing/foreword.html",
+      "source": "/Methadone-Briefing/foreword",
       "destination": "/library/policy/police-drugs/foreword",
       "permanent": true
     },
@@ -584,7 +544,7 @@
       "permanent": true
     },
     {
-      "source": "/Psychopharmacology/mescaline.html",
+      "source": "/Psychopharmacology/mescaline",
       "destination": "/library/psychedelics/mescaline",
       "permanent": true
     },
@@ -619,7 +579,7 @@
       "permanent": true
     },
     {
-      "source": "/library/reports/wootton/",
+      "source": "/library/reports/wootton",
       "destination": "/reports/wootton-report",
       "permanent": true
     },
@@ -639,7 +599,7 @@
       "permanent": true
     },
     {
-      "source": "/reports/wootton/",
+      "source": "/reports/wootton",
       "destination": "/reports/wootton-report",
       "permanent": true
     },
@@ -649,7 +609,7 @@
       "permanent": true
     },
     {
-      "source": "/Treatment/can-drugs-be-used-to-enhance-the-psychotherapeutic-process.html",
+      "source": "/Treatment/can-drugs-be-used-to-enhance-the-psychotherapeutic-process",
       "destination": "/library/psychedelics/can-drugs-enhance-psychotherapeutic-process",
       "permanent": true
     },
@@ -664,7 +624,7 @@
       "permanent": true
     },
     {
-      "source": "/Psychedelics/current-status-and-future-trends-in-psychedelic-lsd-research.html",
+      "source": "/Psychedelics/current-status-and-future-trends-in-psychedelic-lsd-research",
       "destination": "/library/psychedelics/current-status-future-trends-lsd-research",
       "permanent": true
     },
@@ -679,7 +639,7 @@
       "permanent": true
     },
     {
-      "source": "/European-Drug-Laws/chapter-4-france-drug-use-and-supply-illegal-possession-undefined-situation-unsatisfactory.html",
+      "source": "/European-Drug-Laws/chapter-4-france-drug-use-and-supply-illegal-possession-undefined-situation-unsatisfactory",
       "destination": "/reports/european-drug-laws/france",
       "permanent": true
     },
@@ -699,7 +659,7 @@
       "permanent": true
     },
     {
-      "source": "/Various-general/opium-cocaine-and-marijuana-in-american-history.html",
+      "source": "/Various-general/opium-cocaine-and-marijuana-in-american-history",
       "destination": "/library/policy/opium-cocaine-marijuana-american-history",
       "permanent": true
     },
@@ -714,7 +674,7 @@
       "permanent": true
     },
     {
-      "source": "/library/articles/craig2.html",
+      "source": "/library/articles/craig2",
       "destination": "/library/cocaine/construction-of-americas-crack-crisis",
       "permanent": true
     },
@@ -859,12 +819,12 @@
       "permanent": true
     },
     {
-      "source": "/library/articles/PaulMcCartny.html",
+      "source": "/library/articles/PaulMcCartny",
       "destination": "/library/cannabis/paul-mccartney-on-cannabis",
       "permanent": true
     },
     {
-      "source": "/articles/PaulMcCartny.html",
+      "source": "/articles/PaulMcCartny",
       "destination": "/library/cannabis/paul-mccartney-on-cannabis",
       "permanent": true
     },
@@ -889,7 +849,7 @@
       "permanent": true
     },
     {
-      "source": "/Grupp-Marihuana/dependence-on-cannabis-marihuana.html",
+      "source": "/Grupp-Marihuana/dependence-on-cannabis-marihuana",
       "destination": "/library/cannabis/dependence-on-cannabis",
       "permanent": true
     },
@@ -904,12 +864,12 @@
       "permanent": true
     },
     {
-      "source": "/Addiction/addiction-brain-mechanisms-and-their-treatment-implications.html",
+      "source": "/Addiction/addiction-brain-mechanisms-and-their-treatment-implications",
       "destination": "/library/addiction/addiction-brain-mechanisms-treatment-implications",
       "permanent": true
     },
     {
-      "source": "/Second-Brain-Report/drug-addiction-2.html",
+      "source": "/Second-Brain-Report/drug-addiction-2",
       "destination": "/reports/second-brain-report",
       "permanent": true
     },
@@ -924,7 +884,7 @@
       "permanent": true
     },
     {
-      "source": "/Addiction/changing-images-of-the-addict-and-addiction.html",
+      "source": "/Addiction/changing-images-of-the-addict-and-addiction",
       "destination": "/library/addiction/changing-images-of-the-addict",
       "permanent": true
     },
@@ -954,7 +914,7 @@
       "permanent": true
     },
     {
-      "source": "/druglibrary/schaffer/dea/",
+      "source": "/druglibrary/schaffer/dea",
       "destination": "/library/policy/drcnet-response-to-the-dea",
       "permanent": true
     },
@@ -979,7 +939,7 @@
       "permanent": true
     },
     {
-      "source": "/The-Politics-of-Heroin-in-Southeast-Asia/5-south-vietnam-narcotics-in-the-nations-service.html",
+      "source": "/The-Politics-of-Heroin-in-Southeast-Asia/5-south-vietnam-narcotics-in-the-nations-service",
       "destination": "/library/heroin/politics-of-heroin-southeast-asia/south-vietnam-narcotics-in-the-nations-service",
       "permanent": true
     },
@@ -1084,7 +1044,7 @@
       "permanent": true
     },
     {
-      "source": "/Dance/party-drugs-clubbing/how-risky-is-ecstasy-a-model-for-comparing-the-mortality-risks-of-ecstasy-use-dance-parties-and-related-activities.html",
+      "source": "/Dance/party-drugs-clubbing/how-risky-is-ecstasy-a-model-for-comparing-the-mortality-risks-of-ecstasy-use-dance-parties-and-related-activities",
       "destination": "/library/mdma/how-risky-is-ecstasy",
       "permanent": true
     },
@@ -1094,17 +1054,7 @@
       "permanent": true
     },
     {
-      "source": "/Table/Phantastica/",
-      "destination": "/library/psychedelics/phantastica",
-      "permanent": true
-    },
-    {
       "source": "/Table/Phantastica",
-      "destination": "/library/psychedelics/phantastica",
-      "permanent": true
-    },
-    {
-      "source": "/table/phantastica/",
       "destination": "/library/psychedelics/phantastica",
       "permanent": true
     },
@@ -1164,7 +1114,7 @@
       "permanent": true
     },
     {
-      "source": "/library/articles/cowan.html",
+      "source": "/library/articles/cowan",
       "destination": "/library/cocaine/how-the-narcs-created-crack",
       "permanent": true
     },
@@ -1194,12 +1144,12 @@
       "permanent": true
     },
     {
-      "source": "/library/articles/ial6.html",
+      "source": "/library/articles/ial6",
       "destination": "/library/policy/drug-war-as-a-socialist-enterprise",
       "permanent": true
     },
     {
-      "source": "/articles/ial6.html",
+      "source": "/articles/ial6",
       "destination": "/library/policy/drug-war-as-a-socialist-enterprise",
       "permanent": true
     },
@@ -1244,22 +1194,12 @@
       "permanent": true
     },
     {
-      "source": "/books/McCoy/",
-      "destination": "/library/heroin/politics-of-heroin-southeast-asia",
-      "permanent": true
-    },
-    {
       "source": "/books/McCoy/index.htm",
       "destination": "/library/heroin/politics-of-heroin-southeast-asia",
       "permanent": true
     },
     {
       "source": "/books/mccoy",
-      "destination": "/library/heroin/politics-of-heroin-southeast-asia",
-      "permanent": true
-    },
-    {
-      "source": "/books/mccoy/",
       "destination": "/library/heroin/politics-of-heroin-southeast-asia",
       "permanent": true
     },
@@ -1279,22 +1219,12 @@
       "permanent": true
     },
     {
-      "source": "/library/books/McCoy/",
-      "destination": "/library/heroin/politics-of-heroin-southeast-asia",
-      "permanent": true
-    },
-    {
       "source": "/library/books/McCoy/index.htm",
       "destination": "/library/heroin/politics-of-heroin-southeast-asia",
       "permanent": true
     },
     {
       "source": "/library/books/mccoy",
-      "destination": "/library/heroin/politics-of-heroin-southeast-asia",
-      "permanent": true
-    },
-    {
-      "source": "/library/books/mccoy/",
       "destination": "/library/heroin/politics-of-heroin-southeast-asia",
       "permanent": true
     },
@@ -1339,7 +1269,7 @@
       "permanent": true
     },
     {
-      "source": "/articles/956311.html",
+      "source": "/articles/956311",
       "destination": "/library/mdma/ecstasy-and-illegal-drug-design",
       "permanent": true
     },
@@ -1349,7 +1279,7 @@
       "permanent": true
     },
     {
-      "source": "/library/articles/956311.html",
+      "source": "/library/articles/956311",
       "destination": "/library/mdma/ecstasy-and-illegal-drug-design",
       "permanent": true
     },
@@ -1359,7 +1289,7 @@
       "permanent": true
     },
     {
-      "source": "/The-Marijuana-Question/3-attitudes.html",
+      "source": "/The-Marijuana-Question/3-attitudes",
       "destination": "/library/cannabis/the-marijuana-question/attitudes",
       "permanent": true
     },
@@ -1374,7 +1304,7 @@
       "permanent": true
     },
     {
-      "source": "/The-American-Disease/2-diplomats-and-reformers.html",
+      "source": "/The-American-Disease/2-diplomats-and-reformers",
       "destination": "/library/policy/the-american-disease/diplomats-and-reformers",
       "permanent": true
     },
@@ -1394,7 +1324,7 @@
       "permanent": true
     },
     {
-      "source": "/books/methadone/",
+      "source": "/books/methadone",
       "destination": "/library/methadone/methadone-briefing",
       "permanent": true
     },
@@ -1409,7 +1339,7 @@
       "permanent": true
     },
     {
-      "source": "/library/books/methadone/",
+      "source": "/library/books/methadone",
       "destination": "/library/methadone/methadone-briefing",
       "permanent": true
     },
@@ -1419,12 +1349,12 @@
       "permanent": true
     },
     {
-      "source": "/Indian-Hemp-Commission-Report/chapter-xii.html",
+      "source": "/Indian-Hemp-Commission-Report/chapter-xii",
       "destination": "/reports/indian-hemp-drugs-commission/chapter-xii-effects-mental",
       "permanent": true
     },
     {
-      "source": "/indian-hemp-commission-report/chapter-xii.html",
+      "source": "/indian-hemp-commission-report/chapter-xii",
       "destination": "/reports/indian-hemp-drugs-commission/chapter-xii-effects-mental",
       "permanent": true
     },
@@ -1439,7 +1369,7 @@
       "permanent": true
     },
     {
-      "source": "/The-American-Disease/3-the-harrison-act.html",
+      "source": "/The-American-Disease/3-the-harrison-act",
       "destination": "/library/policy/the-american-disease/the-harrison-act",
       "permanent": true
     },
@@ -1454,12 +1384,12 @@
       "permanent": true
     },
     {
-      "source": "/articles/3175-an-evaluation-of-the-quality-of-medicinal-grade-cannabis-in-the-netherlands.html",
+      "source": "/articles/3175-an-evaluation-of-the-quality-of-medicinal-grade-cannabis-in-the-netherlands",
       "destination": "/library/cannabis/quality-of-medicinal-grade-cannabis-netherlands",
       "permanent": true
     },
     {
-      "source": "/Cannabis-marijuana-hashisch/an-evaluation-of-the-quality-of-medicinal-grade-cannabis-in-the-netherlands.html",
+      "source": "/Cannabis-marijuana-hashisch/an-evaluation-of-the-quality-of-medicinal-grade-cannabis-in-the-netherlands",
       "destination": "/library/cannabis/quality-of-medicinal-grade-cannabis-netherlands",
       "permanent": true
     },
@@ -1499,7 +1429,7 @@
       "permanent": true
     },
     {
-      "source": "/books/grund01/grund3.html",
+      "source": "/books/grund01/grund3",
       "destination": "/library/harm-reduction/drug-use-as-a-social-ritual/description-of-the-study",
       "permanent": true
     },
@@ -1509,7 +1439,7 @@
       "permanent": true
     },
     {
-      "source": "/library/books/grund01/grund3.html",
+      "source": "/library/books/grund01/grund3",
       "destination": "/library/harm-reduction/drug-use-as-a-social-ritual/description-of-the-study",
       "permanent": true
     },
@@ -1519,7 +1449,7 @@
       "permanent": true
     },
     {
-      "source": "/The-Psychedelics/lsd-and-architectural-design.html",
+      "source": "/The-Psychedelics/lsd-and-architectural-design",
       "destination": "/library/psychedelics/the-psychedelics/lsd-and-architectural-design",
       "permanent": true
     },
@@ -1539,7 +1469,7 @@
       "permanent": true
     },
     {
-      "source": "/Crime-police-trafficking/american-inner-cities-and-drug-policing.html",
+      "source": "/Crime-police-trafficking/american-inner-cities-and-drug-policing",
       "destination": "/library/policy/american-inner-cities-and-drug-policing",
       "permanent": true
     },
@@ -1549,12 +1479,12 @@
       "permanent": true
     },
     {
-      "source": "/Cocaine-crack-and-base/cocaine-and-pregnancy-hype-or-science/Print.html",
+      "source": "/Cocaine-crack-and-base/cocaine-and-pregnancy-hype-or-science/Print",
       "destination": "/library/cocaine/cocaine-and-pregnancy-hype-or-science",
       "permanent": true
     },
     {
-      "source": "/Cocaine-crack-and-base/cocaine-and-pregnancy-hype-or-science.html",
+      "source": "/Cocaine-crack-and-base/cocaine-and-pregnancy-hype-or-science",
       "destination": "/library/cocaine/cocaine-and-pregnancy-hype-or-science",
       "permanent": true
     },
@@ -1574,7 +1504,7 @@
       "permanent": true
     },
     {
-      "source": "/Control-Over-Intoxicant-Use/social-and-political-sources-of-drug-effects-the-case-of-bad-trips-on-psychedelics.html",
+      "source": "/Control-Over-Intoxicant-Use/social-and-political-sources-of-drug-effects-the-case-of-bad-trips-on-psychedelics",
       "destination": "/library/psychedelics/social-political-sources-of-drug-effects-bad-trips",
       "permanent": true
     },
@@ -1629,7 +1559,7 @@
       "permanent": true
     },
     {
-      "source": "/druglibrary/schaffer/LIBRARY/studies/wick/",
+      "source": "/druglibrary/schaffer/LIBRARY/studies/wick",
       "destination": "/reports/wickersham-commission",
       "permanent": true
     },
@@ -1644,12 +1574,12 @@
       "permanent": true
     },
     {
-      "source": "/druglibrary/schaffer/library/studies/wick/",
+      "source": "/druglibrary/schaffer/library/studies/wick",
       "destination": "/reports/wickersham-commission",
       "permanent": true
     },
     {
-      "source": "/text.html",
+      "source": "/text",
       "destination": "/",
       "permanent": true
     },
@@ -1699,7 +1629,7 @@
       "permanent": true
     },
     {
-      "source": "/articles/havelatt.html",
+      "source": "/articles/havelatt",
       "destination": "/library/policy/speech-by-vaclav-havel",
       "permanent": true
     },
@@ -1709,7 +1639,7 @@
       "permanent": true
     },
     {
-      "source": "/library/articles/havelatt.html",
+      "source": "/library/articles/havelatt",
       "destination": "/library/policy/speech-by-vaclav-havel",
       "permanent": true
     },
@@ -1719,7 +1649,7 @@
       "permanent": true
     },
     {
-      "source": "/library/paper.html",
+      "source": "/library/paper",
       "destination": "/",
       "permanent": true
     },
@@ -1729,7 +1659,7 @@
       "permanent": true
     },
     {
-      "source": "/debate/paper.html",
+      "source": "/debate/paper",
       "destination": "/",
       "permanent": true
     },
@@ -1739,7 +1669,7 @@
       "permanent": true
     },
     {
-      "source": "/miroir/meducation/produits/Depresseurs/Ethanol/ethanol.html",
+      "source": "/miroir/meducation/produits/Depresseurs/Ethanol/ethanol",
       "destination": "/library/alcohol/ethanol",
       "permanent": true
     },
@@ -1754,7 +1684,7 @@
       "permanent": true
     },
     {
-      "source": "/The-Marijuana-Question/3-monkeys-and-others.html",
+      "source": "/The-Marijuana-Question/3-monkeys-and-others",
       "destination": "/library/cannabis/the-marijuana-question/monkeys-and-others",
       "permanent": true
     },
@@ -1769,7 +1699,7 @@
       "permanent": true
     },
     {
-      "source": "/press/review-on-clinical-studies-with-cannabis-and-cannabinoids-2005-2009.html",
+      "source": "/press/review-on-clinical-studies-with-cannabis-and-cannabinoids-2005-2009",
       "destination": "/library/cannabis/review-clinical-studies-cannabis-cannabinoids-2005-2009",
       "permanent": true
     },
@@ -1779,7 +1709,7 @@
       "permanent": true
     },
     {
-      "source": "/Cannabis-marijuana-hashisch/review-on-clinical-studies-with-cannabis-and-cannabinoids-2005-2009.html",
+      "source": "/Cannabis-marijuana-hashisch/review-on-clinical-studies-with-cannabis-and-cannabinoids-2005-2009",
       "destination": "/library/cannabis/review-clinical-studies-cannabis-cannabinoids-2005-2009",
       "permanent": true
     },
@@ -1804,7 +1734,7 @@
       "permanent": true
     },
     {
-      "source": "/The-Gentlemen-s-Club/11-pressure-groups.html",
+      "source": "/The-Gentlemen-s-Club/11-pressure-groups",
       "destination": "/library/policy/the-gentlemens-club/pressure-groups",
       "permanent": true
     },
@@ -1869,7 +1799,7 @@
       "permanent": true
     },
     {
-      "source": "/library/legal/mjtaxact.html",
+      "source": "/library/legal/mjtaxact",
       "destination": "/library/cannabis",
       "permanent": true
     },
@@ -1879,7 +1809,7 @@
       "permanent": true
     },
     {
-      "source": "/legal/mjtaxact.html",
+      "source": "/legal/mjtaxact",
       "destination": "/library/cannabis",
       "permanent": true
     },
@@ -1889,7 +1819,7 @@
       "permanent": true
     },
     {
-      "source": "/pfneurot.html",
+      "source": "/pfneurot",
       "destination": "/library/psychopharmacology/neurotransmissores",
       "permanent": true
     },
@@ -1899,7 +1829,7 @@
       "permanent": true
     },
     {
-      "source": "/library/reports/cu/CU45.html",
+      "source": "/library/reports/cu/CU45",
       "destination": "/reports/consumers-union-licit-illicit-drugs/early-use-of-lsd-like-drugs",
       "permanent": true
     },
@@ -1944,12 +1874,12 @@
       "permanent": true
     },
     {
-      "source": "/Table/The-Forbidden-Game/",
+      "source": "/Table/The-Forbidden-Game",
       "destination": "/library/psychedelics/the-forbidden-game",
       "permanent": true
     },
     {
-      "source": "/library/articles/901502.html",
+      "source": "/library/articles/901502",
       "destination": "/library/policy/notes-from-the-drug-wars",
       "permanent": true
     },
@@ -1974,7 +1904,7 @@
       "permanent": true
     },
     {
-      "source": "/library/articles/morgan1.html",
+      "source": "/library/articles/morgan1",
       "destination": "/library/policy/poisons-and-prohibitions-persistence-of-folly",
       "permanent": true
     },
@@ -2024,7 +1954,7 @@
       "permanent": true
     },
     {
-      "source": "/articles/691-methadone-maintenance-and-harm-reduction-in-northern-thailand.html",
+      "source": "/articles/691-methadone-maintenance-and-harm-reduction-in-northern-thailand",
       "destination": "/library/methadone/methadone-maintenance-harm-reduction-northern-thailand",
       "permanent": true
     },
@@ -2034,7 +1964,7 @@
       "permanent": true
     },
     {
-      "source": "/Opiates-heroin-methadone/methadone-maintenance-and-harm-reduction-in-northern-thailand.html",
+      "source": "/Opiates-heroin-methadone/methadone-maintenance-and-harm-reduction-in-northern-thailand",
       "destination": "/library/methadone/methadone-maintenance-harm-reduction-northern-thailand",
       "permanent": true
     },
@@ -2044,17 +1974,7 @@
       "permanent": true
     },
     {
-      "source": "/library/books/methadone",
-      "destination": "/library/methadone/methadone-briefing",
-      "permanent": true
-    },
-    {
-      "source": "/books/methadone",
-      "destination": "/library/methadone/methadone-briefing",
-      "permanent": true
-    },
-    {
-      "source": "/WHO-Project-on-Health-Implications-of-Cannabis-Use/table-1.html",
+      "source": "/WHO-Project-on-Health-Implications-of-Cannabis-Use/table-1",
       "destination": "/reports/who-cannabis-health-implications/table-1",
       "permanent": true
     },
@@ -2064,17 +1984,17 @@
       "permanent": true
     },
     {
-      "source": "/Table/WHO-Project-on-Health-Implications-of-Cannabis-Use/",
+      "source": "/Table/WHO-Project-on-Health-Implications-of-Cannabis-Use",
       "destination": "/reports/who-cannabis-health-implications",
       "permanent": true
     },
     {
-      "source": "/Cannabis-and-Culture/sociocultural-and-epidemiological-aspects-of-hashish-use-in-greece/Print.html",
+      "source": "/Cannabis-and-Culture/sociocultural-and-epidemiological-aspects-of-hashish-use-in-greece/Print",
       "destination": "/library/cannabis/cannabis-and-culture/hashish-use-in-greece",
       "permanent": true
     },
     {
-      "source": "/Cannabis-and-Culture/sociocultural-and-epidemiological-aspects-of-hashish-use-in-greece.html",
+      "source": "/Cannabis-and-Culture/sociocultural-and-epidemiological-aspects-of-hashish-use-in-greece",
       "destination": "/library/cannabis/cannabis-and-culture/hashish-use-in-greece",
       "permanent": true
     },
@@ -2084,7 +2004,7 @@
       "permanent": true
     },
     {
-      "source": "/Marihuana/2-hashish-and-the-arabs.html",
+      "source": "/Marihuana/2-hashish-and-the-arabs",
       "destination": "/library/cannabis/marihuana-the-first-12000-years/hashish-and-the-arabs",
       "permanent": true
     },
@@ -2099,7 +2019,7 @@
       "permanent": true
     },
     {
-      "source": "/FAMM/links.html",
+      "source": "/FAMM/links",
       "destination": "/library",
       "permanent": true
     },
@@ -2109,7 +2029,7 @@
       "permanent": true
     },
     {
-      "source": "/portland/pdxnorml/links.html",
+      "source": "/portland/pdxnorml/links",
       "destination": "/library",
       "permanent": true
     },
@@ -2154,12 +2074,12 @@
       "permanent": true
     },
     {
-      "source": "/library/books/devos/",
+      "source": "/library/books/devos",
       "destination": "/library/methadone/methadone-maintenance-treatment",
       "permanent": true
     },
     {
-      "source": "/books/devos/",
+      "source": "/books/devos",
       "destination": "/library/methadone/methadone-maintenance-treatment",
       "permanent": true
     },
@@ -2184,7 +2104,7 @@
       "permanent": true
     },
     {
-      "source": "/Recreational-Drugs/nutmeg.html",
+      "source": "/Recreational-Drugs/nutmeg",
       "destination": "/library/nutmeg/recreational-drugs",
       "permanent": true
     },
@@ -2209,12 +2129,7 @@
       "permanent": true
     },
     {
-      "source": "/library/legal/",
-      "destination": "/library/legal",
-      "permanent": true
-    },
-    {
-      "source": "/legal/",
+      "source": "/library/legal",
       "destination": "/library/legal",
       "permanent": true
     },
@@ -2254,7 +2169,7 @@
       "permanent": true
     },
     {
-      "source": "/The-Marijuana-Papers/chapter-six-red-dirt-marihuana.html",
+      "source": "/The-Marijuana-Papers/chapter-six-red-dirt-marihuana",
       "destination": "/library/cannabis/the-marijuana-papers/red-dirt-marihuana",
       "permanent": true
     },
@@ -2309,7 +2224,7 @@
       "permanent": true
     },
     {
-      "source": "/The-Strange-Case-of-Pot/7-the-wootton-report.html",
+      "source": "/The-Strange-Case-of-Pot/7-the-wootton-report",
       "destination": "/library/cannabis/the-strange-case-of-pot/the-wootton-report",
       "permanent": true
     },
@@ -2359,11 +2274,6 @@
       "permanent": true
     },
     {
-      "source": "/library/books/zinberg2/",
-      "destination": "/library/addiction/drug-set-and-setting",
-      "permanent": true
-    },
-    {
       "source": "/library/books/zinberg2",
       "destination": "/library/addiction/drug-set-and-setting",
       "permanent": true
@@ -2374,17 +2284,12 @@
       "permanent": true
     },
     {
-      "source": "/books/zinberg2/",
-      "destination": "/library/addiction/drug-set-and-setting",
-      "permanent": true
-    },
-    {
       "source": "/books/zinberg2",
       "destination": "/library/addiction/drug-set-and-setting",
       "permanent": true
     },
     {
-      "source": "/library/reports/cu/CU35.html",
+      "source": "/library/reports/cu/CU35",
       "destination": "/library/cocaine/licit-illicit-drugs-chapter-35",
       "permanent": true
     },
@@ -2419,7 +2324,7 @@
       "permanent": true
     },
     {
-      "source": "/articles/95644.html",
+      "source": "/articles/95644",
       "destination": "/library/policy/drug-related-sites-on-the-world-wide-web",
       "permanent": true
     },
@@ -2429,7 +2334,7 @@
       "permanent": true
     },
     {
-      "source": "/library/articles/95644.html",
+      "source": "/library/articles/95644",
       "destination": "/library/policy/drug-related-sites-on-the-world-wide-web",
       "permanent": true
     },
@@ -2439,7 +2344,7 @@
       "permanent": true
     },
     {
-      "source": "/drugtext.html",
+      "source": "/drugtext",
       "destination": "/",
       "permanent": true
     },
@@ -2449,7 +2354,7 @@
       "permanent": true
     },
     {
-      "source": "/Cannabis-and-Culture/dagga-the-history-and-ethnographic-setting-of-cannabis-sativa-in-southern-africa.html",
+      "source": "/Cannabis-and-Culture/dagga-the-history-and-ethnographic-setting-of-cannabis-sativa-in-southern-africa",
       "destination": "/library/cannabis/cannabis-and-culture/dagga-southern-africa",
       "permanent": true
     },
@@ -2469,7 +2374,7 @@
       "permanent": true
     },
     {
-      "source": "/count/bulgar.html",
+      "source": "/count/bulgar",
       "destination": "/library/policy/countries/bulgaria",
       "permanent": true
     },
@@ -2499,7 +2404,7 @@
       "permanent": true
     },
     {
-      "source": "/National-Commission-on-Marihuana-Nixon-II/chapter-five-looking-ahead.html",
+      "source": "/National-Commission-on-Marihuana-Nixon-II/chapter-five-looking-ahead",
       "destination": "/reports/national-commission-on-marihuana-nixon-ii/chapter-five-looking-ahead",
       "permanent": true
     },
@@ -2514,7 +2419,7 @@
       "permanent": true
     },
     {
-      "source": "/FEAR/victims/gulag.html",
+      "source": "/FEAR/victims/gulag",
       "destination": "/library/policy/forfeiture-victims/zhadanov",
       "permanent": true
     },
@@ -2524,7 +2429,7 @@
       "permanent": true
     },
     {
-      "source": "/First-Brain-Report/drug-addiction-1.html",
+      "source": "/First-Brain-Report/drug-addiction-1",
       "destination": "/reports/first-brain-report",
       "permanent": true
     },
@@ -2539,7 +2444,7 @@
       "permanent": true
     },
     {
-      "source": "/Cannabis-and-Culture/plates.html",
+      "source": "/Cannabis-and-Culture/plates",
       "destination": "/library/cannabis/cannabis-and-culture/plates",
       "permanent": true
     },
@@ -2549,7 +2454,7 @@
       "permanent": true
     },
     {
-      "source": "/The-Peyote-Cult/plates.html",
+      "source": "/The-Peyote-Cult/plates",
       "destination": "/library/cannabis/cannabis-and-culture/plates",
       "permanent": true
     },
@@ -2589,7 +2494,7 @@
       "permanent": true
     },
     {
-      "source": "/press/96/lancet1.html",
+      "source": "/press/96/lancet1",
       "destination": "/library/cannabis/deglamorising-cannabis",
       "permanent": true
     },
@@ -2599,7 +2504,7 @@
       "permanent": true
     },
     {
-      "source": "/articles/lancet1.html",
+      "source": "/articles/lancet1",
       "destination": "/library/cannabis/deglamorising-cannabis",
       "permanent": true
     },
@@ -2609,7 +2514,7 @@
       "permanent": true
     },
     {
-      "source": "/library/articles/lancet1.html",
+      "source": "/library/articles/lancet1",
       "destination": "/library/cannabis/deglamorising-cannabis",
       "permanent": true
     },
@@ -2624,7 +2529,7 @@
       "permanent": true
     },
     {
-      "source": "/books/erickson/",
+      "source": "/books/erickson",
       "destination": "/library/cannabis/cannabis-criminals",
       "permanent": true
     },
@@ -2639,7 +2544,7 @@
       "permanent": true
     },
     {
-      "source": "/library/books/erickson/",
+      "source": "/library/books/erickson",
       "destination": "/library/cannabis/cannabis-criminals",
       "permanent": true
     },
@@ -2649,7 +2554,7 @@
       "permanent": true
     },
     {
-      "source": "/sub/mdma1.html",
+      "source": "/sub/mdma1",
       "destination": "/library/mdma/entactogens",
       "permanent": true
     },
@@ -2659,12 +2564,12 @@
       "permanent": true
     },
     {
-      "source": "/Recreational-Drugs/coleus.html",
+      "source": "/Recreational-Drugs/coleus",
       "destination": "/library/coleus/recreational-drugs",
       "permanent": true
     },
     {
-      "source": "/Recreational-Drugs/coleus/Print.html",
+      "source": "/Recreational-Drugs/coleus/Print",
       "destination": "/library/coleus/recreational-drugs",
       "permanent": true
     },
@@ -2709,12 +2614,12 @@
       "permanent": true
     },
     {
-      "source": "/1971commentary/",
+      "source": "/1971commentary",
       "destination": "/reports/commentary-single-convention-on-narcotic-drugs-1961",
       "permanent": true
     },
     {
-      "source": "/Dance/party-drugs-clubbing/the-drug-information-and-monitoring-service-dims-in-the-netherlands-a-unique-tool-for-monitoring-party-drugs.html",
+      "source": "/Dance/party-drugs-clubbing/the-drug-information-and-monitoring-service-dims-in-the-netherlands-a-unique-tool-for-monitoring-party-drugs",
       "destination": "/library/harm-reduction/dims-netherlands-monitoring-party-drugs",
       "permanent": true
     },
@@ -2724,7 +2629,7 @@
       "permanent": true
     },
     {
-      "source": "/The-Marijuana-Question/2-vietnam.html",
+      "source": "/The-Marijuana-Question/2-vietnam",
       "destination": "/library/cannabis/the-marijuana-question/vietnam",
       "permanent": true
     },
@@ -2749,7 +2654,7 @@
       "permanent": true
     },
     {
-      "source": "/Drug-Policy-Letter-march/april-1990/most-drug-related-murders-result-from-crack-sales-not-us.html",
+      "source": "/Drug-Policy-Letter-march/april-1990/most-drug-related-murders-result-from-crack-sales-not-us",
       "destination": "/library/cocaine/most-drug-related-murders-from-crack-sales",
       "permanent": true
     },
@@ -2799,7 +2704,7 @@
       "permanent": true
     },
     {
-      "source": "/count/portugal/psphiv01.html",
+      "source": "/count/portugal/psphiv01",
       "destination": "/library/harm-reduction/portugal-hiv-and-injecting-drug-use",
       "permanent": true
     },
@@ -2819,7 +2724,7 @@
       "permanent": true
     },
     {
-      "source": "/library/articles/chomsky1.html",
+      "source": "/library/articles/chomsky1",
       "destination": "/library/policy/how-free-is-the-free-market",
       "permanent": true
     },
@@ -2834,7 +2739,7 @@
       "permanent": true
     },
     {
-      "source": "/sub/alcohol.html",
+      "source": "/sub/alcohol",
       "destination": "/library/alcohol/overview",
       "permanent": true
     },
@@ -2859,7 +2764,7 @@
       "permanent": true
     },
     {
-      "source": "/library/books/kafkalides02/",
+      "source": "/library/books/kafkalides02",
       "destination": "/library/psychedelics/power-of-the-womb-subjective-truth",
       "permanent": true
     },
@@ -2869,12 +2774,12 @@
       "permanent": true
     },
     {
-      "source": "/books/kafkalides02/",
+      "source": "/books/kafkalides02",
       "destination": "/library/psychedelics/power-of-the-womb-subjective-truth",
       "permanent": true
     },
     {
-      "source": "/articles/lancet2.html",
+      "source": "/articles/lancet2",
       "destination": "/library/cannabis/deglamorising-cannabis-lancet-1998",
       "permanent": true
     },
@@ -2904,7 +2809,7 @@
       "permanent": true
     },
     {
-      "source": "/articles/Barnard.html",
+      "source": "/articles/Barnard",
       "destination": "/library/harm-reduction/music-and-drug-use-scottish-schoolchildren",
       "permanent": true
     },
@@ -2919,12 +2824,12 @@
       "permanent": true
     },
     {
-      "source": "/library/articles/msg1.html",
+      "source": "/library/articles/msg1",
       "destination": "/library/policy/message-on-the-war-on-drugs",
       "permanent": true
     },
     {
-      "source": "/articles/msg1.html",
+      "source": "/articles/msg1",
       "destination": "/library/policy/message-on-the-war-on-drugs",
       "permanent": true
     },
@@ -2939,7 +2844,7 @@
       "permanent": true
     },
     {
-      "source": "/articles/3781-acute-and-chronic-toxicity-of-marijuana.html",
+      "source": "/articles/3781-acute-and-chronic-toxicity-of-marijuana",
       "destination": "/library/cannabis/acute-and-chronic-toxicity-of-marijuana",
       "permanent": true
     },
@@ -2949,7 +2854,7 @@
       "permanent": true
     },
     {
-      "source": "/Cannabis-marijuana-hashisch/acute-and-chronic-toxicity-of-marijuana.html",
+      "source": "/Cannabis-marijuana-hashisch/acute-and-chronic-toxicity-of-marijuana",
       "destination": "/library/cannabis/acute-and-chronic-toxicity-of-marijuana",
       "permanent": true
     },
@@ -2969,7 +2874,7 @@
       "permanent": true
     },
     {
-      "source": "/Psychedelics/pahnkes-qgood-friday-experimentq.html",
+      "source": "/Psychedelics/pahnkes-qgood-friday-experimentq",
       "destination": "/library/psychedelics/pahnkes-good-friday-experiment",
       "permanent": true
     },
@@ -2994,22 +2899,12 @@
       "permanent": true
     },
     {
-      "source": "/library/reports/nlplan/",
-      "destination": "/reports/drug-control-through-legalisation",
-      "permanent": true
-    },
-    {
       "source": "/library/reports/nlplan",
       "destination": "/reports/drug-control-through-legalisation",
       "permanent": true
     },
     {
       "source": "/reports/nlplan/default.htm",
-      "destination": "/reports/drug-control-through-legalisation",
-      "permanent": true
-    },
-    {
-      "source": "/reports/nlplan/",
       "destination": "/reports/drug-control-through-legalisation",
       "permanent": true
     },
@@ -3024,12 +2919,12 @@
       "permanent": true
     },
     {
-      "source": "/EMCDDA-Harm-Reduction/chapter-2-the-diffusion-of-harm-reduction-in-europe-and-beyond/Print.html",
+      "source": "/EMCDDA-Harm-Reduction/chapter-2-the-diffusion-of-harm-reduction-in-europe-and-beyond/Print",
       "destination": "/reports/emcdda-harm-reduction/diffusion-of-harm-reduction-in-europe-and-beyond",
       "permanent": true
     },
     {
-      "source": "/EMCDDA-Harm-Reduction/chapter-2-the-diffusion-of-harm-reduction-in-europe-and-beyond.html",
+      "source": "/EMCDDA-Harm-Reduction/chapter-2-the-diffusion-of-harm-reduction-in-europe-and-beyond",
       "destination": "/reports/emcdda-harm-reduction/diffusion-of-harm-reduction-in-europe-and-beyond",
       "permanent": true
     },
@@ -3044,12 +2939,12 @@
       "permanent": true
     },
     {
-      "source": "/Commentary-on-the-Single-Convention/article-27-additional-provisions-relating-to-coca-leaves/Print.html",
+      "source": "/Commentary-on-the-Single-Convention/article-27-additional-provisions-relating-to-coca-leaves/Print",
       "destination": "/reports/commentary-single-convention-on-narcotic-drugs-1961/article-27-additional-provisions-coca-leaves",
       "permanent": true
     },
     {
-      "source": "/Commentary-on-the-Single-Convention/article-27-additional-provisions-relating-to-coca-leaves.html",
+      "source": "/Commentary-on-the-Single-Convention/article-27-additional-provisions-relating-to-coca-leaves",
       "destination": "/reports/commentary-single-convention-on-narcotic-drugs-1961/article-27-additional-provisions-coca-leaves",
       "permanent": true
     },
@@ -3059,7 +2954,7 @@
       "permanent": true
     },
     {
-      "source": "/Commentary-on-the-Single-Convention/article-26-the-coca-bush-and-coca-leaves.html",
+      "source": "/Commentary-on-the-Single-Convention/article-26-the-coca-bush-and-coca-leaves",
       "destination": "/reports/commentary-single-convention-on-narcotic-drugs-1961/article-26-coca-bush-and-coca-leaves",
       "permanent": true
     },
@@ -3069,7 +2964,7 @@
       "permanent": true
     },
     {
-      "source": "/Methadone-Briefing/section-1-the-history-of-methadone-and-methadone-prescribing.html",
+      "source": "/Methadone-Briefing/section-1-the-history-of-methadone-and-methadone-prescribing",
       "destination": "/library/methadone/methadone-briefing/section-1-history-of-methadone-and-prescribing",
       "permanent": true
     },
@@ -3084,12 +2979,12 @@
       "permanent": true
     },
     {
-      "source": "/The-Marihuana-Conviction/chapter-viii-nonchalance-on-capitol-hill/Print.html",
+      "source": "/The-Marihuana-Conviction/chapter-viii-nonchalance-on-capitol-hill/Print",
       "destination": "/library/cannabis/the-marihuana-conviction/nonchalance-on-capitol-hill",
       "permanent": true
     },
     {
-      "source": "/The-Marihuana-Conviction/chapter-viii-nonchalance-on-capitol-hill.html",
+      "source": "/The-Marihuana-Conviction/chapter-viii-nonchalance-on-capitol-hill",
       "destination": "/library/cannabis/the-marihuana-conviction/nonchalance-on-capitol-hill",
       "permanent": true
     },
@@ -3114,7 +3009,7 @@
       "permanent": true
     },
     {
-      "source": "/articles/michka1.html",
+      "source": "/articles/michka1",
       "destination": "/library/cannabis/professor-nahas-crusade-art-of-disinformation",
       "permanent": true
     },
@@ -3129,7 +3024,7 @@
       "permanent": true
     },
     {
-      "source": "/press/webster/jun00/",
+      "source": "/press/webster/jun00",
       "destination": "/library/policy",
       "permanent": true
     },
@@ -3139,7 +3034,7 @@
       "permanent": true
     },
     {
-      "source": "/articles/902208.html",
+      "source": "/articles/902208",
       "destination": "/library/policy/building-upon-the-successes-of-dutch-drug-policy",
       "permanent": true
     },
@@ -3149,7 +3044,7 @@
       "permanent": true
     },
     {
-      "source": "/library/articles/902208.html",
+      "source": "/library/articles/902208",
       "destination": "/library/policy/building-upon-the-successes-of-dutch-drug-policy",
       "permanent": true
     },
@@ -3159,7 +3054,7 @@
       "permanent": true
     },
     {
-      "source": "/library/articles/ial5.html",
+      "source": "/library/articles/ial5",
       "destination": "/library/policy/the-drug-war",
       "permanent": true
     },
@@ -3169,7 +3064,7 @@
       "permanent": true
     },
     {
-      "source": "/articles/ial5.html",
+      "source": "/articles/ial5",
       "destination": "/library/policy/the-drug-war",
       "permanent": true
     },
@@ -3179,7 +3074,7 @@
       "permanent": true
     },
     {
-      "source": "/Drug-Policy-Letter-march/april-1989/court-continues-privacy-erosion.html",
+      "source": "/Drug-Policy-Letter-march/april-1989/court-continues-privacy-erosion",
       "destination": "/library/policy/court-continues-privacy-erosion",
       "permanent": true
     },
@@ -3189,7 +3084,7 @@
       "permanent": true
     },
     {
-      "source": "/Le-Dain-Interim-Report/cannabis.html",
+      "source": "/Le-Dain-Interim-Report/cannabis",
       "destination": "/reports/le-dain-interim-report/cannabis",
       "permanent": true
     },
@@ -3204,12 +3099,7 @@
       "permanent": true
     },
     {
-      "source": "/staff/Print.html",
-      "destination": "/about",
-      "permanent": true
-    },
-    {
-      "source": "/staff/",
+      "source": "/staff/Print",
       "destination": "/about",
       "permanent": true
     },
@@ -3224,7 +3114,7 @@
       "permanent": true
     },
     {
-      "source": "/library/reports/cu/cu5.html",
+      "source": "/library/reports/cu/cu5",
       "destination": "/reports/consumers-union-licit-illicit-drugs/some-eminent-narcotics-addicts",
       "permanent": true
     },
@@ -3249,7 +3139,7 @@
       "permanent": true
     },
     {
-      "source": "/library/psychedelics/default/",
+      "source": "/library/psychedelics/default",
       "destination": "/library/psychedelics",
       "permanent": true
     },
@@ -3259,28 +3149,23 @@
       "permanent": true
     },
     {
-      "source": "/psychedelics/default/",
+      "source": "/psychedelics/default",
       "destination": "/library/psychedelics",
       "permanent": true
     },
     {
-      "source": "/DPF-The-Pioneers-of-Reform-1996/nativism-in-the-passage-of-the-marijuana-tax-act-of-1937/Print.html",
+      "source": "/DPF-The-Pioneers-of-Reform-1996/nativism-in-the-passage-of-the-marijuana-tax-act-of-1937/Print",
       "destination": "/library/cannabis/nativism-marijuana-tax-act-1937",
       "permanent": true
     },
     {
-      "source": "/DPF-The-Pioneers-of-Reform-1996/nativism-in-the-passage-of-the-marijuana-tax-act-of-1937.html",
+      "source": "/DPF-The-Pioneers-of-Reform-1996/nativism-in-the-passage-of-the-marijuana-tax-act-of-1937",
       "destination": "/library/cannabis/nativism-marijuana-tax-act-1937",
       "permanent": true
     },
     {
       "source": "/DPF-The-Pioneers-of-Reform-1996/nativism-in-the-passage-of-the-marijuana-tax-act-of-1937.htm",
       "destination": "/library/cannabis/nativism-marijuana-tax-act-1937",
-      "permanent": true
-    },
-    {
-      "source": "/component/option,com_mailto/:rest*",
-      "destination": "/",
       "permanent": true
     },
     {
@@ -3359,7 +3244,7 @@
       "permanent": true
     },
     {
-      "source": "/library/books/methadone/section3.html",
+      "source": "/library/books/methadone/section3",
       "destination": "/library/methadone/methadone-briefing/section-3-methadone-preparations",
       "permanent": true
     },
@@ -3374,17 +3259,7 @@
       "permanent": true
     },
     {
-      "source": "/Table/Addiction/",
-      "destination": "/library/addiction",
-      "permanent": true
-    },
-    {
       "source": "/Table/Addiction",
-      "destination": "/library/addiction",
-      "permanent": true
-    },
-    {
-      "source": "/table/addiction/",
       "destination": "/library/addiction",
       "permanent": true
     },
@@ -3484,7 +3359,7 @@
       "permanent": true
     },
     {
-      "source": "/sub/pcp1.html",
+      "source": "/sub/pcp1",
       "destination": "/library/psychedelics/pcp-and-ketamine",
       "permanent": true
     },
@@ -3554,7 +3429,7 @@
       "permanent": true
     },
     {
-      "source": "/EMCDDA-Report-on-the-risk-assessment-of-mephedrone/3-chemical-precursors-that-are-used-for-the-manufacture-of-mephedrone.html",
+      "source": "/EMCDDA-Report-on-the-risk-assessment-of-mephedrone/3-chemical-precursors-that-are-used-for-the-manufacture-of-mephedrone",
       "destination": "/reports/emcdda-mephedrone-risk-assessment/chemical-precursors-used-for-manufacture",
       "permanent": true
     },
@@ -3574,7 +3449,7 @@
       "permanent": true
     },
     {
-      "source": "/articles/christie1.html",
+      "source": "/articles/christie1",
       "destination": "/library/policy/reflections-on-drugs",
       "permanent": true
     },
@@ -3584,7 +3459,7 @@
       "permanent": true
     },
     {
-      "source": "/library/articles/christie1.html",
+      "source": "/library/articles/christie1",
       "destination": "/library/policy/reflections-on-drugs",
       "permanent": true
     },
@@ -3594,7 +3469,7 @@
       "permanent": true
     },
     {
-      "source": "/Recreational-Drugs/amphetamines.html",
+      "source": "/Recreational-Drugs/amphetamines",
       "destination": "/library/amphetamines/recreational-drugs",
       "permanent": true
     },
@@ -3619,7 +3494,7 @@
       "permanent": true
     },
     {
-      "source": "/count/portugal/portugal2.html",
+      "source": "/count/portugal/portugal2",
       "destination": "/library/policy/countries/portugal-drug-history",
       "permanent": true
     },
@@ -3639,7 +3514,7 @@
       "permanent": true
     },
     {
-      "source": "/Cannabis-and-Culture/ethnobotanical-aspects-of-cannabis-in-southeast-asia.html",
+      "source": "/Cannabis-and-Culture/ethnobotanical-aspects-of-cannabis-in-southeast-asia",
       "destination": "/library/cannabis/cannabis-and-culture/ethnobotanical-aspects-southeast-asia",
       "permanent": true
     },
@@ -3654,7 +3529,7 @@
       "permanent": true
     },
     {
-      "source": "/articles/97824.html",
+      "source": "/articles/97824",
       "destination": "/library/policy/fear-of-drugs",
       "permanent": true
     },
@@ -3664,7 +3539,7 @@
       "permanent": true
     },
     {
-      "source": "/library/articles/97824.html",
+      "source": "/library/articles/97824",
       "destination": "/library/policy/fear-of-drugs",
       "permanent": true
     },
@@ -3674,7 +3549,7 @@
       "permanent": true
     },
     {
-      "source": "/LaGuardia-Committee-Report/the-sociological-study.html",
+      "source": "/LaGuardia-Committee-Report/the-sociological-study",
       "destination": "/reports/laguardia-committee-report/the-sociological-study",
       "permanent": true
     },
@@ -3689,7 +3564,7 @@
       "permanent": true
     },
     {
-      "source": "/drcnet/wol/archives.html",
+      "source": "/drcnet/wol/archives",
       "destination": "/library/policy",
       "permanent": true
     },
@@ -3699,17 +3574,7 @@
       "permanent": true
     },
     {
-      "source": "/Table/LaGuardia-Committee-Report/",
-      "destination": "/reports/laguardia-committee-report",
-      "permanent": true
-    },
-    {
       "source": "/Table/LaGuardia-Committee-Report",
-      "destination": "/reports/laguardia-committee-report",
-      "permanent": true
-    },
-    {
-      "source": "/table/laguardia-committee-report/",
       "destination": "/reports/laguardia-committee-report",
       "permanent": true
     },
@@ -3724,7 +3589,7 @@
       "permanent": true
     },
     {
-      "source": "/Cannabis-and-Culture/the-social-nexus-of-ganja-in-jamaica.html",
+      "source": "/Cannabis-and-Culture/the-social-nexus-of-ganja-in-jamaica",
       "destination": "/library/cannabis/cannabis-and-culture/social-nexus-of-ganja-in-jamaica",
       "permanent": true
     },
@@ -3739,7 +3604,7 @@
       "permanent": true
     },
     {
-      "source": "/drcnet/wol/102.html",
+      "source": "/drcnet/wol/102",
       "destination": "/library/policy/drcnet-week-online/issue-102",
       "permanent": true
     },
@@ -3779,7 +3644,7 @@
       "permanent": true
     },
     {
-      "source": "/articles/sweden1.html",
+      "source": "/articles/sweden1",
       "destination": "/library/policy/sweden-the-paragon-in-a-different-light",
       "permanent": true
     },
@@ -3789,7 +3654,7 @@
       "permanent": true
     },
     {
-      "source": "/library/articles/sweden1.html",
+      "source": "/library/articles/sweden1",
       "destination": "/library/policy/sweden-the-paragon-in-a-different-light",
       "permanent": true
     },
@@ -3806,11 +3671,6 @@
     {
       "source": "/articles/923203.htm",
       "destination": "/library/policy/legalisation-or-harm-reduction",
-      "permanent": true
-    },
-    {
-      "source": "/harmreduction/",
-      "destination": "/library/harm-reduction",
       "permanent": true
     },
     {
@@ -3834,11 +3694,6 @@
       "permanent": true
     },
     {
-      "source": "/ecdp/",
-      "destination": "/library/policy",
-      "permanent": true
-    },
-    {
       "source": "/ecdp",
       "destination": "/library/policy",
       "permanent": true
@@ -3859,7 +3714,7 @@
       "permanent": true
     },
     {
-      "source": "/FAMM/",
+      "source": "/FAMM",
       "destination": "/library/policy/families-against-mandatory-minimums",
       "permanent": true
     },
@@ -3874,7 +3729,7 @@
       "permanent": true
     },
     {
-      "source": "/famm/",
+      "source": "/famm",
       "destination": "/library/policy/families-against-mandatory-minimums",
       "permanent": true
     },
@@ -3894,7 +3749,7 @@
       "permanent": true
     },
     {
-      "source": "/Cannabis-and-Culture/cannabis-an-example-of-taxonomic-neglect.html",
+      "source": "/Cannabis-and-Culture/cannabis-an-example-of-taxonomic-neglect",
       "destination": "/library/cannabis/cannabis-and-culture/cannabis-an-example-of-taxonomic-neglect",
       "permanent": true
     },
@@ -3909,7 +3764,7 @@
       "permanent": true
     },
     {
-      "source": "/Psychopharmacology/alcohol.html",
+      "source": "/Psychopharmacology/alcohol",
       "destination": "/library/alcohol/psychopharmacology",
       "permanent": true
     },
@@ -3954,12 +3809,12 @@
       "permanent": true
     },
     {
-      "source": "/Marijuana-The-New-Prohibition/iv-marijuana-and-aggression/Print.html",
+      "source": "/Marijuana-The-New-Prohibition/iv-marijuana-and-aggression/Print",
       "destination": "/library/cannabis/marijuana-the-new-prohibition/marijuana-and-aggression",
       "permanent": true
     },
     {
-      "source": "/Marijuana-The-New-Prohibition/iv-marijuana-and-aggression.html",
+      "source": "/Marijuana-The-New-Prohibition/iv-marijuana-and-aggression",
       "destination": "/library/cannabis/marijuana-the-new-prohibition/marijuana-and-aggression",
       "permanent": true
     },
@@ -3984,17 +3839,7 @@
       "permanent": true
     },
     {
-      "source": "/Marihuana/",
-      "destination": "/library/cannabis/marihuana-the-first-12000-years",
-      "permanent": true
-    },
-    {
       "source": "/Marihuana",
-      "destination": "/library/cannabis/marihuana-the-first-12000-years",
-      "permanent": true
-    },
-    {
-      "source": "/marihuana/",
       "destination": "/library/cannabis/marihuana-the-first-12000-years",
       "permanent": true
     },
@@ -4034,7 +3879,7 @@
       "permanent": true
     },
     {
-      "source": "/Behavioral-Social-Effects-of-Marijuana/hunger-and-appetite-after-single-doses-of-marihuana-alcohol-and-dextroamphetamine.html",
+      "source": "/Behavioral-Social-Effects-of-Marijuana/hunger-and-appetite-after-single-doses-of-marihuana-alcohol-and-dextroamphetamine",
       "destination": "/library/cannabis/hunger-and-appetite-after-marihuana-alcohol-dextroamphetamine",
       "permanent": true
     },
@@ -4056,16 +3901,6 @@
     {
       "source": "/articles/97811.htm",
       "destination": "/library/harm-reduction/aids-drugs-and-risk-behaviour-in-prison",
-      "permanent": true
-    },
-    {
-      "source": "/Table/Wickersham-Commission-Report/",
-      "destination": "/reports/wickersham-commission",
-      "permanent": true
-    },
-    {
-      "source": "/table/wickersham-commission-report/",
-      "destination": "/reports/wickersham-commission",
       "permanent": true
     },
     {
@@ -4139,7 +3974,7 @@
       "permanent": true
     },
     {
-      "source": "/Tastes-of-Paradise/two-coffee-and-the-protestant-ethic.html",
+      "source": "/Tastes-of-Paradise/two-coffee-and-the-protestant-ethic",
       "destination": "/library/tastes-of-paradise/coffee-and-the-protestant-ethic",
       "permanent": true
     },
@@ -4164,12 +3999,12 @@
       "permanent": true
     },
     {
-      "source": "/library/legal/verdicft.html",
+      "source": "/library/legal/verdicft",
       "destination": "/library/legal/basic-principles",
       "permanent": true
     },
     {
-      "source": "/legal/verdicft.html",
+      "source": "/legal/verdicft",
       "destination": "/library/legal/basic-principles",
       "permanent": true
     },
@@ -4199,7 +4034,7 @@
       "permanent": true
     },
     {
-      "source": "/Cocaine-the-Legend/foreword.html",
+      "source": "/Cocaine-the-Legend/foreword",
       "destination": "/library/cocaine/coca/foreword-and-introduction",
       "permanent": true
     },
@@ -4209,12 +4044,12 @@
       "permanent": true
     },
     {
-      "source": "/Table/Cocaine-the-Legend/",
+      "source": "/Table/Cocaine-the-Legend",
       "destination": "/library/cocaine/coca",
       "permanent": true
     },
     {
-      "source": "/articles/WRaltnet.html",
+      "source": "/articles/WRaltnet",
       "destination": "/library/cannabis/the-wootton-retort",
       "permanent": true
     },
@@ -4239,17 +4074,7 @@
       "permanent": true
     },
     {
-      "source": "/library/books/grivas/",
-      "destination": "/library/cannabis/cannabis-marihuana-hashish",
-      "permanent": true
-    },
-    {
       "source": "/library/books/grivas",
-      "destination": "/library/cannabis/cannabis-marihuana-hashish",
-      "permanent": true
-    },
-    {
-      "source": "/books/grivas/",
       "destination": "/library/cannabis/cannabis-marihuana-hashish",
       "permanent": true
     },
@@ -4269,7 +4094,7 @@
       "permanent": true
     },
     {
-      "source": "/articles/howmar1.html",
+      "source": "/articles/howmar1",
       "destination": "/library/cannabis/the-supply-of-legal-cannabis",
       "permanent": true
     },
@@ -4279,7 +4104,7 @@
       "permanent": true
     },
     {
-      "source": "/library/articles/howmar1.html",
+      "source": "/library/articles/howmar1",
       "destination": "/library/cannabis/the-supply-of-legal-cannabis",
       "permanent": true
     },
@@ -4299,7 +4124,7 @@
       "permanent": true
     },
     {
-      "source": "/articles/cannabis2.html",
+      "source": "/articles/cannabis2",
       "destination": "/library/cannabis/psychiatric-aspects-of-marihuana-intoxication",
       "permanent": true
     },
@@ -4309,7 +4134,7 @@
       "permanent": true
     },
     {
-      "source": "/library/articles/cannabis2.html",
+      "source": "/library/articles/cannabis2",
       "destination": "/library/cannabis/psychiatric-aspects-of-marihuana-intoxication",
       "permanent": true
     },
@@ -4319,7 +4144,7 @@
       "permanent": true
     },
     {
-      "source": "/sub/cannabis1.html",
+      "source": "/sub/cannabis1",
       "destination": "/library/cannabis/overview",
       "permanent": true
     },
@@ -4329,12 +4154,12 @@
       "permanent": true
     },
     {
-      "source": "/Addiction/psychopathology-in-drug-dependent-individuals-a-clinical-review.html",
+      "source": "/Addiction/psychopathology-in-drug-dependent-individuals-a-clinical-review",
       "destination": "/library/addiction/psychopathology-in-drug-dependent-individuals",
       "permanent": true
     },
     {
-      "source": "/addiction/psychopathology-in-drug-dependent-individuals-a-clinical-review.html",
+      "source": "/addiction/psychopathology-in-drug-dependent-individuals-a-clinical-review",
       "destination": "/library/addiction/psychopathology-in-drug-dependent-individuals",
       "permanent": true
     },
@@ -4369,11 +4194,6 @@
       "permanent": true
     },
     {
-      "source": "/press/lists/",
-      "destination": "/library/policy",
-      "permanent": true
-    },
-    {
       "source": "/press/lists",
       "destination": "/library/policy",
       "permanent": true
@@ -4384,7 +4204,7 @@
       "permanent": true
     },
     {
-      "source": "/articles/bmj1.html",
+      "source": "/articles/bmj1",
       "destination": "/library/policy/bmj-the-war-on-drugs",
       "permanent": true
     },
@@ -4409,7 +4229,7 @@
       "permanent": true
     },
     {
-      "source": "/Marihuana/bibliography.html",
+      "source": "/Marihuana/bibliography",
       "destination": "/library/cannabis/marihuana-the-first-12000-years/bibliography",
       "permanent": true
     },
@@ -4419,7 +4239,7 @@
       "permanent": true
     },
     {
-      "source": "/The-Peyote-Cult/bibliography.html",
+      "source": "/The-Peyote-Cult/bibliography",
       "destination": "/library/cannabis/marihuana-the-first-12000-years/bibliography",
       "permanent": true
     },
@@ -4429,7 +4249,7 @@
       "permanent": true
     },
     {
-      "source": "/frontpage.html",
+      "source": "/frontpage",
       "destination": "/",
       "permanent": true
     },
@@ -4439,7 +4259,7 @@
       "permanent": true
     },
     {
-      "source": "/Cannabis-marijuana-hashisch/recent-developments-in-cannabis-chemistry.html",
+      "source": "/Cannabis-marijuana-hashisch/recent-developments-in-cannabis-chemistry",
       "destination": "/library/cannabis/recent-developments-in-cannabis-chemistry",
       "permanent": true
     },
@@ -4454,7 +4274,7 @@
       "permanent": true
     },
     {
-      "source": "/Hallucinogens-and-Culture/chapter-four-ibogaine-and-the-vine-of-souls-from-tropical-forest-ritual-to-psychotherapy.html",
+      "source": "/Hallucinogens-and-Culture/chapter-four-ibogaine-and-the-vine-of-souls-from-tropical-forest-ritual-to-psychotherapy",
       "destination": "/library/psychedelics/hallucinogens-and-culture/ibogaine-and-the-vine-of-souls",
       "permanent": true
     },
@@ -4479,7 +4299,7 @@
       "permanent": true
     },
     {
-      "source": "/The-Psychedelics/the-church-of-the-awakening.html",
+      "source": "/The-Psychedelics/the-church-of-the-awakening",
       "destination": "/library/psychedelics/the-psychedelics/the-church-of-the-awakening",
       "permanent": true
     },
@@ -4494,7 +4314,7 @@
       "permanent": true
     },
     {
-      "source": "/library/reports/baan/baan8.html",
+      "source": "/library/reports/baan/baan8",
       "destination": "/reports/baan-commission/cannabis-hoofdstuk-6",
       "permanent": true
     },
@@ -4509,7 +4329,7 @@
       "permanent": true
     },
     {
-      "source": "/Addiction-and-Opiates/appendix.html",
+      "source": "/Addiction-and-Opiates/appendix",
       "destination": "/library/addiction/addiction-and-opiates/appendix-kinds-of-drugs-and-methods-of-use",
       "permanent": true
     },
@@ -4524,22 +4344,22 @@
       "permanent": true
     },
     {
-      "source": "/Opium-and-the-People/appendix.html",
+      "source": "/Opium-and-the-People/appendix",
       "destination": "/library/addiction/addiction-and-opiates/appendix-kinds-of-drugs-and-methods-of-use",
       "permanent": true
     },
     {
-      "source": "/Dealing-with-Drugs/8-the-market-for-heroin-before-and-after-legalization.html",
+      "source": "/Dealing-with-Drugs/8-the-market-for-heroin-before-and-after-legalization",
       "destination": "/library/policy/dealing-with-drugs/market-for-heroin-before-and-after-legalization",
       "permanent": true
     },
     {
-      "source": "/Opiates-heroin-methadone/speculations-on-the-nature-and-pattern-of-opium-smoking.html",
+      "source": "/Opiates-heroin-methadone/speculations-on-the-nature-and-pattern-of-opium-smoking",
       "destination": "/library/heroin/speculations-on-the-nature-and-pattern-of-opium-smoking",
       "permanent": true
     },
     {
-      "source": "/Drugs-The-Public/what-is-the-drug-issue-an-overview.html",
+      "source": "/Drugs-The-Public/what-is-the-drug-issue-an-overview",
       "destination": "/library/policy/drugs-and-the-public/what-is-the-drug-issue-an-overview",
       "permanent": true
     },
@@ -4549,23 +4369,18 @@
       "permanent": true
     },
     {
-      "source": "/library/articles/ricaurte.html",
+      "source": "/library/articles/ricaurte",
       "destination": "/library/mdma/studies-of-mdma-ricaurte",
       "permanent": true
     },
     {
-      "source": "/reports/cu/cu8.html",
+      "source": "/reports/cu/cu8",
       "destination": "/reports/consumers-union-licit-illicit-drugs/the-harrison-narcotic-act-1914",
       "permanent": true
     },
     {
-      "source": "/library/reports/cu/cu8.html",
+      "source": "/library/reports/cu/cu8",
       "destination": "/reports/consumers-union-licit-illicit-drugs/the-harrison-narcotic-act-1914",
-      "permanent": true
-    },
-    {
-      "source": "/reports/wvc/",
-      "destination": "/reports/dutch-drug-policy-continuity-and-change",
       "permanent": true
     },
     {
@@ -4574,7 +4389,7 @@
       "permanent": true
     },
     {
-      "source": "/library/reports/cu/cu24.html",
+      "source": "/library/reports/cu/cu24",
       "destination": "/reports/consumers-union-licit-illicit-drugs/the-case-of-dr-sigmund-freud",
       "permanent": true
     },
@@ -4584,12 +4399,12 @@
       "permanent": true
     },
     {
-      "source": "/The-Legislation-of-Morality/notes.html",
+      "source": "/The-Legislation-of-Morality/notes",
       "destination": "/library/policy/the-legislation-of-morality/notes",
       "permanent": true
     },
     {
-      "source": "/count/nl1.html",
+      "source": "/count/nl1",
       "destination": "/library/policy/countries/netherlands",
       "permanent": true
     },
@@ -4599,12 +4414,12 @@
       "permanent": true
     },
     {
-      "source": "/Hallucinogens-and-Culture/chapter-seven-the-sacred-mushrooms-rediscovery-in-mexico.html",
+      "source": "/Hallucinogens-and-Culture/chapter-seven-the-sacred-mushrooms-rediscovery-in-mexico",
       "destination": "/library/psychedelics/hallucinogens-and-culture/the-sacred-mushrooms-rediscovery-in-mexico",
       "permanent": true
     },
     {
-      "source": "/sub/sub.html",
+      "source": "/sub/sub",
       "destination": "/library",
       "permanent": true
     },
@@ -4624,22 +4439,22 @@
       "permanent": true
     },
     {
-      "source": "/press/cannabis-european-union-will-not-block-eu-member-states/Print.html",
+      "source": "/press/cannabis-european-union-will-not-block-eu-member-states/Print",
       "destination": "/library/cannabis/eu-will-not-block-member-states",
       "permanent": true
     },
     {
-      "source": "/articles/3715-cannabis-european-union-will-not-block-eu-member-states.html",
+      "source": "/articles/3715-cannabis-european-union-will-not-block-eu-member-states",
       "destination": "/library/cannabis/eu-will-not-block-member-states",
       "permanent": true
     },
     {
-      "source": "/library/articles/94-const.html",
+      "source": "/library/articles/94-const",
       "destination": "/library/policy/symbolic-criminal-law-without-limits",
       "permanent": true
     },
     {
-      "source": "/International-national-drug-policy/the-swedish-narcotics-control-private-model-a-critical-assessment.html",
+      "source": "/International-national-drug-policy/the-swedish-narcotics-control-private-model-a-critical-assessment",
       "destination": "/library/policy/swedish-narcotics-control-private-model",
       "permanent": true
     },
@@ -4649,22 +4464,22 @@
       "permanent": true
     },
     {
-      "source": "/Influence-of-Marijuana-on-Driving/cover.html",
+      "source": "/Influence-of-Marijuana-on-Driving/cover",
       "destination": "/reports/influence-of-marijuana-on-driving",
       "permanent": true
     },
     {
-      "source": "/Table/Influence-of-Marijuana-on-Driving/",
+      "source": "/Table/Influence-of-Marijuana-on-Driving",
       "destination": "/reports/influence-of-marijuana-on-driving",
       "permanent": true
     },
     {
-      "source": "/American-Diplomacy-and-the-narcotics-traffic/chapter-5-opium-as-a-domestic-and-international-issue-1914-1924/Print.html",
+      "source": "/American-Diplomacy-and-the-narcotics-traffic/chapter-5-opium-as-a-domestic-and-international-issue-1914-1924/Print",
       "destination": "/library/policy/american-diplomacy-and-the-narcotics-traffic/opium-as-a-domestic-and-international-issue-1914-1924",
       "permanent": true
     },
     {
-      "source": "/American-Diplomacy-and-the-narcotics-traffic/chapter-5-opium-as-a-domestic-and-international-issue-1914-1924.html",
+      "source": "/American-Diplomacy-and-the-narcotics-traffic/chapter-5-opium-as-a-domestic-and-international-issue-1914-1924",
       "destination": "/library/policy/american-diplomacy-and-the-narcotics-traffic/opium-as-a-domestic-and-international-issue-1914-1924",
       "permanent": true
     },
@@ -4679,7 +4494,7 @@
       "permanent": true
     },
     {
-      "source": "/library/legal/aids/usa/federal/21_606.html",
+      "source": "/library/legal/aids/usa/federal/21_606",
       "destination": "/library/legal/cfr-21-606-blood-good-manufacturing-practice",
       "permanent": true
     },
@@ -4719,17 +4534,17 @@
       "permanent": true
     },
     {
-      "source": "/IJDP/95618.html",
+      "source": "/IJDP/95618",
       "destination": "/library/harm-reduction/needle-exchange-and-bleach-distribution",
       "permanent": true
     },
     {
-      "source": "/ijdp/95618.html",
+      "source": "/ijdp/95618",
       "destination": "/library/harm-reduction/needle-exchange-and-bleach-distribution",
       "permanent": true
     },
     {
-      "source": "/Recreational-Drugs/amanita-muscaria.html",
+      "source": "/Recreational-Drugs/amanita-muscaria",
       "destination": "/library/amanita-muscaria/recreational-drugs",
       "permanent": true
     },
@@ -4739,37 +4554,37 @@
       "permanent": true
     },
     {
-      "source": "/Psychopharmacology/barbiturates.html",
+      "source": "/Psychopharmacology/barbiturates",
       "destination": "/library/barbiturates/psychopharmacology",
       "permanent": true
     },
     {
-      "source": "/Recreational-Drugs/barbiturates.html",
+      "source": "/Recreational-Drugs/barbiturates",
       "destination": "/library/barbiturates/psychopharmacology",
       "permanent": true
     },
     {
-      "source": "/articles/806-a-simple-safer-route-of-drug-taking-or-a-squirt-too-far.html",
+      "source": "/articles/806-a-simple-safer-route-of-drug-taking-or-a-squirt-too-far",
       "destination": "/library/harm-reduction/safer-route-of-drug-taking",
       "permanent": true
     },
     {
-      "source": "/Education-and-Prevention/a-simple-safer-route-of-drug-taking-or-a-squirt-too-far.html",
+      "source": "/Education-and-Prevention/a-simple-safer-route-of-drug-taking-or-a-squirt-too-far",
       "destination": "/library/harm-reduction/safer-route-of-drug-taking",
       "permanent": true
     },
     {
-      "source": "/library/books/needle/routesm.html",
+      "source": "/library/books/needle/routesm",
       "destination": "/library/harm-reduction/routes-of-administration",
       "permanent": true
     },
     {
-      "source": "/The-health-and-socio-economic-aspects-of-Khat-use/khat-consumption-and-problems-in-somalia.html",
+      "source": "/The-health-and-socio-economic-aspects-of-Khat-use/khat-consumption-and-problems-in-somalia",
       "destination": "/library/khat/consumption-and-problems-in-somalia",
       "permanent": true
     },
     {
-      "source": "/The-Addict-and-the-Law/chapter-4-the-number-of-addicts-and-recruitment-patterns.html",
+      "source": "/The-Addict-and-the-Law/chapter-4-the-number-of-addicts-and-recruitment-patterns",
       "destination": "/library/addiction/the-addict-and-the-law/number-of-addicts-and-recruitment-patterns",
       "permanent": true
     },
@@ -4809,17 +4624,17 @@
       "permanent": true
     },
     {
-      "source": "/library/articles/rowe1.html",
+      "source": "/library/articles/rowe1",
       "destination": "/library/policy/drug-law-reform-in-australia",
       "permanent": true
     },
     {
-      "source": "/library/articles/marijuan.html",
+      "source": "/library/articles/marijuan",
       "destination": "/library/cannabis/exposing-marijuana-myths",
       "permanent": true
     },
     {
-      "source": "/articles/marijuan.html",
+      "source": "/articles/marijuan",
       "destination": "/library/cannabis/exposing-marijuana-myths",
       "permanent": true
     },
@@ -4829,17 +4644,17 @@
       "permanent": true
     },
     {
-      "source": "/ijdp/94526.html",
+      "source": "/ijdp/94526",
       "destination": "/library/policy/prevention-programmes-for-adolescents-usa",
       "permanent": true
     },
     {
-      "source": "/library/articles/94526.html",
+      "source": "/library/articles/94526",
       "destination": "/library/policy/prevention-programmes-for-adolescents-usa",
       "permanent": true
     },
     {
-      "source": "/Cannabis-and-Culture/cannabis-in-nepal-an-overview.html",
+      "source": "/Cannabis-and-Culture/cannabis-in-nepal-an-overview",
       "destination": "/library/cannabis/cannabis-and-culture/cannabis-in-nepal-an-overview",
       "permanent": true
     },
@@ -4849,17 +4664,17 @@
       "permanent": true
     },
     {
-      "source": "/Search.html",
+      "source": "/Search",
       "destination": "/",
       "permanent": true
     },
     {
-      "source": "/Behind-the-Wall-of-Respect/preface.html",
+      "source": "/Behind-the-Wall-of-Respect/preface",
       "destination": "/library/addiction/behind-the-wall-of-respect/preface",
       "permanent": true
     },
     {
-      "source": "/Drug-Use-as-a-Social-Ritual/19-summary.html",
+      "source": "/Drug-Use-as-a-Social-Ritual/19-summary",
       "destination": "/library/harm-reduction/drug-use-as-social-ritual/summary",
       "permanent": true
     },
@@ -4874,17 +4689,17 @@
       "permanent": true
     },
     {
-      "source": "/Cannabis-marijuana-hashisch/pharmacologic-effects-of-marijuana.html",
+      "source": "/Cannabis-marijuana-hashisch/pharmacologic-effects-of-marijuana",
       "destination": "/library/cannabis/pharmacologic-effects-of-marijuana",
       "permanent": true
     },
     {
-      "source": "/drcnet/wol/125.html",
+      "source": "/drcnet/wol/125",
       "destination": "/library/policy/drcnet-week-online/issue-125",
       "permanent": true
     },
     {
-      "source": "/The-Marijuana-Question/1-the-stepping-stone-theory.html",
+      "source": "/The-Marijuana-Question/1-the-stepping-stone-theory",
       "destination": "/library/cannabis/the-marijuana-question/the-stepping-stone-theory",
       "permanent": true
     },
@@ -4894,27 +4709,27 @@
       "permanent": true
     },
     {
-      "source": "/articles/696-psychonautics-a-model-and-method-for-exploring-the-subjective-effects-of-psychoactive-drugs.html",
+      "source": "/articles/696-psychonautics-a-model-and-method-for-exploring-the-subjective-effects-of-psychoactive-drugs",
       "destination": "/library/psychedelics/psychonautics-model-and-method",
       "permanent": true
     },
     {
-      "source": "/Psychedelics/psychonautics-a-model-and-method-for-exploring-the-subjective-effects-of-psychoactive-drugs.html",
+      "source": "/Psychedelics/psychonautics-a-model-and-method-for-exploring-the-subjective-effects-of-psychoactive-drugs",
       "destination": "/library/psychedelics/psychonautics-model-and-method",
       "permanent": true
     },
     {
-      "source": "/Crime-police-trafficking/the-theory-a-practice-of-drug-related-crime/Print.html",
+      "source": "/Crime-police-trafficking/the-theory-a-practice-of-drug-related-crime/Print",
       "destination": "/library/policy/theory-and-practice-of-drug-related-crime",
       "permanent": true
     },
     {
-      "source": "/Crime-police-trafficking/the-theory-a-practice-of-drug-related-crime.html",
+      "source": "/Crime-police-trafficking/the-theory-a-practice-of-drug-related-crime",
       "destination": "/library/policy/theory-and-practice-of-drug-related-crime",
       "permanent": true
     },
     {
-      "source": "/The-Drugtakers/4-the-origins-of-drug-use.html",
+      "source": "/The-Drugtakers/4-the-origins-of-drug-use",
       "destination": "/library/policy/the-drugtakers/the-origins-of-drug-use",
       "permanent": true
     },
@@ -4924,27 +4739,27 @@
       "permanent": true
     },
     {
-      "source": "/The-Drugtakers/6-the-subterranean-world-of-play.html",
+      "source": "/The-Drugtakers/6-the-subterranean-world-of-play",
       "destination": "/library/policy/the-drugtakers/the-subterranean-world-of-play",
       "permanent": true
     },
     {
-      "source": "/ecstasy/russell.html",
+      "source": "/ecstasy/russell",
       "destination": "/library/mdma/ecstasy-deaths",
       "permanent": true
     },
     {
-      "source": "/library/articles/945411.html",
+      "source": "/library/articles/945411",
       "destination": "/library/cannabis/recent-changes-in-the-dutch-cannabis-trade",
       "permanent": true
     },
     {
-      "source": "/Cannabis-and-Culture/peyote-and-huichol-worldview-the-structure-of-a-mystic-vision/Print.html",
+      "source": "/Cannabis-and-Culture/peyote-and-huichol-worldview-the-structure-of-a-mystic-vision/Print",
       "destination": "/library/cannabis/cannabis-and-culture/peyote-and-huichol-worldview",
       "permanent": true
     },
     {
-      "source": "/Cannabis-and-Culture/peyote-and-huichol-worldview-the-structure-of-a-mystic-vision.html",
+      "source": "/Cannabis-and-Culture/peyote-and-huichol-worldview-the-structure-of-a-mystic-vision",
       "destination": "/library/cannabis/cannabis-and-culture/peyote-and-huichol-worldview",
       "permanent": true
     },
@@ -4956,11 +4771,6 @@
     {
       "source": "/library/books/adlaw/chapter09.htm",
       "destination": "/library/addiction/the-addict-and-the-law/obstacles-to-reform",
-      "permanent": true
-    },
-    {
-      "source": "/library/articles/",
-      "destination": "/library",
       "permanent": true
     },
     {
@@ -4979,22 +4789,22 @@
       "permanent": true
     },
     {
-      "source": "/Dealing-with-Drugs/9-the-morality-of-drug-controls/Print.html",
+      "source": "/Dealing-with-Drugs/9-the-morality-of-drug-controls/Print",
       "destination": "/library/policy/dealing-with-drugs/morality-of-drug-controls",
       "permanent": true
     },
     {
-      "source": "/Dealing-with-Drugs/9-the-morality-of-drug-controls.html",
+      "source": "/Dealing-with-Drugs/9-the-morality-of-drug-controls",
       "destination": "/library/policy/dealing-with-drugs/morality-of-drug-controls",
       "permanent": true
     },
     {
-      "source": "/The-American-Disease/9-marihuana-and-the-federal-bureau-of-narcotics.html",
+      "source": "/The-American-Disease/9-marihuana-and-the-federal-bureau-of-narcotics",
       "destination": "/library/policy/the-american-disease/marihuana-and-the-federal-bureau-of-narcotics",
       "permanent": true
     },
     {
-      "source": "/articles/101a.html",
+      "source": "/articles/101a",
       "destination": "/library/policy/informers-and-the-police",
       "permanent": true
     },
@@ -5009,7 +4819,7 @@
       "permanent": true
     },
     {
-      "source": "/press/cannabis-issue-medical-cannabis-industry-thrives-even-as-the-economy-and-legalization-movement-sputter.html",
+      "source": "/press/cannabis-issue-medical-cannabis-industry-thrives-even-as-the-economy-and-legalization-movement-sputter",
       "destination": "/library/cannabis/medical-cannabis-industry-thrives",
       "permanent": true
     },
@@ -5029,7 +4839,7 @@
       "permanent": true
     },
     {
-      "source": "/Table/Dealing-with-Drugs/",
+      "source": "/Table/Dealing-with-Drugs",
       "destination": "/library/policy/dealing-with-drugs",
       "permanent": true
     },
@@ -5049,7 +4859,7 @@
       "permanent": true
     },
     {
-      "source": "/sub/opiat1.html",
+      "source": "/sub/opiat1",
       "destination": "/library/heroin",
       "permanent": true
     },
@@ -5064,17 +4874,17 @@
       "permanent": true
     },
     {
-      "source": "/Law-and-treaties/european-integration-and-harmonization.html",
+      "source": "/Law-and-treaties/european-integration-and-harmonization",
       "destination": "/reports/european-drug-laws",
       "permanent": true
     },
     {
-      "source": "/Dance/party-drugs-clubbing/ketamine-and-the-people.html",
+      "source": "/Dance/party-drugs-clubbing/ketamine-and-the-people",
       "destination": "/library/psychedelics",
       "permanent": true
     },
     {
-      "source": "/library/articles/923108.html",
+      "source": "/library/articles/923108",
       "destination": "/library",
       "permanent": true
     },
@@ -5091,6 +4901,11 @@
     {
       "source": "/pdf/Dance/party-drugs-clubbing/why-mdma-should-not-have-been-made-illegal.pdf",
       "destination": "/library/mdma",
+      "permanent": true
+    },
+    {
+      "source": "/component/option,com_mailto/:rest*",
+      "destination": "/",
       "permanent": true
     }
   ]
