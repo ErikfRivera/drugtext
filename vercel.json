@@ -12,6 +12,336 @@
       "source": "/library/research/mdma/archive/15/default.htm",
       "destination": "/library/mdma/substance-abuse-textbook",
       "permanent": true
+    },
+    {
+      "source": "/IJDP/95618.html",
+      "destination": "/library/harm-reduction/needle-exchange-and-bleach-distribution",
+      "permanent": true
+    },
+    {
+      "source": "/ijdp/95618.html",
+      "destination": "/library/harm-reduction/needle-exchange-and-bleach-distribution",
+      "permanent": true
+    },
+    {
+      "source": "/IJDP/95618.htm",
+      "destination": "/library/harm-reduction/needle-exchange-and-bleach-distribution",
+      "permanent": true
+    },
+    {
+      "source": "/ijdp/95618.htm",
+      "destination": "/library/harm-reduction/needle-exchange-and-bleach-distribution",
+      "permanent": true
+    },
+    {
+      "source": "/IJDP/95618Print.html",
+      "destination": "/library/harm-reduction/needle-exchange-and-bleach-distribution",
+      "permanent": true
+    },
+    {
+      "source": "/ijdp/95618Print.html",
+      "destination": "/library/harm-reduction/needle-exchange-and-bleach-distribution",
+      "permanent": true
+    },
+    {
+      "source": "/Recreational-Drugs/amanita-muscaria.html",
+      "destination": "/library/amanita-muscaria/recreational-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/recreational-drugs/amanita-muscaria.html",
+      "destination": "/library/amanita-muscaria/recreational-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/Recreational-Drugs/amanita-muscaria.htm",
+      "destination": "/library/amanita-muscaria/recreational-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/recreational-drugs/amanita-muscaria.htm",
+      "destination": "/library/amanita-muscaria/recreational-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/Recreational-Drugs/amanita-muscariaprint.html",
+      "destination": "/library/amanita-muscaria/recreational-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/recreational-drugs/amanita-muscariaprint.html",
+      "destination": "/library/amanita-muscaria/recreational-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/sub/parents/ketamine.htm",
+      "destination": "/library/psychedelics/ketamine",
+      "permanent": true
+    },
+    {
+      "source": "/sub/parents/ketamine.html",
+      "destination": "/library/psychedelics/ketamine",
+      "permanent": true
+    },
+    {
+      "source": "/Psychopharmacology/barbiturates.html",
+      "destination": "/library/barbiturates/psychopharmacology",
+      "permanent": true
+    },
+    {
+      "source": "/Psychopharmacology/barbiturates.htm",
+      "destination": "/library/barbiturates/psychopharmacology",
+      "permanent": true
+    },
+    {
+      "source": "/Psychopharmacology/barbiturates/Print.html",
+      "destination": "/library/barbiturates/psychopharmacology",
+      "permanent": true
+    },
+    {
+      "source": "/Recreational-Drugs/barbiturates.html",
+      "destination": "/library/barbiturates/psychopharmacology",
+      "permanent": true
+    },
+    {
+      "source": "/Recreational-Drugs/barbiturates.htm",
+      "destination": "/library/barbiturates/psychopharmacology",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/recreationaldrugs/barbiturates.htm",
+      "destination": "/library/barbiturates/psychopharmacology",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/recreationaldrugs/barbiturates.html",
+      "destination": "/library/barbiturates/psychopharmacology",
+      "permanent": true
+    },
+    {
+      "source": "/psychopharmacology/barbiturates.html",
+      "destination": "/library/barbiturates/psychopharmacology",
+      "permanent": true
+    },
+    {
+      "source": "/psychopharmacology/barbiturates.htm",
+      "destination": "/library/barbiturates/psychopharmacology",
+      "permanent": true
+    },
+    {
+      "source": "/recreational-drugs/barbiturates.html",
+      "destination": "/library/barbiturates/psychopharmacology",
+      "permanent": true
+    },
+    {
+      "source": "/recreational-drugs/barbiturates.htm",
+      "destination": "/library/barbiturates/psychopharmacology",
+      "permanent": true
+    },
+    {
+      "source": "/articles/806-a-simple-safer-route-of-drug-taking-or-a-squirt-too-far.html",
+      "destination": "/library/harm-reduction/safer-route-of-drug-taking",
+      "permanent": true
+    },
+    {
+      "source": "/Education-and-Prevention/a-simple-safer-route-of-drug-taking-or-a-squirt-too-far.html",
+      "destination": "/library/harm-reduction/safer-route-of-drug-taking",
+      "permanent": true
+    },
+    {
+      "source": "/articles/806-a-simple-safer-route-of-drug-taking-or-a-squirt-too-far.htm",
+      "destination": "/library/harm-reduction/safer-route-of-drug-taking",
+      "permanent": true
+    },
+    {
+      "source": "/Education-and-Prevention/a-simple-safer-route-of-drug-taking-or-a-squirt-too-far.htm",
+      "destination": "/library/harm-reduction/safer-route-of-drug-taking",
+      "permanent": true
+    },
+    {
+      "source": "/Education-and-Prevention/a-simple-safer-route-of-drug-taking-or-a-squirt-too-far/Print.html",
+      "destination": "/library/harm-reduction/safer-route-of-drug-taking",
+      "permanent": true
+    },
+    {
+      "source": "/education-and-prevention/a-simple-safer-route-of-drug-taking-or-a-squirt-too-far.html",
+      "destination": "/library/harm-reduction/safer-route-of-drug-taking",
+      "permanent": true
+    },
+    {
+      "source": "/education-and-prevention/a-simple-safer-route-of-drug-taking-or-a-squirt-too-far.htm",
+      "destination": "/library/harm-reduction/safer-route-of-drug-taking",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/needle/routesm.html",
+      "destination": "/library/harm-reduction/routes-of-administration",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/needle/routesm.htm",
+      "destination": "/library/harm-reduction/routes-of-administration",
+      "permanent": true
+    },
+    {
+      "source": "/books/needle/routesm.html",
+      "destination": "/library/harm-reduction/routes-of-administration",
+      "permanent": true
+    },
+    {
+      "source": "/books/needle/routesm.htm",
+      "destination": "/library/harm-reduction/routes-of-administration",
+      "permanent": true
+    },
+    {
+      "source": "/The-health-and-socio-economic-aspects-of-Khat-use/khat-consumption-and-problems-in-somalia.html",
+      "destination": "/library/khat/consumption-and-problems-in-somalia",
+      "permanent": true
+    },
+    {
+      "source": "/The-health-and-socio-economic-aspects-of-Khat-use/khat-consumption-and-problems-in-somalia.htm",
+      "destination": "/library/khat/consumption-and-problems-in-somalia",
+      "permanent": true
+    },
+    {
+      "source": "/The-health-and-socio-economic-aspects-of-Khat-use/khat-consumption-and-problems-in-somalia/Print.html",
+      "destination": "/library/khat/consumption-and-problems-in-somalia",
+      "permanent": true
+    },
+    {
+      "source": "/the-health-and-socio-economic-aspects-of-khat-use/khat-consumption-and-problems-in-somalia.html",
+      "destination": "/library/khat/consumption-and-problems-in-somalia",
+      "permanent": true
+    },
+    {
+      "source": "/the-health-and-socio-economic-aspects-of-khat-use/khat-consumption-and-problems-in-somalia.htm",
+      "destination": "/library/khat/consumption-and-problems-in-somalia",
+      "permanent": true
+    },
+    {
+      "source": "/the-health-and-socio-economic-aspects-of-khat-use/khat-consumption-and-problems-in-somalia/print.html",
+      "destination": "/library/khat/consumption-and-problems-in-somalia",
+      "permanent": true
+    },
+    {
+      "source": "/pdf/The-health-and-socio-economic-aspects-of-Khat-use/khat-consumption-and-problems-in-somalia.pdf",
+      "destination": "/library/khat/consumption-and-problems-in-somalia",
+      "permanent": true
+    },
+    {
+      "source": "/The-Addict-and-the-Law/chapter-4-the-number-of-addicts-and-recruitment-patterns.html",
+      "destination": "/library/addiction/the-addict-and-the-law/number-of-addicts-and-recruitment-patterns",
+      "permanent": true
+    },
+    {
+      "source": "/The-Addict-and-the-Law/chapter-4-the-number-of-addicts-and-recruitment-patterns.htm",
+      "destination": "/library/addiction/the-addict-and-the-law/number-of-addicts-and-recruitment-patterns",
+      "permanent": true
+    },
+    {
+      "source": "/The-Addict-and-the-Law/chapter-4-the-number-of-addicts-and-recruitment-patternsPrint.html",
+      "destination": "/library/addiction/the-addict-and-the-law/number-of-addicts-and-recruitment-patterns",
+      "permanent": true
+    },
+    {
+      "source": "/the-addict-and-the-law/chapter-4-the-number-of-addicts-and-recruitment-patterns.html",
+      "destination": "/library/addiction/the-addict-and-the-law/number-of-addicts-and-recruitment-patterns",
+      "permanent": true
+    },
+    {
+      "source": "/the-addict-and-the-law/chapter-4-the-number-of-addicts-and-recruitment-patterns.htm",
+      "destination": "/library/addiction/the-addict-and-the-law/number-of-addicts-and-recruitment-patterns",
+      "permanent": true
+    },
+    {
+      "source": "/reports/wvc/drugnota/s12.htm",
+      "destination": "/library/policy/nederlandse-drugbeleid-stand-van-zaken-en-evaluatie",
+      "permanent": true
+    },
+    {
+      "source": "/reports/wvc/drugnota/s12.html",
+      "destination": "/library/policy/nederlandse-drugbeleid-stand-van-zaken-en-evaluatie",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/wvc/drugnota/2/s12.htm",
+      "destination": "/library/policy/nederlandse-drugbeleid-stand-van-zaken-en-evaluatie",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/wvc/drugnota/2/s12.html",
+      "destination": "/library/policy/nederlandse-drugbeleid-stand-van-zaken-en-evaluatie",
+      "permanent": true
+    },
+    {
+      "source": "/reports/wvc/drugnota/2/s12.htm",
+      "destination": "/library/policy/nederlandse-drugbeleid-stand-van-zaken-en-evaluatie",
+      "permanent": true
+    },
+    {
+      "source": "/reports/wvc/drugnota/2/s12.html",
+      "destination": "/library/policy/nederlandse-drugbeleid-stand-van-zaken-en-evaluatie",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/wvc/drugnota/0/s12.htm",
+      "destination": "/library/policy/nederlandse-drugbeleid-stand-van-zaken-en-evaluatie",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/wvc/drugnota/0/s12.html",
+      "destination": "/library/policy/nederlandse-drugbeleid-stand-van-zaken-en-evaluatie",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/wvc/drugnota/3/s12.htm",
+      "destination": "/library/policy/nederlandse-drugbeleid-stand-van-zaken-en-evaluatie",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/wvc/drugnota/3/s12.html",
+      "destination": "/library/policy/nederlandse-drugbeleid-stand-van-zaken-en-evaluatie",
+      "permanent": true
+    },
+    {
+      "source": "/reports/wvc/drugnota/0/s12.htm",
+      "destination": "/library/policy/nederlandse-drugbeleid-stand-van-zaken-en-evaluatie",
+      "permanent": true
+    },
+    {
+      "source": "/reports/wvc/drugnota/0/s12.html",
+      "destination": "/library/policy/nederlandse-drugbeleid-stand-van-zaken-en-evaluatie",
+      "permanent": true
+    },
+    {
+      "source": "/reports/wvc/drugnota/3/s12.htm",
+      "destination": "/library/policy/nederlandse-drugbeleid-stand-van-zaken-en-evaluatie",
+      "permanent": true
+    },
+    {
+      "source": "/reports/wvc/drugnota/3/s12.html",
+      "destination": "/library/policy/nederlandse-drugbeleid-stand-van-zaken-en-evaluatie",
+      "permanent": true
+    },
+    {
+      "source": "/reports/wvc/drugnota/4/s53.htm",
+      "destination": "/library/policy/politica-holandesa-de-la-droga-criminalidad-organizada",
+      "permanent": true
+    },
+    {
+      "source": "/reports/wvc/drugnota/4/s53.html",
+      "destination": "/library/policy/politica-holandesa-de-la-droga-criminalidad-organizada",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/wvc/drugnota/4/s53.htm",
+      "destination": "/library/policy/politica-holandesa-de-la-droga-criminalidad-organizada",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/wvc/drugnota/4/s53.html",
+      "destination": "/library/policy/politica-holandesa-de-la-droga-criminalidad-organizada",
+      "permanent": true
     }
   ]
 }
