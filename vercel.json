@@ -3482,6 +3482,251 @@
       "source": "/books/recreationaldrugs/heroin.html",
       "destination": "/library/heroin/recreational-drugs",
       "permanent": true
+    },
+    {
+      "source": "/library/reports/ledain/nonmed2e.htm",
+      "destination": "/reports/le-dain-commission/lsd",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/ledain/nonmed2e.html",
+      "destination": "/reports/le-dain-commission/lsd",
+      "permanent": true
+    },
+    {
+      "source": "/reports/ledain/nonmed2e.htm",
+      "destination": "/reports/le-dain-commission/lsd",
+      "permanent": true
+    },
+    {
+      "source": "/reports/ledain/nonmed2e.html",
+      "destination": "/reports/le-dain-commission/lsd",
+      "permanent": true
+    },
+    {
+      "source": "/reports/nylawyer/iic.htm",
+      "destination": "/library/policy/a-wiser-course-ending-drug-prohibition/erosion-of-law-and-civil-liberties",
+      "permanent": true
+    },
+    {
+      "source": "/reports/nylawyer/iic.html",
+      "destination": "/library/policy/a-wiser-course-ending-drug-prohibition/erosion-of-law-and-civil-liberties",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/nylawyer/iic.htm",
+      "destination": "/library/policy/a-wiser-course-ending-drug-prohibition/erosion-of-law-and-civil-liberties",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/nylawyer/iic.html",
+      "destination": "/library/policy/a-wiser-course-ending-drug-prohibition/erosion-of-law-and-civil-liberties",
+      "permanent": true
+    },
+    {
+      "source": "/articles/691-methadone-maintenance-and-harm-reduction-in-northern-thailand.html",
+      "destination": "/library/methadone/methadone-maintenance-harm-reduction-northern-thailand",
+      "permanent": true
+    },
+    {
+      "source": "/articles/691-methadone-maintenance-and-harm-reduction-in-northern-thailand.htm",
+      "destination": "/library/methadone/methadone-maintenance-harm-reduction-northern-thailand",
+      "permanent": true
+    },
+    {
+      "source": "/Opiates-heroin-methadone/methadone-maintenance-and-harm-reduction-in-northern-thailand.html",
+      "destination": "/library/methadone/methadone-maintenance-harm-reduction-northern-thailand",
+      "permanent": true
+    },
+    {
+      "source": "/Opiates-heroin-methadone/methadone-maintenance-and-harm-reduction-in-northern-thailand.htm",
+      "destination": "/library/methadone/methadone-maintenance-harm-reduction-northern-thailand",
+      "permanent": true
+    },
+    {
+      "source": "/Opiates-heroin-methadone/methadone-maintenance-and-harm-reduction-in-northern-thailand/Print.html",
+      "destination": "/library/methadone/methadone-maintenance-harm-reduction-northern-thailand",
+      "permanent": true
+    },
+    {
+      "source": "/library/Opiates-heroin-methadone/methadone-maintenance-and-harm-reduction-in-northern-thailand.html",
+      "destination": "/library/methadone/methadone-maintenance-harm-reduction-northern-thailand",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/691-methadone-maintenance-and-harm-reduction-in-northern-thailand.html",
+      "destination": "/library/methadone/methadone-maintenance-harm-reduction-northern-thailand",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/methadone",
+      "destination": "/library/methadone/methadone-briefing",
+      "permanent": true
+    },
+    {
+      "source": "/books/methadone",
+      "destination": "/library/methadone/methadone-briefing",
+      "permanent": true
+    },
+    {
+      "source": "/WHO-Project-on-Health-Implications-of-Cannabis-Use/table-1.html",
+      "destination": "/reports/who-cannabis-health-implications/table-1",
+      "permanent": true
+    },
+    {
+      "source": "/WHO-Project-on-Health-Implications-of-Cannabis-Use/table-1.htm",
+      "destination": "/reports/who-cannabis-health-implications/table-1",
+      "permanent": true
+    },
+    {
+      "source": "/WHO-Project-on-Health-Implications-of-Cannabis-Use/table-1/Print.html",
+      "destination": "/reports/who-cannabis-health-implications/table-1",
+      "permanent": true
+    },
+    {
+      "source": "/Table/WHO-Project-on-Health-Implications-of-Cannabis-Use/",
+      "destination": "/reports/who-cannabis-health-implications",
+      "permanent": true
+    },
+    {
+      "source": "/Cannabis-and-Culture/sociocultural-and-epidemiological-aspects-of-hashish-use-in-greece/Print.html",
+      "destination": "/library/cannabis/cannabis-and-culture/hashish-use-in-greece",
+      "permanent": true
+    },
+    {
+      "source": "/Cannabis-and-Culture/sociocultural-and-epidemiological-aspects-of-hashish-use-in-greece.html",
+      "destination": "/library/cannabis/cannabis-and-culture/hashish-use-in-greece",
+      "permanent": true
+    },
+    {
+      "source": "/Cannabis-and-Culture/sociocultural-and-epidemiological-aspects-of-hashish-use-in-greece.htm",
+      "destination": "/library/cannabis/cannabis-and-culture/hashish-use-in-greece",
+      "permanent": true
+    },
+    {
+      "source": "/Marihuana/2-hashish-and-the-arabs.html",
+      "destination": "/library/cannabis/marihuana-the-first-12000-years/hashish-and-the-arabs",
+      "permanent": true
+    },
+    {
+      "source": "/Marihuana/2-hashish-and-the-arabs.htm",
+      "destination": "/library/cannabis/marihuana-the-first-12000-years/hashish-and-the-arabs",
+      "permanent": true
+    },
+    {
+      "source": "/Marihuana/2-hashish-and-the-arabs/Print.html",
+      "destination": "/library/cannabis/marihuana-the-first-12000-years/hashish-and-the-arabs",
+      "permanent": true
+    },
+    {
+      "source": "/marihuana/2-hashish-and-the-arabs.html",
+      "destination": "/library/cannabis/marihuana-the-first-12000-years/hashish-and-the-arabs",
+      "permanent": true
+    },
+    {
+      "source": "/marihuana/2-hashish-and-the-arabs.htm",
+      "destination": "/library/cannabis/marihuana-the-first-12000-years/hashish-and-the-arabs",
+      "permanent": true
+    },
+    {
+      "source": "/marihuana/2-hashish-and-the-arabs/print.html",
+      "destination": "/library/cannabis/marihuana-the-first-12000-years/hashish-and-the-arabs",
+      "permanent": true
+    },
+    {
+      "source": "/FAMM/links.html",
+      "destination": "/library",
+      "permanent": true
+    },
+    {
+      "source": "/FAMM/links.htm",
+      "destination": "/library",
+      "permanent": true
+    },
+    {
+      "source": "/portland/pdxnorml/links.html",
+      "destination": "/library",
+      "permanent": true
+    },
+    {
+      "source": "/portland/pdxnorml/links.htm",
+      "destination": "/library",
+      "permanent": true
+    },
+    {
+      "source": "/Addiction/addiction-brain-mechanisms-and-their-treatment-implications.htm",
+      "destination": "/library/addiction/addiction-brain-mechanisms-treatment-implications",
+      "permanent": true
+    },
+    {
+      "source": "/Addiction/addiction-brain-mechanisms-and-their-treatment-implications/Print.html",
+      "destination": "/library/addiction/addiction-brain-mechanisms-treatment-implications",
+      "permanent": true
+    },
+    {
+      "source": "/addiction/addiction-brain-mechanisms-and-their-treatment-implications.html",
+      "destination": "/library/addiction/addiction-brain-mechanisms-treatment-implications",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/tops/chapter11.htm",
+      "destination": "/library/policy/dutch-swedish-drug-policy/chapter-11-epilogue",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/tops/chapter11.html",
+      "destination": "/library/policy/dutch-swedish-drug-policy/chapter-11-epilogue",
+      "permanent": true
+    },
+    {
+      "source": "/books/tops/chapter11.htm",
+      "destination": "/library/policy/dutch-swedish-drug-policy/chapter-11-epilogue",
+      "permanent": true
+    },
+    {
+      "source": "/books/tops/chapter11.html",
+      "destination": "/library/policy/dutch-swedish-drug-policy/chapter-11-epilogue",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/tops/chapter11Print.html",
+      "destination": "/library/policy/dutch-swedish-drug-policy/chapter-11-epilogue",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/tops/chapter11print.html",
+      "destination": "/library/policy/dutch-swedish-drug-policy/chapter-11-epilogue",
+      "permanent": true
+    },
+    {
+      "source": "/books/adopiates/chapter11.htm",
+      "destination": "/library/policy/dutch-swedish-drug-policy/chapter-11-epilogue",
+      "permanent": true
+    },
+    {
+      "source": "/books/adopiates/chapter11.html",
+      "destination": "/library/policy/dutch-swedish-drug-policy/chapter-11-epilogue",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/adopiates/chapter11.htm",
+      "destination": "/library/policy/dutch-swedish-drug-policy/chapter-11-epilogue",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/adopiates/chapter11.html",
+      "destination": "/library/policy/dutch-swedish-drug-policy/chapter-11-epilogue",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/adopiates/chapter11Print.html",
+      "destination": "/library/policy/dutch-swedish-drug-policy/chapter-11-epilogue",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/adopiates/chapter11print.html",
+      "destination": "/library/policy/dutch-swedish-drug-policy/chapter-11-epilogue",
+      "permanent": true
     }
   ]
 }
