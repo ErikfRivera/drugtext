@@ -4904,8 +4904,218 @@
       "permanent": true
     },
     {
+      "source": "/sub/opiat2.html.",
+      "destination": "/library/heroin",
+      "permanent": true
+    },
+    {
+      "source": "/sub/nervous2",
+      "destination": "/library/harm-reduction",
+      "permanent": true
+    },
+    {
+      "source": "/reports/fada/fada1.htm",
+      "destination": "/reports",
+      "permanent": true
+    },
+    {
+      "source": "/reports/wootton/soma1.htm",
+      "destination": "/library/cannabis",
+      "permanent": true
+    },
+    {
+      "source": "/library/legal/treat/1971commentary",
+      "destination": "/reports",
+      "permanent": true
+    },
+    {
+      "source": "/reports/aus/cannabis.htm",
+      "destination": "/library/cannabis",
+      "permanent": true
+    },
+    {
+      "source": "/reports/dac/dacmenu.htm",
+      "destination": "/reports",
+      "permanent": true
+    },
+    {
+      "source": "/reports/swisscan",
+      "destination": "/reports",
+      "permanent": true
+    },
+    {
+      "source": "/sub/parents/survivors%20guide.htm",
+      "destination": "/library",
+      "permanent": true
+    },
+    {
+      "source": "/New-York-County-Lawyers-Association/:path*",
+      "destination": "/library/policy",
+      "permanent": true
+    },
+    {
+      "source": "/Marijuana-Medical-Papers-1839-1972/:path*",
+      "destination": "/library/cannabis",
+      "permanent": true
+    },
+    {
+      "source": "/Psychedelic-Drugs-Reconsidered/:path*",
+      "destination": "/library/psychedelics",
+      "permanent": true
+    },
+    {
+      "source": "/Drugs-and-Minority-Oppression/:path*",
+      "destination": "/library/policy",
+      "permanent": true
+    },
+    {
+      "source": "/Cannabis-in-Medical-Practice/:path*",
+      "destination": "/library/cannabis",
+      "permanent": true
+    },
+    {
       "source": "/component/option,com_mailto/:rest*",
       "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/opiumpeople/:path*",
+      "destination": "/library/heroin",
+      "permanent": true
+    },
+    {
+      "source": "/The-Marihuana-Conviction/:path*",
+      "destination": "/reports",
+      "permanent": true
+    },
+    {
+      "source": "/Kerner-Commission-Report/:path*",
+      "destination": "/reports",
+      "permanent": true
+    },
+    {
+      "source": "/The-Gentlemen-s-Club/:path*",
+      "destination": "/library/cannabis",
+      "permanent": true
+    },
+    {
+      "source": "/Cannabis-and-Culture/:path*",
+      "destination": "/library/cannabis",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/McCoy/:path*",
+      "destination": "/library/heroin",
+      "permanent": true
+    },
+    {
+      "source": "/library/druglibrary/:path*",
+      "destination": "/library/cannabis",
+      "permanent": true
+    },
+    {
+      "source": "/Society-and-Drugs/:path*",
+      "destination": "/library",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/:path*",
+      "destination": "/library",
+      "permanent": true
+    },
+    {
+      "source": "/library/research/:path*",
+      "destination": "/library/cannabis",
+      "permanent": true
+    },
+    {
+      "source": "/The-Psychedelics/:path*",
+      "destination": "/library/psychedelics",
+      "permanent": true
+    },
+    {
+      "source": "/library/specials/:path*",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/Various-general/:path*",
+      "destination": "/library/policy",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/:path*",
+      "destination": "/reports",
+      "permanent": true
+    },
+    {
+      "source": "/Cannabis-Reader/:path*",
+      "destination": "/library/cannabis",
+      "permanent": true
+    },
+    {
+      "source": "/marijuananews/:path*",
+      "destination": "/library/cannabis",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/:path*",
+      "destination": "/library",
+      "permanent": true
+    },
+    {
+      "source": "/Gender-issues/:path*",
+      "destination": "/library/policy",
+      "permanent": true
+    },
+    {
+      "source": "/psychedelics/:path*",
+      "destination": "/library/psychedelics",
+      "permanent": true
+    },
+    {
+      "source": "/druglibrary/:path*",
+      "destination": "/library/psychedelics",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/:path*",
+      "destination": "/library/policy",
+      "permanent": true
+    },
+    {
+      "source": "/Addiction/:path*",
+      "destination": "/library/addiction",
+      "permanent": true
+    },
+    {
+      "source": "/articles/:path*",
+      "destination": "/library",
+      "permanent": true
+    },
+    {
+      "source": "/Table/:path*",
+      "destination": "/reports",
+      "permanent": true
+    },
+    {
+      "source": "/press/:path*",
+      "destination": "/library/policy",
+      "permanent": true
+    },
+    {
+      "source": "/Dance/:path*",
+      "destination": "/library/mdma",
+      "permanent": true
+    },
+    {
+      "source": "/count/:path*",
+      "destination": "/reports",
+      "permanent": true
+    },
+    {
+      "source": "/pdf/:path*",
+      "destination": "/library",
       "permanent": true
     }
   ]
