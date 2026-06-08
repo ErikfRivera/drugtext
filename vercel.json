@@ -4912,6 +4912,246 @@
       "source": "/count/portugal/psphiv01.htm",
       "destination": "/library/harm-reduction/portugal-hiv-and-injecting-drug-use",
       "permanent": true
+    },
+    {
+      "source": "/articles/923202.htm",
+      "destination": "/library/policy/emerging-drug-problems-in-hungary",
+      "permanent": true
+    },
+    {
+      "source": "/articles/923202.html",
+      "destination": "/library/policy/emerging-drug-problems-in-hungary",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/923202.htm",
+      "destination": "/library/policy/emerging-drug-problems-in-hungary",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/923202.html",
+      "destination": "/library/policy/emerging-drug-problems-in-hungary",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/chomsky1.html",
+      "destination": "/library/policy/how-free-is-the-free-market",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/chomsky1.htm",
+      "destination": "/library/policy/how-free-is-the-free-market",
+      "permanent": true
+    },
+    {
+      "source": "/articles/chomsky1.html",
+      "destination": "/library/policy/how-free-is-the-free-market",
+      "permanent": true
+    },
+    {
+      "source": "/articles/chomsky1.htm",
+      "destination": "/library/policy/how-free-is-the-free-market",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/chomsky1Print.html",
+      "destination": "/library/policy/how-free-is-the-free-market",
+      "permanent": true
+    },
+    {
+      "source": "/sub/alcohol.html",
+      "destination": "/library/alcohol/overview",
+      "permanent": true
+    },
+    {
+      "source": "/sub/alcohol.htm",
+      "destination": "/library/alcohol/overview",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/ericks7.htm",
+      "destination": "/library/cannabis/living-with-prohibition",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/ericks7.html",
+      "destination": "/library/cannabis/living-with-prohibition",
+      "permanent": true
+    },
+    {
+      "source": "/articles/ericks7.htm",
+      "destination": "/library/cannabis/living-with-prohibition",
+      "permanent": true
+    },
+    {
+      "source": "/articles/ericks7.html",
+      "destination": "/library/cannabis/living-with-prohibition",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/kafkalides02/default.htm",
+      "destination": "/library/psychedelics/power-of-the-womb-subjective-truth",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/kafkalides02/default.html",
+      "destination": "/library/psychedelics/power-of-the-womb-subjective-truth",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/kafkalides02/",
+      "destination": "/library/psychedelics/power-of-the-womb-subjective-truth",
+      "permanent": true
+    },
+    {
+      "source": "/books/kafkalides02/default.htm",
+      "destination": "/library/psychedelics/power-of-the-womb-subjective-truth",
+      "permanent": true
+    },
+    {
+      "source": "/books/kafkalides02/default.html",
+      "destination": "/library/psychedelics/power-of-the-womb-subjective-truth",
+      "permanent": true
+    },
+    {
+      "source": "/books/kafkalides02/",
+      "destination": "/library/psychedelics/power-of-the-womb-subjective-truth",
+      "permanent": true
+    },
+    {
+      "source": "/articles/lancet2.html",
+      "destination": "/library/cannabis/deglamorising-cannabis-lancet-1998",
+      "permanent": true
+    },
+    {
+      "source": "/articles/lancet2.htm",
+      "destination": "/library/cannabis/deglamorising-cannabis-lancet-1998",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/lancet2.html",
+      "destination": "/library/cannabis/deglamorising-cannabis-lancet-1998",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/lancet2.htm",
+      "destination": "/library/cannabis/deglamorising-cannabis-lancet-1998",
+      "permanent": true
+    },
+    {
+      "source": "/articles/96733.htm",
+      "destination": "/library/policy/drug-education-politics-propaganda-and-censorship",
+      "permanent": true
+    },
+    {
+      "source": "/articles/96733.html",
+      "destination": "/library/policy/drug-education-politics-propaganda-and-censorship",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/96733.htm",
+      "destination": "/library/policy/drug-education-politics-propaganda-and-censorship",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/96733.html",
+      "destination": "/library/policy/drug-education-politics-propaganda-and-censorship",
+      "permanent": true
+    },
+    {
+      "source": "/ihrc/paris/proceedings/barnard.htm",
+      "destination": "/library/harm-reduction/music-and-drug-use-scottish-schoolchildren",
+      "permanent": true
+    },
+    {
+      "source": "/ihrc/paris/proceedings/barnard.html",
+      "destination": "/library/harm-reduction/music-and-drug-use-scottish-schoolchildren",
+      "permanent": true
+    },
+    {
+      "source": "/articles/Barnard.html",
+      "destination": "/library/harm-reduction/music-and-drug-use-scottish-schoolchildren",
+      "permanent": true
+    },
+    {
+      "source": "/articles/barnard.html",
+      "destination": "/library/harm-reduction/music-and-drug-use-scottish-schoolchildren",
+      "permanent": true
+    },
+    {
+      "source": "/articles/Barnard.htm",
+      "destination": "/library/harm-reduction/music-and-drug-use-scottish-schoolchildren",
+      "permanent": true
+    },
+    {
+      "source": "/articles/barnard.htm",
+      "destination": "/library/harm-reduction/music-and-drug-use-scottish-schoolchildren",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/msg1.html",
+      "destination": "/library/policy/message-on-the-war-on-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/articles/msg1.html",
+      "destination": "/library/policy/message-on-the-war-on-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/msg1.htm",
+      "destination": "/library/policy/message-on-the-war-on-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/articles/msg1.htm",
+      "destination": "/library/policy/message-on-the-war-on-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/articles/3781-acute-and-chronic-toxicity-of-marijuana.html",
+      "destination": "/library/cannabis/acute-and-chronic-toxicity-of-marijuana",
+      "permanent": true
+    },
+    {
+      "source": "/articles/3781-acute-and-chronic-toxicity-of-marijuana.htm",
+      "destination": "/library/cannabis/acute-and-chronic-toxicity-of-marijuana",
+      "permanent": true
+    },
+    {
+      "source": "/Cannabis-marijuana-hashisch/acute-and-chronic-toxicity-of-marijuana.html",
+      "destination": "/library/cannabis/acute-and-chronic-toxicity-of-marijuana",
+      "permanent": true
+    },
+    {
+      "source": "/Cannabis-marijuana-hashisch/acute-and-chronic-toxicity-of-marijuana.htm",
+      "destination": "/library/cannabis/acute-and-chronic-toxicity-of-marijuana",
+      "permanent": true
+    },
+    {
+      "source": "/Cannabis-marijuana-hashisch/acute-and-chronic-toxicity-of-marijuana/Print.html",
+      "destination": "/library/cannabis/acute-and-chronic-toxicity-of-marijuana",
+      "permanent": true
+    },
+    {
+      "source": "/library/Cannabis-marijuana-hashisch/acute-and-chronic-toxicity-of-marijuana.html",
+      "destination": "/library/cannabis/acute-and-chronic-toxicity-of-marijuana",
+      "permanent": true
+    },
+    {
+      "source": "/library/Cannabis-marijuana-hashisch/acute-and-chronic-toxicity-of-marijuana.htm",
+      "destination": "/library/cannabis/acute-and-chronic-toxicity-of-marijuana",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/3781-acute-and-chronic-toxicity-of-marijuana.html",
+      "destination": "/library/cannabis/acute-and-chronic-toxicity-of-marijuana",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/3781-acute-and-chronic-toxicity-of-marijuana.htm",
+      "destination": "/library/cannabis/acute-and-chronic-toxicity-of-marijuana",
+      "permanent": true
     }
   ]
 }
