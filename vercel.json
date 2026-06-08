@@ -9692,6 +9692,256 @@
       "source": "/recreational-drugs/thc.htm",
       "destination": "/library/cannabis/thc",
       "permanent": true
+    },
+    {
+      "source": "/Dealing-with-Drugs/9-the-morality-of-drug-controls/Print.html",
+      "destination": "/library/policy/dealing-with-drugs/morality-of-drug-controls",
+      "permanent": true
+    },
+    {
+      "source": "/Dealing-with-Drugs/9-the-morality-of-drug-controls.html",
+      "destination": "/library/policy/dealing-with-drugs/morality-of-drug-controls",
+      "permanent": true
+    },
+    {
+      "source": "/Dealing-with-Drugs/9-the-morality-of-drug-controls.htm",
+      "destination": "/library/policy/dealing-with-drugs/morality-of-drug-controls",
+      "permanent": true
+    },
+    {
+      "source": "/dealing-with-drugs/9-the-morality-of-drug-controls.html",
+      "destination": "/library/policy/dealing-with-drugs/morality-of-drug-controls",
+      "permanent": true
+    },
+    {
+      "source": "/dealing-with-drugs/9-the-morality-of-drug-controls.htm",
+      "destination": "/library/policy/dealing-with-drugs/morality-of-drug-controls",
+      "permanent": true
+    },
+    {
+      "source": "/dealing-with-drugs/9-the-morality-of-drug-controls/print.html",
+      "destination": "/library/policy/dealing-with-drugs/morality-of-drug-controls",
+      "permanent": true
+    },
+    {
+      "source": "/The-American-Disease/9-marihuana-and-the-federal-bureau-of-narcotics.html",
+      "destination": "/library/policy/the-american-disease/marihuana-and-the-federal-bureau-of-narcotics",
+      "permanent": true
+    },
+    {
+      "source": "/The-American-Disease/9-marihuana-and-the-federal-bureau-of-narcotics.htm",
+      "destination": "/library/policy/the-american-disease/marihuana-and-the-federal-bureau-of-narcotics",
+      "permanent": true
+    },
+    {
+      "source": "/The-American-Disease/9-marihuana-and-the-federal-bureau-of-narcotics/Print.html",
+      "destination": "/library/policy/the-american-disease/marihuana-and-the-federal-bureau-of-narcotics",
+      "permanent": true
+    },
+    {
+      "source": "/the-american-disease/9-marihuana-and-the-federal-bureau-of-narcotics.html",
+      "destination": "/library/policy/the-american-disease/marihuana-and-the-federal-bureau-of-narcotics",
+      "permanent": true
+    },
+    {
+      "source": "/articles/101a.html",
+      "destination": "/library/policy/informers-and-the-police",
+      "permanent": true
+    },
+    {
+      "source": "/articles/101a.htm",
+      "destination": "/library/policy/informers-and-the-police",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/101a.html",
+      "destination": "/library/policy/informers-and-the-police",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/101a.htm",
+      "destination": "/library/policy/informers-and-the-police",
+      "permanent": true
+    },
+    {
+      "source": "/books/McCoy/book/11.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/marseille-americas-heroin-laboratory",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/McCoy/book/11.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/marseille-americas-heroin-laboratory",
+      "permanent": true
+    },
+    {
+      "source": "/books/mccoy/book/11.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/marseille-americas-heroin-laboratory",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/mccoy/book/11.htm",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/marseille-americas-heroin-laboratory",
+      "permanent": true
+    },
+    {
+      "source": "/books/McCoy/book/11.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/marseille-americas-heroin-laboratory",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/McCoy/book/11.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/marseille-americas-heroin-laboratory",
+      "permanent": true
+    },
+    {
+      "source": "/books/McCoy/book/Print11.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/marseille-americas-heroin-laboratory",
+      "permanent": true
+    },
+    {
+      "source": "/library/books/McCoy/book/Print11.html",
+      "destination": "/library/heroin/politics-of-heroin-southeast-asia/marseille-americas-heroin-laboratory",
+      "permanent": true
+    },
+    {
+      "source": "/press/cannabis-issue-medical-cannabis-industry-thrives-even-as-the-economy-and-legalization-movement-sputter.html",
+      "destination": "/library/cannabis/medical-cannabis-industry-thrives",
+      "permanent": true
+    },
+    {
+      "source": "/press/cannabis-issue-medical-cannabis-industry-thrives-even-as-the-economy-and-legalization-movement-sputter.htm",
+      "destination": "/library/cannabis/medical-cannabis-industry-thrives",
+      "permanent": true
+    },
+    {
+      "source": "/press/cannabis-issue-medical-cannabis-industry-thrives-even-as-the-economy-and-legalization-movement-sputter/Print.html",
+      "destination": "/library/cannabis/medical-cannabis-industry-thrives",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/maloff1.htm",
+      "destination": "/library/policy/informal-social-controls",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/maloff1.html",
+      "destination": "/library/policy/informal-social-controls",
+      "permanent": true
+    },
+    {
+      "source": "/articles/maloff1.htm",
+      "destination": "/library/policy/informal-social-controls",
+      "permanent": true
+    },
+    {
+      "source": "/articles/maloff1.html",
+      "destination": "/library/policy/informal-social-controls",
+      "permanent": true
+    },
+    {
+      "source": "/articles/98911.htm",
+      "destination": "/library/policy/routine-activities-and-drug-trafficking",
+      "permanent": true
+    },
+    {
+      "source": "/articles/98911.html",
+      "destination": "/library/policy/routine-activities-and-drug-trafficking",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/98911.htm",
+      "destination": "/library/policy/routine-activities-and-drug-trafficking",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/98911.html",
+      "destination": "/library/policy/routine-activities-and-drug-trafficking",
+      "permanent": true
+    },
+    {
+      "source": "/Table/Dealing-with-Drugs/",
+      "destination": "/library/policy/dealing-with-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/Table/Dealing-with-Drugs",
+      "destination": "/library/policy/dealing-with-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/table/dealing-with-drugs/",
+      "destination": "/library/policy/dealing-with-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/table/dealing-with-drugs",
+      "destination": "/library/policy/dealing-with-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/Table/Dealing-with-Drugs/Page-2.html",
+      "destination": "/library/policy/dealing-with-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/table/dealing-with-drugs/page-2.html",
+      "destination": "/library/policy/dealing-with-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/mattick01.htm",
+      "destination": "/library/addiction/are-detoxification-programmes-effective",
+      "permanent": true
+    },
+    {
+      "source": "/library/articles/mattick01.html",
+      "destination": "/library/addiction/are-detoxification-programmes-effective",
+      "permanent": true
+    },
+    {
+      "source": "/articles/mattick01.htm",
+      "destination": "/library/addiction/are-detoxification-programmes-effective",
+      "permanent": true
+    },
+    {
+      "source": "/articles/mattick01.html",
+      "destination": "/library/addiction/are-detoxification-programmes-effective",
+      "permanent": true
+    },
+    {
+      "source": "/index.php",
+      "destination": "/library/policy/decriminalization-of-drug-use-in-portugal",
+      "permanent": true
+    },
+    {
+      "source": "/articles/index.php",
+      "destination": "/library/policy/decriminalization-of-drug-use-in-portugal",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/cu/cumenu.htm",
+      "destination": "/reports/consumers-union-licit-illicit-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/cu/cumenu.html",
+      "destination": "/reports/consumers-union-licit-illicit-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/reports/cu/cumenu.htm",
+      "destination": "/reports/consumers-union-licit-illicit-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/reports/cu/cumenu.html",
+      "destination": "/reports/consumers-union-licit-illicit-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/library/reports/cu/",
+      "destination": "/reports/consumers-union-licit-illicit-drugs",
+      "permanent": true
     }
   ]
 }
