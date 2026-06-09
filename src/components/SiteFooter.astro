@@ -32,7 +32,7 @@ const year = new Date().getFullYear();
     <div class="footer__cols">
       <div class="footer__brand">
         <Logo size={16} />
-        <p class="footer__tag">Dedicated to providing accurate, unbiased information about psychoactive substances to promote harm reduction and informed decision making.</p>
+        <p class="footer__tag">Dedicated to providing accurate, unbiased information about psychoactive substances to promote harm reduction and informed decision making. Powered by <a href="https://www.stronghealth.com" class="footer__tag-link">Strong Health</a>.</p>
       </div>
       {cols.map((c) => (
         <div class="footer__col">
@@ -73,6 +73,12 @@ const year = new Date().getFullYear();
     margin: 0;
     max-width: 260px;
   }
+  .footer__tag-link {
+    color: var(--dt-ink);
+    text-decoration: underline;
+    transition: color var(--dt-dur-fast) var(--dt-ease);
+  }
+  .footer__tag-link:hover { color: var(--dt-text-muted); }
   .footer__col { display: flex; flex-direction: column; gap: 12px; }
   .footer__col-title {
     font-family: var(--dt-font-mono);
