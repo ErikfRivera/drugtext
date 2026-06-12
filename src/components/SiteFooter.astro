@@ -24,6 +24,14 @@ const cols = [
       { label: 'Privacy Policy', href: '/privacy' },
     ],
   },
+  {
+    title: 'PARTNERS',
+    links: [
+      { label: 'Thrive Talk', href: 'https://www.thrivetalk.com' },
+      { label: 'Service Dogs', href: 'https://www.servicedogs.com' },
+      { label: 'Strong Health', href: 'https://www.stronghealth.com' },
+    ],
+  },
 ];
 const year = new Date().getFullYear();
 ---
@@ -61,7 +69,7 @@ const year = new Date().getFullYear();
   .footer__inner { padding-block: 56px 36px; }
   .footer__cols {
     display: grid;
-    grid-template-columns: 1.4fr 1fr 1fr 1fr;
+    grid-template-columns: 1.4fr 1fr 1fr 1fr 1fr;
     gap: 40px;
   }
   .footer__brand { display: flex; flex-direction: column; gap: 14px; }
